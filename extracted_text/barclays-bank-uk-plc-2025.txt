@@ -1,0 +1,1012 @@
+   
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+FINAL NOTICE 
+ 
+ 
+ 
+To: Barclays Bank UK PLC 
+ 
+Reference 
+Number: 759676 
+ 
+Address: 1 Churchill Place 
+ London 
+ E14 5HP 
+ 
+Date: 14 July 2025 
+ 
+ 
+1. ACTION 
+ 
+1.1. For the reasons given in this Final Notice, the Authority hereby imposes on 
+Barclays Bank UK PLC (“Barclays  UK”) a financial penalty of £ 3,093,600 
+pursuant to section 206 of the Act. 
+1.2. Barclays UK agreed to resolve this matter and qualified for a 30% (stage 1) 
+discount under the Authority’s executive settlement procedures. Were it not for 
+this discount, the Authority would have imposed a financial penalty of 
+£4,419,500 on Barclays UK. 
+1.3. Barclays UK has agreed to make a voluntary ex-gratia payment of £6,281,757 
+to be distributed amongst WealthTek LLP’s (“WealthTek”) clients pursuant to 
+the Distribution Plan of WealthTek’s Joint Special Administrators.   
+ 
+2. SUMMARY OF REASONS 
+ 
+2.1. Authorised firms must establish, implement and maintain adequate policies and 
+procedures sufficient to ensure that they comply with their obligations under 
+the regulatory system and for countering the risk that they might be used to 
+further financial crime. 
+2.2. In order to understand and manage money laundering risk, firms must ensure 
+that they apply appropriate customer due diligence. This requires firms to take 
+sufficient steps to understand their customer, the customer’s business and risk 
+   
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+profile, the purpose of the account, as well as ensuring there is no legal barrier 
+to providing the customer with the product or service requested. 
+2.3. Where a firm (such as Barclays UK) offers its customers client accounts, they 
+do so with the knowledge that the account will be used by their customer s to 
+hold funds that belong to third parties. If the firm fails to put in place suitably 
+robust policies and procedures in relation to the opening of client accounts, 
+there is an increased risk of misappropriation of client money and/or of money 
+laundering. This in turn poses an increased risk to the Authority’s market 
+integrity and consumer protection objectives. 
+2.4. WealthTek held a Business Account with Barclays from 23 June 2010, and the 
+Authority makes no findings in relation to  Barclays UK’s handling of this 
+account.   
+2.5. However, during the Relevant Period (1 January 2021 to 4 April 2023), Barclays 
+UK failed to ensure that it had gathered sufficient information in relation to 
+WealthTek and its Client Account. At the start of the Relevant Period , Barclays 
+UK’s policies and procedures did not require it to carry out any of the following 
+prior to opening the Client Account: 
+(a) gather information on the purpose of the Client Account;  
+(b) gather information on the types of clients whose funds would be held in the 
+Client Account;  
+(c) gather information on the likely levels of transactional activity for the Client 
+Account; or 
+(d) check the Financial Services Register to confirm whether WealthTek was 
+permitted by the Authority to hold client money. 
+2.6. Instead, at the time the Client Account was opened, the only specific check 
+undertaken by Barclays UK prior to opening the Client Account was to assess 
+whether its customer had been assigned one of Barclays UK’s own BIC Codes 
+which indicated it was pre -determined by Barclays UK to be eligible to open a 
+client account. 
+2.7. However, had Barclays UK checked the Financial Services Register, it would 
+have identified that the Authority had imposed a requirement on its Part 4A 
+authorisation preventing WealthTek from holding client money. 
+2.8. In circumstances where Barclays UK failed to undertake any of the steps at 
+paragraphs 2.5(a) to 2.5(d) above, it failed to ensure it had an appropriate 
+understanding of its FCA-authorised clients and the risks that could arise.  
+2.9. Barclays UK had identified shortcomings in its procedures applicable when 
+opening client accounts  in 2020 and had proactively reported these 
+shortcomings to the FCA.  It had developed new and more detailed procedures, 
+which were implemented for new client accounts in September 2021.  Barclays 
+also conducted a staged remediation programme which brought existing 
+accounts into line with the new procedures.  However, it was not until May 2022 
+   
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+that Barclays UK’s procedures required it to check the Financial Services 
+Register.   
+2.10. The remediation process for WealthTek began in July 2022, but it was not until 
+April 2023 that Barclays took the decision to close the Client Account, having 
+attempted over several months to obtain the information its policies now 
+required.  Barclays continued to improve its new procedures over time.  
+2.11. During the Relevant Period approximately £34 million was paid into 
+WealthTek’s Client Account. Throughout that time, Barclays UK was not 
+properly sighted on whether , or the extent to which , the  risks of the type 
+referred to in paragraph 2.3 above arose in relation to the Client Account. 
+2.12. In light of the matters summarised above, Barclays UK has breached Principle 
+3 of the Authority’s Principles for Businesses  and SYSC 6.1.1R  by failing to 
+organise and control its affairs responsibly and effectively in connection with 
+the opening of the Client Account. 
+2.13. While the Client Account is the  focus of the Authority’s attention,  the matters 
+set out in this notice are evidence of wider systemic failings in Barclays UK’s 
+approach to opening client money accounts.  
+2.14. The Authority hereby imposes a financial penalty on Barclays UK of £3,093,600 
+for its breach of Principle 3, which reflects the settlement discount of 30%. 
+Were it not for this discount, the Authority would have imposed a financial 
+penalty of £ 4,419,500. In determining the appropriate penalty, the Authority 
+has had regard to Barclays UK’s decision to make the ex -gratia payment 
+referred to at paragraph 1.3 above. 
+ 
+3. DEFINITIONS 
+3.1. The definitions below are used in this Notice: 
+“the 2017 Regulations” means The Money Laundering, Terrorist Financing 
+and Transfer of Funds (Information on the Payer) Regulations 2017; 
+“the Act” means the Financial Services and Markets Act 2000; 
+ 
+“AML” means anti-money laundering; 
+ 
+“the Authority” means the Financial Conduct Authority; 
+ 
+“Barclays UK” or “the Bank” means Barclays Bank UK PLC;  
+ 
+“Barclays Group” means the global financial services group of companies of 
+which Barclays Bank UK PLC is a member;  
+ 
+“the BBEST” means the Barclays UK Business Banking Expert Support Team; 
+ 
+“BIC Code” means Barclays UK Industry Classification Codes;  
+ 
+   
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+“the BTA Code ” means the Business Type Analysis Code used to categorise 
+Barclays’ Business Banking customers based on entity type. A BTA code takes 
+into account whether the customer is a UK or non -UK incorporated entity, 
+whether it is a financial or non -financial entity, and the structure of the entity 
+(i.e. limited company, partnership, etc.); 
+ 
+“Business Banking ” means the operational area of Barclays UK  with 
+responsibility for the management and oversight of the customers holding a 
+business bank account; 
+ 
+“CASS” means the Authority’s Client Assets Sourcebook, part of the Handbook; 
+ 
+“CDD” means customer due diligence, the measures a firm must take to 
+establish and verify the identity of its customers and the purpose and intended 
+nature of the business relationship;  
+ 
+“the Client Account” means the CPA opened by WealthTek;  
+ 
+“CLS” means Barclays’ Anti-Money Laundering Customer Lifecycle Standard, a 
+policy that establishes the manner in which Barclays identifies, evaluates, 
+responds to, monitors and reports AML risks across the lifecycle of its 
+relationship with customers; 
+ 
+“CPA” means client premium account. This is a client money account and is the 
+name of the account offered by Barclays UK to customers who have a need to 
+hold clients’ money; 
+ 
+“the CPA Guide ” means Barclays UK’s “Client Premium Account – Account 
+Opening BBEST E2E Procedure Guide”; 
+ 
+“the CPA Guide V6.2 ” means version 6.2 of the “Client Premium Account – 
+Account Opening BBEST E2E Procedure Guide” dated 9 May 2022 and 
+implemented from 16 May 2022; 
+ 
+“the CPA Project ” means Barclays  UK’s “Client’s [sic] Premium Accounts 
+Project” initiated to restore Business Banking’s compliance with the CLS; 
+ 
+“DEPP” means the Decision Procedure and Penalties Manual, part of the 
+Handbook;  
+ 
+“the FS Register” means the Authority’s Financial Services Register which is 
+a publicly available website which records relevant information about 
+authorised firms and approved persons including what they can and cannot do; 
+ 
+“Handbook” means the Authority’s handbook of rules and guidance; 
+ 
+“JMLSG” means the Joint Money Laundering Steering Group, a private sector 
+body made up of the leading UK trade associations in the financial services 
+industry;  
+ 
+   
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+“JMLSG Guidance” means the guidance issued by the JMLSG , and approved 
+by a Treasury Minister, on compliance with the legal requirements in the 2017 
+Regulations, regulatory requirements in the Authority’s Handbook and evolving 
+practice within the financial services industry. The JMLSG Guidance sets out 
+good practice for the UK financial services sector on the prevention of money 
+laundering and combatting terrorist financing;  
+ 
+“KYC” means know your customer;  
+“Pooled Client Account” means an account in which money belong ing to 
+several of a firm’s clients are held; 
+“the Principles” means the Authority’s Principles for Businesses  as set out in 
+the Handbook;  
+“the RAO ” means The Financial Services and Markets Act 2000 (Regulated 
+Activities) Order 2001; 
+“the Relationship Director” means the Relationship Director at Barclays UK 
+responsible for the relationship between the Bank and WealthTek;  
+“the Relevant Period” means the period 1 January 2021 to 4 April 2023;  
+“SYSC” means the Senior Management Arrangements, Systems and Controls 
+chapter of the Authority’s Handbook;  
+“the Tribunal” means the Upper Tribunal (Tax and Chancery Chamber); and 
+ 
+“WealthTek” means WealthTek LLP , a firm which held various permissions 
+under the Act and which entered into investment bank special administration 
+on 6 April 2023. 
+ 
+ 
+4. FACTS AND MATTERS 
+Barclays UK 
+4.1. Barclays UK is a member of the Barclays Group, a British banking and financial 
+services group headquartered in London and operating across 38 countries. It 
+has approximately 48 million customers worldwide, of which around 20 million 
+are in the UK . Barclays UK has been authorised by the Authority to provide 
+regulated products and services since 6 April 2017. 
+4.2. Barclays UK Business Banking offers a range of products and services  to its 
+business customers, including business banking accounts , savings accounts 
+and client money account s.  The latter accounts are known within Business 
+Banking as CPAs and are offered to customers when they have a need to hold 
+client money. 
+4.3. As at 25 January 2021, Barclays UK Business Banking had c.20,500 customers 
+who each held at least one CPA, with c.1,600 of these customers being 
+regulated by the Authority. 
+   
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+How the Authority manages firms’ permissions 
+4.4. To conduct a regulated activity, a firm requires authorisation from the Authority 
+and it must apply to the Authority for permissions under Part 4A of the Act to 
+carry out regulated activity.  The RAO sets out those activities and investments 
+which are regulated for the purposes of the Act.  
+4.5. Holding or controlling client money is not a regulated activity.  Holding client 
+money is ancillary to regulated activities which a firm is undertaking, as holding 
+client money can arise from those activities.  The Authority controls the holding 
+of client money by using requirements on a firm’s Part 4A permissions. 
+4.6. An applicant for a Part 4A permission that seeks to hold or control  client 
+money must demonstrate that it is ready, willing and organised to comply with 
+the relevant requirements in CASS.  
+4.7. If an applicant for Part 4A permission is not able to demonstrate to 
+the Authority that it should be permitted to hold or control client money or does 
+not wish to do so, its application for  Part 4A permission  may be granted, but 
+the Authority will impose a  requirement on the  permission to the effect that 
+the firm will not be able to hold, or control, client money. 
+4.8. The Authority’s FS Register lists all the firms (and individuals) that it has 
+authorised to carry on regulated activities.  The FS Register records firms’ Part 
+4A permissions and requirements the Authority has placed on their 
+permissions. 
+4.9. Such requirements and their inclusion on the Authority’s FS Register are an 
+important tool in furthering the Authority’s operational objective of protecting 
+consumers by ensuring that only those firms with the appropriate resources 
+can hold and are responsible for their clients’ money.   
+Legal and regulatory obligations  
+4.10. All authorised firms have legal and regulatory obligations to establish and 
+maintain appropriate and risk -sensitive policies and procedures in order to  
+minimise the risk of being used to further financial crime. These must include 
+systems and controls which enable a firm to identify, assess, monitor and 
+manage money laundering risk and which are comprehensive and proportionate 
+to the nature, scale and co mplexity of the firm’s activities. These obligations 
+have been set out in the Authority’s Handbook and the 2017 Regulations, 
+supported by the JMLSG Guidance together with statements from the 
+Authority.  
+4.11. The 2017 Regulations require that firms undertake CDD by gathering 
+documents, data or other information about their customers. This is in order to 
+identify and verify the identity of the customer or (in the case of corporate 
+entities, trusts and other arrangements) the customer’s ownership and control 
+structure, and to establish the purpose and intended nature of the business 
+relationship. Subject to certain exceptions, the circumstances in which firms 
+must apply CDD include when the business relationship is establ ished, when 
+   
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+money laundering is suspected, and when the firm doubts the veracity or 
+adequacy of documents, data or information previously obtained for the 
+purposes of identification or verification.   
+4.12. Firms are also required to apply CDD measures at appropriate times to existing 
+customers on a risk-sensitive basis under the 2017 Regulations.  
+4.13. In accordance with JMLSG Part 1, 5.1.13, firms need to carry out customer due 
+diligence, and monitoring to help the firm, at the time due diligence is carried 
+out, to be reasonably satisfied that customers are who they say they are, to 
+know whether they are acting on behalf of another, and that there is no legal 
+barrier (e.g. government sanctions) to providing them with the product or 
+service requested; and to enable the firm to assist law enforcement, by 
+providing available information on customers or activities being investigated. 
+4.14. The JMLSG Guidance (at Annex 5 -V) in relation to Pooled Client Accounts 
+indicated that such accounts are opened with a firm by a customer to 
+administer funds that belong to their own clients.  Two primary risk factors are 
+specified in relation to Pooled Client Accounts: (1) the customer’s clients misuse 
+the account for money laundering purposes without the knowledge of the 
+customer; and (2) the customer being complicit in using the account for money 
+laundering either willingly or under duress.   
+4.15. The JMLSG Guidance  (at Annex 5 -V) further states that firms should take 
+reasonable measures to establish and document the purpose of the Pooled 
+Client Account, indicating that firms may need to establish information such as: 
+the types of clients whose funds are in the account, the levels of assets 
+deposited and the size of transactions undertaken. 
+4.16. It was further indicated in the JMLSG Guidance (at Annex 5-V), that where a 
+firm considers the customer and its use of Pooled Client Accounts to represent 
+low risk of money laundering, it may apply simplified due diligence measures 
+on the pooled account.   
+4.17. Relevant extracts from the Authority’s Handbook, the 2017 Regulations and the 
+JMLSG Guidance are set out in Annex A to this Notice. 
+Barclays UK’s anti-money laundering framework 
+4.18. Barclays UK’s CLS establishes the manner in which Barclays UK identifies, 
+evaluates, responds to, monitors and reports AML risks across the lifecycle of 
+its relationship with customers.  It applies to the Barclays Group. 
+4.19. The CLS sets out the requirements in relation to client money accounts.  There 
+were no changes to the requirements during the Relevant Period. 
+4.20. The CLS specified that Business Banking must conduct risk -sensitive due 
+diligence on client money accounts and must establish the nature and purpose 
+of client money accounts including the “characteristics / type of the Customer’s 
+clients whose funds are held in the Client Account(s) ” and the “purpose for 
+which funds are held in the Client Account(s)”.  
+   
+ 
+ 
+8 
+ 
+ 
+ 
+ 
+4.21. The CLS does not specify that due diligence should also include ensuring there 
+was no legal barrier to providing the customer with the product or service 
+requested. 
+Barclays UK client money account opening procedures as at January 
+2021 
+4.22. Business Banking developed Account Opening Procedures in order to implement 
+the requirements of the Barclays Group -wide CLS into its business level 
+operations.  The Account Opening Procedures included information on the steps 
+to take when opening a client money account.  The Account Opening Procedures 
+require BBEST to take the following actions: 
+(a) “For client accounts, you must check that the BIC Code provided by the 
+submitter on the request matches that of the customers [sic] CIS record”.  
+(b) “You are also required to check that the BIC Code of the CIS record is listed 
+as one of the eligible BIC codes detailed on the ‘CPA Account Opening – 
+Eligible BIC codes’ list”. 
+4.23. “BIC Codes” refers to a list of “B arclays Industry Classification” Codes 
+developed by Barclays UK to identify when its customers were eligible to open 
+client money accounts. 
+4.24. This list of BIC Codes was produced by Barclays UK to categorise clients into 
+various industry sector s and includes a subset of codes which are 
+predetermined to be eligible to open a client money account due to the nature 
+of the business activity.  Only customers whose BIC Codes were on the list of 
+eligible BIC Codes were able to open client money accounts. 
+4.25. BIC Codes were determined by relationship directors following discussions with 
+the clients, and no specific documents or information was required from a 
+customer to determine the appropriate BIC Code. 
+4.26. There was no requirement to undertake any further CDD in relation to the 
+customer, for example in relation to: the types of clients whose funds were in 
+the Pooled Client Account; the levels of assets deposited; the size of 
+transactions undertaken; or whether there was any legal barrier to providing 
+the customer with the product or service requested.  
+4.27. Further, there was no requirement, in relation to regulated firms, to review the 
+Authority’s FS Register and assess whether a customer was permitted to hold 
+client money or whether the client was restricted from holding client money.   
+Deficiencies in CDD when opening WealthTek’s Client Account  
+4.28. In January 2021, Business Banking opened a Client Account for WealthTek in 
+circumstances where WealthTek was subject to a requirement that it could 
+control but not hold client money. The requirement not to hold client money  
+was clearly visible on the Authority’s FS Register. 
+   
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+4.29. The steps taken by Business Banking in opening the Client Account were as 
+follows: 
+(a) The Business Banking Relationship Director received a request from 
+WealthTek to open a client money account.  The record of the call notes 
+that WealthTek is a “ fund manager that is going through a change which 
+will result in a change of name and FCA registration.  [Representative of 
+the customer] has explained they receive funds and distribute them to the 
+investments.  They are required to receive client funds and pay out same 
+day.”  The call record also noted that “Due to client monies a CPA is needed 
+to be opened – BIC also to be amended to reflect fund manager activity.” 
+(b) The Relationship Director requested a change in WealthTek’s BIC Code to 
+6718 – the code used for fund managers.  Prior to this the BIC Code 
+assigned was 7412 for Accounting Services. 
+(c) The Support and Servicing Team reported that the BIC Code had been 
+updated and a request to open a client money account had been raised.  
+(d) As the BTA Code assigned to WealthTek was incompatible with the BIC 
+Code, the BTA Code was changed from “71 - Non-Financial LLP” to “72 - 
+Financial LLP”.  The BTA Codes do not distinguish between customers 
+regulated by the Authority and those which are not. 
+(e) The Client Account was opened. 
+4.30. The Client Account was opened without Business Banking conducting any 
+further CDD on WealthTek regarding the source of funds into the account, the 
+clients who would hold money in the account, the size and nature of the 
+expected transactions, or the legal and regulatory restrictions on holding client 
+money. The Authority’s FS Register was not reviewed for any requirement 
+restricting WealthTek’s ability to hold client money. 
+4.31. WealthTek’s Client Account received over £34 million directly from WealthTek’s 
+clients between January 2021 and April 2023 in circumstances where 
+WealthTek was not permitted to hold client money.  
+Barclays UK’s changes to the account opening procedures for client 
+money accounts 
+CPA Project  
+4.32. From 2020, Barclays UK had identified that its account opening procedures 
+were deficient and exposed Barclays to the risk of customers misappropriating 
+money from client money accounts .  Barclays communicated these 
+shortcomings to the FCA. 
+4.33. Barclays UK took steps to improve its CDD and, from 2020, commenced its CPA 
+Project which had the aim of ensuring client money accounts were compliant 
+with the 2017 Regulations as outlined in the CLS, developing new procedures 
+and collecting further CDD to identify the underlying clients and risk assess the 
+AML controls of the stock of eligible customers holding client money accounts.  
+   
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+Barclays kept the FCA up to date on the development and timeframe for 
+implementation of the new procedures.   
+4.34. The CPA Project resulted in changes to the CDD gathered during the account 
+opening process, including:   
+(a) a set of initial eligibility checks based on industry and nature of the 
+business;  
+(b) a full questionnaire to assess the customer’s business activities, underlying 
+client portfolio and control frameworks (this process was adopted from 
+September 2021 for new accounts);  
+(c) a full risk assessment of the questionnaire, specifically relating to client 
+money; and  
+(d) an annual refresh of CDD to ensure their controls and risk remain within 
+Business Banking’s risk appetite.   
+4.35. The CPA Project also included a review of, and remediation for, customers with 
+existing client money accounts, including those clients who were not FCA -
+regulated, and in total 15,454 client money accounts were reviewed.   The 
+actions included requesting th at the AML Questionnaire be completed.  
+Following a review of the responses to the questionnaire, a decision was then 
+made to pass or decline the customer.  Those customers who failed the due 
+diligence were issued with a notice to confirm that their accoun ts would be 
+closed. 
+4.36. The CPA Project was completed in October 2023. 
+Barclays UK’s changes to the client money account opening process from 1 
+September 2021 
+4.37. Barclays UK’s account opening process for client money accounts underwent 
+several updates between August 2021 and May 2022.   
+4.38. The CPA Guide was introduced from September 2021. 
+4.39. The aim of the CPA Guide was to ensure proper due diligence is, or had been, 
+undertaken for all new client money account requestors whether they were new 
+to the bank, new to the product or were an existing client money account 
+holder. 
+4.40. The client money account eligibility checks set out in the CPA Guide required 
+Business Banking to: 
+(a) assess initial eligibility for a client money account; 
+(b) ascertain whether due diligence was required (or had already been 
+completed); 
+(c) manage the collection and review of any due diligence information; and 
+   
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+(d) raise new account opening requests. 
+4.41. In relation to eligibility, the Business Banking employee was required to check 
+whether the customer’s BIC Code was listed as “yes” under “Proceed to 
+Standard CPA Questionnaire”, also known as the “Full AML Questionnaire”.    
+4.42. The CPA Guide required the AML Questionnaire to be issued to customers to 
+gather KYC information about the customer, the planned use of the client 
+money account and the customer’s knowledge of the clients whose money 
+would be held in the client money account.  The information gathered included: 
+(a) the purpose of the client money account; 
+(b) whether the customer is registered with a supervisory or regulatory 
+authority; 
+(c) whether the customer reconfirms KYC records for its clients; and 
+(d) whether any of the customer’s clients’ businesses involve high risk activity. 
+4.43. Improvements did not initially include a specific requirement to review the 
+Authority’s FS Register and assess whether a customer was required not to hold 
+client money. Consequently, the Authority’s FS Register was not reviewed for 
+any restriction on WealthTek’s ability to hold client money and nor was an y 
+information on the size and nature of the expected transactions obtained. 
+Barclays UK’s further changes to the client money account opening process 
+from May 2022 
+4.44. The CPA Guide V6.2 is dated 9 May 2022 and was implemented from 16 May 
+2022.     
+4.45. In this version, the AML Questionnaire included the question “ Do you have 
+permission to hold client funds?”.  
+4.46. If a customer replied “yes” then it was deemed as a pass, but a manual review 
+was required.  The AML Questionnaire provided guidance to Business Banking 
+staff as to how to check the accuracy of a customer’s response by reviewing 
+the Authority’s FS Register  to ascertain whether a firm had any requirements 
+or restrictions on their permissions.  If a customer was found to have a 
+restriction in relation to client money, the application was declined and referred 
+to triage to consider the full customer relationship. 
+Remediation of the WealthTek Client Account 
+4.47. Remediation of WealthTek’s Client Account began in July 2022 when WealthTek 
+was asked to complete the AML Questionnaire within 30 days and was told that 
+otherwise Barclays UK would seek to close the Client Account. 
+4.48. Between August 2022 and March 2023 there was further correspondence 
+between Barclays UK and WealthTek regarding the completion of the AML 
+Questionnaires and, in March 2023 a partially completed AML Questionnaire 
+was provided.   
+   
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+4.49. On 25 April 2023, Barclays UK decided to close the Client Account. 
+ 
+5. FAILINGS 
+5.1. The regulatory provisions relevant to this Notice are referred to in Annex A. 
+5.2. The Authority considers that, by reason of the matters described in section 4 
+of this Notice, Barclays UK  breached Principle 3 and, for the same reasons, 
+SYSC 6.1.1R during the Relevant Period by failing to organise and con trol its 
+affairs responsibly and effectively with adequate risk management systems in 
+respect of account opening procedures for client money accounts. In particular: 
+(a) Between 1 January 202 1 and 1 September 2021, Barclays UK  failed to 
+gather sufficient CDD about its FCA -regulated client account customers, 
+including as to the purpose of the accounts, the types of clients whose funds 
+would be held in client accounts, the levels of assets deposited or the size 
+and nature of the transactions undertaken.  Barclays UK also failed to 
+consider the Authority’s FS Register and identify whether the Authority had 
+expressly required a customer that was an authorised firm not to hold client 
+money. 
+(b) Between 1 September 2021 and 15 May 2022, having identified weaknesses 
+in its CDD processes, Barclays UK did undertake further CDD.  However, 
+the improvements did not, until 16 May 2022, require Business Banking to 
+consider the Authority’s FS Register and identify whether the Authority had 
+expressly restricted a customer from holding client money.  Barclays UK 
+also failed to gather any information on the size and nature of the expected 
+transactions. 
+(c) Despite the updates to the account opening procedures and remediation, 
+between 1 January 2021 and April 2023 , WealthTek’s Client Account 
+remained open. 
+ 
+6. SANCTION 
+Financial penalty 
+6.1. The Authority’s policy for imposing a financial penalty is set out in Chapter 6 of 
+DEPP. In respect of conduct occurring on or after 6 March 2010, the Authority 
+applies a five -step framework to determine the appropriate level of financial 
+penalty. DEPP 6.5A sets out the details of the five-step framework that applies 
+in respect of financial penalties imposed on firms.  
+Step 1: disgorgement   
+6.2. Pursuant to DEPP 6.5A.1G, at Step 1 the Authority seeks to deprive a firm of 
+the financial benefit derived directly from the breach where it is practicable to 
+quantify this.  
+   
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+6.3. The Authority has not identified any financial benefit that Barclays UK derived 
+directly from its breach.  
+6.4. Step 1 is therefore £0.  
+Step 2: the seriousness of the breach  
+6.5. Pursuant to DEPP 6.5A.2G, at Step 2 the Authority determines a figure that 
+reflects the seriousness of the breach. Where the amount of revenue generated 
+by a firm from a particular product line or business area is indicative of the 
+harm or potential harm that its breach may cause, that figure will be based on 
+a percentage of the firm’s revenue from the relevant products or business 
+area.   
+6.6. The Authority considers that the revenue generated by Barclays UK is not an 
+appropriate indicator of the harm or potential harm caused by its breach. The 
+Authority considers that the total funds deposited into WealthTek’s Client 
+Account, which account Barclays UK should not have opened as the Authority 
+had placed a requirement on WealthTek which restricted it from holding client 
+money, is the appropriate indicator of the harm in this case. That figure is 
+£34,662,755. This sum of client money was put at risk  as a result of the CDD 
+failures by Barclays UK. 
+6.7. In cases where revenue is not the appropriate indicator of the harm or potential 
+harm of the firm's breach, DEPP 6.5A.2G (13) allows the Authority to adopt a 
+scale other than the 0-20% scale prescribed in DEPP 6.5A.2G (3). In this case, 
+the Authority considers that the following scale is appropriate:  
+(a) Level 1 – 0%  
+(b) Level 2 – 5% 
+(c) Level 3 – 10% 
+(d) Level 4 – 15% 
+(e) Level 5 – 20% 
+6.8. In assessing the seriousness level, the Authority takes into account  various 
+factors which reflect the impact and nature of the breach, and whether it was 
+committed deliberately or recklessly. The Authority is mindful that  Barclays 
+UK’s CDD failings could have impacted  a wider number of client money 
+accounts.  DEPP 6.5A.2G(11) lists factors likely to be considered ‘level 4 or 5 
+factors’. Of these, the Authority considers the following factors to be relevant:  
+(a) the breach caused a significant loss or risk of loss to individual consumers, 
+investors or other market users (DEPP 6.5A.2G(11)(a));  
+(b) the breach revealed serious or systemic weaknesses in the firm’s 
+procedures or in the management systems or internal controls relating to  
+all or part of the firm’s business (DEPP 6.5A.2G(11)(b)); and 
+   
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+(c) The breach created a significant risk that  financial crime would be 
+facilitated, occasioned or otherwise occur (DEPP 6.5A.2G(11)(d)). 
+6.9. Taking all of these factors into account, the Authority considers the seriousness 
+of the breach to be level 4 and so the Step 2 figure is 15% of £34,662,755.    
+6.10. The penalty at Step 2 is therefore £5,199,413.  
+Step 3: mitigating and aggravating factors  
+6.11. Pursuant to DEPP 6.5A.3G, at Step 3 the Authority may increase or decrease 
+the amount of the financial penalty arrived at after Step 2,  but not including 
+any amount to be disgorged as set out in Step 1, to take into account factors 
+which aggravate or mitigate the breach.  
+6.12. The Authority considers that the factors below aggravate the breach.  
+The Authority’s previous action in relation to Barclays 
+6.13. The Authority has imposed financial penalties on Barclays for breaches of 
+regulatory requirements on a number of previous occasions. In particular:   
+(a) on 26 November 2015, the Authority fined Barclays £72 million for a breach 
+of Principle 2 for failing to minimise the risk that it may be used to facilitate 
+financial crime;  
+(b) on 15 December 2020, the Authority fined Barclays £26 million for breaches 
+of Principle 6, Principle 3 and CONC for failures relation to their treatment 
+of consumer credit customers who fell into arrears or experienced financial 
+difficulties;  
+(c) on 28 February 2022, the Authority fined Barclays £783,800 for a breach 
+of Principle 2 for failures related to financial crime in the corporate banking 
+sector; and  
+(d) on 25 November 2024, the Authority fined Barclays £10 million and 
+Barclays Plc £30 million for breaches of listing rules in relation to failure to 
+disclose information to the issuer sector. 
+Published guidance in relation to AML controls 
+6.14. Since 1990, the JMLSG has published detailed written guidance on AML 
+controls. During the Relevant Period, the JMLSG provided guidance on 
+compliance with the legal requirements of the 20 17 Regulations, regulatory 
+requirements in the Handbook and evolving practice in the financial services 
+industry.   
+6.15. Before, or during, the Relevant Period, the Authority issued the following 
+guidance relating to AML controls:  
+(a) in March 2008, the Authority published its findings of a thematic review of 
+firms’ AML processes in a report titled “ Review of firms’ implementation of 
+a risk-based approach to anti -money laundering”. It included examples of 
+   
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+good and poor industry practice and reminded firms that their approach to 
+AML should be aligned with the JMLSG Guidance;  
+(b) in June 2011, the Authority published a report titled “ Banks’ management 
+of high money -laundering risk situations: How banks deal with high -risk 
+customers (including politically exposed persons), correspondent banking 
+relationships and wire transfers”. The report highlighted the importance of 
+applying meaningful EDD measures in higher risk situations and noted the 
+importance of carrying out enhanced monitoring of high -risk relationships, 
+including as an example of good practice that firms should proactively follow 
+up gaps in, and update, CDD during the course of a relationship;  
+(c) in December 2011, the Authority published “ Financial Crime: A Guide for 
+Firms”. The guide highlighted the need to conduct adequate CDD checks, 
+perform ongoing monitoring and carry out EDD measures and enhanced 
+ongoing monitoring when handling higher risk situations; and  
+(d) in April 2015, the Authority published “ Financial crime: a guide for firms 
+Part 1: A firm’s guide to preventing financial crime” which set out examples 
+of good and poor industry practice to assist firms.   
+The Authority’s previous actions in relation to weaknesses in AML systems and 
+controls 
+6.16. The Authority has published a number of Notices against firms for AML 
+weaknesses both before and during the Relevant Period, including in respect of 
+Alpari (UK) Limited in May 2010, Coutts & Company in March 2012, Habib Bank 
+AG Zurich in May 2012, Turkish Bank (UK) Ltd in July 2012, EFG Private Bank 
+Ltd in April 2013, Guaranty Trust Bank (UK) Ltd in August 2013, Standard Bank 
+Plc in January 2014, Sonali Bank (UK) Ltd in October 2016, Deutsche Bank AG 
+in January 2017 and Commerzbank AG in June 2020.  
+6.17. Consequently, Barclays UK  was aware or ought to have been aware of the 
+importance of identifying, assessing, monitoring and managing the money 
+laundering risks in respect of its relationship with WealthTek to counter the risk 
+that the Bank might be used to further financial crime.  
+6.18. The Authority considers that the following factors mitigate the breach: 
+(a) Barclays UK  acknowledged the failings raised by the Authority  and, 
+prompted by the Authority, made a voluntary ex-gratia payment to be 
+distributed to WealthTek’s clients. 
+(b) Barclays UK  co-operated with the Authority from the outset of the 
+investigation.  In particular, Barclays UK accepted the failings raised by the 
+Authority, provided relevant documents and information to the Authority 
+and committed to reaching a resolution on the matter on an expedited 
+basis. 
+6.19. Having taken into account these aggravating and mitigating factors, the 
+Authority considers that the Step 2 figure should be reduced by 15%.  
+   
+ 
+ 
+16 
+ 
+ 
+ 
+ 
+6.20. The penalty at Step 3 is therefore £4,419,501.  
+Step 4: adjustment for deterrence  
+6.21. Pursuant to DEPP 6.5A.4G, if the Authority considers the figure arrived at after 
+Step 3 is insufficient to deter the firm wh ich committed the breach, or others, 
+from committing further or similar breaches, then the Authority may increase 
+the penalty.  
+6.22. The Authority considers that the Step 3 figure of £4,419,501 represents a 
+sufficient deterrent to Barclays UK and others and so has not increased the 
+penalty at Step 4.   
+6.23. The penalty at Step 4 is therefore £4,419,501.  
+Step 5: settlement discount  
+6.24. Pursuant to DEPP 6.5A.5G, if the Authority and the firm on whom a penalty is 
+to be imposed agree the amount of the financial penalty and other terms, DEPP 
+6.7 provides that the amount of the financial penalty which might otherwise 
+have been payable will be  reduced to reflect the stage at which the Authority 
+and the firm reached agreement. The settlement discount does not apply to the 
+disgorgement of any benefit calculated at Step 1.  
+6.25. The Authority and Barclays UK reached agreement at Stage 1 and so a 30% 
+discount applies to the Step 4 figure.  
+6.26. The penalty at Step 5 is therefore £3,093,650. This is to be rounded down to 
+£3,093,600. 
+Penalty  
+6.27. The Authority hereby imposes a total financial penalty of £3,093,600 on 
+Barclays UK for breaching Principle 3 and SYSC 6.1.1 R.  
+ 
+7. PROCEDURAL MATTERS 
+7.1. This Notice is given to Barclays UK under section 390 of the Act.   
+7.2. The following statutory rights are important.   
+Decision maker 
+7.3. The decision which gave rise to the obligation to give this Notice was made by 
+the Settlement Decision Makers.  
+Manner and time for payment 
+7.4. The financial penalty must be paid in full by Barclays UK to the Authority no 
+later than 28 July 2025. 
+   
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+If the financial penalty is not paid 
+7.5. If all or any of the financial penalty is outstanding on 28 July 2025, the Authority 
+may recover the outstanding amount as a debt owed by Barclays UK and due 
+to the Authority.  
+Publicity  
+7.6. Sections 391(4), 391(6) and 391(7) of the Act apply to the publication of 
+information about the matter to which this Notice relates.  Under those 
+provisions, the Authority must publish such information about the matter to 
+which this Notice relates as the Authority  considers appropriate.  The 
+information may be published in such manner as the Authority considers 
+appropriate.  However, the Authority may not publish information if such 
+publication would, in the opinion of the Authority, be unfair to you or prejudicial 
+to the interests of consumers or detrimental to the stability of the UK financial 
+system. 
+7.7. The Authority intends to publish such information about the matter to which 
+this Final Notice relates as it considers appropriate. 
+Authority contacts 
+7.8. For more information concerning this matter generally, contact Natalie Rivett 
+at the Authority (direct line: 020 7066 4166 /email: natalie.rivett@fca.org.uk). 
+ 
+ 
+ 
+ 
+Dharmesh Gadhavi  
+Head of Department 
+Financial Conduct Authority, Enforcement and Market Oversight Division  
+ 
+   
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ANNEX A:  RELEVANT STATUTORY AND REGULATORY PROVISIONS 
+ 
+1. RELEVANT STATUTORY PROVISIONS 
+ 
+The Financial Services and Markets Act 2000 
+ 
+1.1 The Authority’s statutory objectives, set out in section 1B of the Act, include: 
+• Protecting and enhancing the integrity of the UK financial system (section 
+1D(1) of the Act; and  
+• securing the appropriate degree of protection for consumers (section 1C(1) 
+of the Act). 
+1.2 Pursuant to s ection 206(1) of the Act , if the Authority considers  that an 
+authorised person has contravened a requirement imposed on him by or under 
+this Act, it may impose on that person a penalty in respect of the contravention 
+of such amount as it considers appropriate. 
+ 
+The 2017 Regulations 
+ 
+1.3 The Money Laundering, Terrorist Financing and Transfer of Funds (Information 
+on the Payer) Regulations 2017 (cited elsewhere in this notice as the 2017 
+Regulations”) were in force from 26 June 2017. 
+ 
+Relevant extracts from the 2017 Regulations 
+ 
+1.4 Regulation 27 (Customer due diligence) states: 
+ 
+(1) A relevant person must apply customer due diligence measures if the 
+person— 
+(a) establishes a business relationship; 
+(b) carries out an occasional transaction that amounts to a transfer of 
+funds within the meaning of Article 3.9 of the funds transfer 
+regulation exceeding 1,000 euros; 
+(c) suspects money laundering or terrorist financing; or 
+(d) doubts the veracity or adequacy of documents or information 
+previously obtained for the purposes of identification or verification. 
+   
+ 
+ 
+19 
+ 
+ 
+ 
+ 
+1.5 Regulation 28 (Customer due diligence measures) states: 
+ 
+(2) This regulation applies when a relevant person is required by regulation 
+27 to apply customer due diligence measures. 
+(3) The relevant person must— 
+(e) identify the customer unless the identity of that customer is known 
+to, and has been verified by, the relevant person; 
+(f) verify the customer's identity unless the customer's identity has 
+already been verified by the relevant person; and 
+(g) assess, and where appropriate obtain information on, the purpose 
+and intended nature of the business relationship or occasional 
+transaction. 
+(4) Where the customer is a body corporate— 
+(a) the relevant person must obtain and verify— 
+(i)  the name of the body corporate; 
+(ii) its company number or other registration number; 
+(iii) the address of its registered office, and if different, its principal 
+place of business; 
+(b) subject to paragraph (5), the relevant person must take reasonable 
+measures to determine and verify— 
+(i) the law to which the body corporate is subject, and its constitution 
+(whether set out in its articles of association or other governing 
+documents); 
+(ii) the full names of the board of directors (or if there is no board, the 
+members of the equivalent management body) and the senior 
+persons responsible for the operations of the body corporate. 
+(11) The relevant person must conduct ongoing monitoring of a business 
+relationship, including— 
+   
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+(a) scrutiny of transactions undertaken throughout the course of the 
+relationship (including, where necessary, the source of funds) to ensure 
+that the transactions are consistent with the relevant person's 
+knowledge of the customer, the customer's business and risk profile; 
+(b) undertaking reviews of existing records and keeping the documents or 
+information obtained for the purpose of applying customer due 
+diligence measures up-to-date. 
+(12) The ways in which a relevant person complies with the requirement to 
+take customer due diligence measures, and the extent of the measures 
+taken— 
+(a) must reflect— 
+(i) the risk assessment carried out by the relevant person under 
+regulation 18(1); 
+(ii) its assessment of the level of risk arising in any particular case; 
+(b) may differ from case to case. 
+(13) In assessing the level of risk in a particular case, the relevant person 
+must take account of factors including, among other things— 
+(a) the purpose of an account, transaction or business relationship; 
+(b) the level of assets to be deposited by a customer or the size of the 
+transactions undertaken by the customer; 
+(c) the regularity and duration of the business relationship. 
+(16) The relevant person must be able to demonstrate to its supervisory 
+authority that the extent of the measures it has taken to satisfy its 
+requirements under this regulation are appropriate in view of the risks of 
+money laundering and terrorist financing, including risks— 
+(a) identified by the risk assessment carried out by the relevant person 
+under regulation 18(1); 
+(b) identified by its supervisory authority and in information made available 
+to the relevant person under regulations 17(9) and 47. 
+   
+ 
+ 
+21 
+ 
+ 
+ 
+ 
+2. RELEVANT REGULATORY PROVISIONS 
+ 
+Principles for Businesses (“Principles”) 
+2.1 The Principles are a general statement of the fundamental obligations of firms 
+under the regulatory system and are set out in the Authority’s Handbook.  They 
+derive their authority from the Authority’s rule -making powers set out in the 
+Act.  The relevant Principles are as follows. 
+2.2 Principle 3 provides: 
+“A firm must take reasonable care to organise and control its affairs 
+responsibly and effectively, with adequate risk management systems.” 
+Senior Management Arrangements, Systems and Controls (“SYSC”) 
+2.3 SYSC 6.1.1 R provides: 
+“A firm must establish, implement and maintain adequate policies and 
+procedures sufficient to ensure compliance of the firm including its managers , 
+employees and appointed representatives (or where applicable, tied agents) 
+with its obligations under the regulatory system and for countering the risk that 
+the firm might be used to further financial crime.” 
+Decision Procedure and Penalties Manual (“DEPP”) 
+2.4 Chapter 6 of DEPP, which forms part of the Authority’s Handbook, sets out 
+the Authority’s statement of policy with respect to the imposition and amount 
+of financial penalties under the Act. 
+3. RELEVANT REGULATORY GUIDANCE 
+ 
+3.1 The JMLSG Guidance applies to all firms regulated by the Authority and outlines 
+the legal and regulatory framework for AML/countering terrorist financing 
+requirements and systems across the financial services sector. It provides 
+interpretation o f the requirements of the relevant law and legislation and 
+indicates good industry practice through a proportionate, risk-based approach. 
+It is comprised of three parts.  
+3.2 The JMLSG Guidance provisions set out below were added to the JMLSG 
+Guidance in July 2020.  The JMLSG Guidance is periodically updated; there 
+were no changes to the provisions set out below during the Relevant Period, 
+except where otherwise indicated below.  
+Relevant extracts from the JMLSG Guidance 
+Chapter 5 – Customer Due Diligence  
+3.3 Chapter 5 provides guidance on the following: “Why is it necessary to apply 
+CDD measures and conduct ongoing monitoring?” 
+3.4 Paragraph 5.1.13 states: 
+   
+ 
+ 
+22 
+ 
+ 
+ 
+ 
+3.5 “Firms therefore need to carry out customer due diligence, and monitoring, for 
+two broad reasons:  
+• to help the firm, at the time due diligence is carried out, to be reasonably 
+satisfied that customers are who they say they are, to know whether they 
+are acting on behalf of another, and that there is no legal barrier (e.g. 
+government sanctions) to providi ng them with the product or service 
+requested; and  
+• to enable the firm to assist law enforcement, by providing available 
+information on customers or activities being investigated.” 
+Annex 5-V Pooled Client Accounts 
+3.6 Annex 5 -V of the JMLSG provides  guidance on the application of the 2017 
+Regulations to pooled client accounts.   
+3.7 Paragraph 1.1 stated: 
+“A Pooled Client Account (PCA) is a bank account opened with the firm by a 
+customer, for example a legal practitioner or letting/estate agent, to administer 
+funds that belong to their own clients. Their clients’ money will be co -mingled 
+but the customer’s clients will not be able to directly instruct the firm to carry 
+out transactions.” 
+Suspense accounts held by respondent institutions are not PCAs (refer to Part 
+II Sector 16 on Correspondent Relationships).  
+There are two primary vectors of risk:  
+• The customer’s clients misuse a PCA for ML/TF purposes without the 
+knowledge of the customer; and  
+• The customer is complicit in using its PCAs for ML/TF purposes, either willingly 
+or under duress.” 
+3.8 Paragraph 1.2 stated: 
+“Firms should take reasonable measures to establish and document the 
+purpose of PCAs. Although possible self -evident given the nature and purpose 
+of the business relationship, firms may need to establish information such as: 
+the types of clients whose fund s are held in the PCAs, the level of assets 
+deposited and the size of the transactions undertaken, and the exposure to 
+industries and geographies recognised as vulnerable to money laundering, 
+corruption or terrorist financing.” 

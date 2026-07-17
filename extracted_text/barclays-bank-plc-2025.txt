@@ -1,0 +1,2023 @@
+1 
+  
+ 
+FINAL NOTICE 
+ 
+ 
+To: Barclays Bank Plc  
+ 
+Firm Reference 
+Number: 122702 
+ 
+Address: One Churchill Place 
+ London 
+ E14 5HP 
+ 
+Date: 14 July 2025 
+1. ACTION 
+1.1 For the reasons given in this Final Notice, the Authority hereby imposes on Barclays 
+Bank Plc (“Barclays”) a financial penalty of £39,314,700 pursuant to section 206 of 
+the Act.  
+1.2 Barclays agreed to resolve this matter and qualified for a 30% (stage 1) discount 
+under the Authority’s executive settlement procedures. Were it not for this 
+discount, the Authority would have imposed a financial penalty of £56,163,900 on 
+Barclays. 
+2. SUMMARY OF REASONS 
+Overview  
+2.1 Financial services firms are at risk of being abused by those seeking to launder the 
+proceeds of crime. The integrity of the UK financial system is endangered by 
+weaknesses which risk allowing the system to be used for a purpose connected 
+with financial crime. The Authority has the operational objective of protecting and 
+enhancing the integrity of the UK financial system. The laundering of money 
+through UK financial institutions undermines the integrity of the UK financial 
+system. It is the responsibility o f UK financial institutions to ensure that they 
+minimise the risk of being used for criminal purposes , including the risks of being 
+used to launder the proceeds of crime.  
+2 
+2.2 In particular, this involves a firm ensuring that it has established the identity and 
+source of wealth of its customers as part of its Customer Due Diligence (“CDD”) 
+and, in respect of business customers, the nature of the customer’s business and 
+how it will use the firm’s services. By establishing this accurately at the start of the 
+relationship, the firm can assess the money laundering risks presented by the 
+customer. Thereafter, the firm must monitor the activities of the customer, 
+including monitoring transactions, to ensure that they remain consistent with the 
+firm’s understanding of its business and the associated money laundering risks. 
+The extent and frequency of the monitoring in respect of each customer will depend 
+on the particular risks presented by that customer. Where the risks of money 
+laundering are higher, firms must conduct enhanced due diligence (“EDD”) 
+measures consistent with the risks identified.  
+2.3 Where a firm identifies that a customer’s activities are inconsistent with the firm’s 
+understanding of its business, or that it may be engaged in suspicious activity, it 
+must take prompt action to manage any money laundering risks this creates. This 
+may include revisiting the risk rating for that customer, applying EDD and enhanced 
+ongoing monitoring and/or terminating the relationship.  
+2.4 Barclays is a member of the Barclays Group, a British banking and financial services 
+group headquartered in London and operating across 38 countries. The Barclays 
+Group has approximately 48 million customers worldwide of which a round 20 
+million are in the UK.  
+2.5 Between 9 January 2015 and 23 April 2021 (“the Relevant Period”), Barclays failed 
+adequately to identify, assess, monitor and manag e the money laundering risks 
+associated with the provision of banking services to Stunt & Co Ltd (“Stunt & Co”), 
+one of its corporate banking customers. Although Barclays established and 
+maintained anti-money laundering (“AML”) policies during the Relevant Period and 
+was aware of the importance of CDD  and EDD, it failed to apply an appropriate 
+level of CDD on Stunt & Co  or, at appropriate times consistent with the risks 
+identified, apply EDD. Save for a period between March 2019 and May 2020 when 
+Barclays assessed Stunt & Co as medium risk, Stunt & Co was assigned a low risk 
+rating and Barclays failed to consider whether that risk rating remained 
+appropriate. This was despite Barclays’ awareness of multiple risks regarding the 
+business relationship with Stunt & Co from the establishment and during the course 
+of that relationship, including in respect of the nature of Stunt & Co’s business and 
+the source of wealth of its director and sole shareholder  James Stunt (who was a 
+personal banking customer at Barclays).  
+3 
+2.6 In particular,  Stunt & Co  conducted a close business relationship with Fowler 
+Oldfield Ltd (“Fowler Oldfield”), a UK jewellery business which was not a  Barclays 
+customer. Stunt & Co received £46.8 million in electronic transfers into its Barclays 
+account from Fowler Oldfield  between July 2015 and August 2016 . From 2016 
+Fowler Oldfield was the subject of a criminal investigation involving suspicions of 
+potential money laundering, of which Barclays was made aware in August 2016. In 
+December 2021, National Westminster Bank Plc (“NatWe st”) was fined £264.8 
+million following convictions for offences under the Money Laundering Regulations 
+2007 (“the 2007 Regulations”) relating to its use by its customer Fowler Oldfield to 
+facilitate money laundering (from which account Fowler Oldfield transferred funds 
+to Stunt & Co). On 4 March 2025, Gregory Frankel and Daniel Rawson, who were 
+both directors of Fowler Oldfield, were convicted of money laundering. 
+2.7 The Authority considers that the £46.8 million received by Stunt & Co from Fowler 
+Oldfield represented the proceeds of crime and that Stunt & Co’s account was used 
+in part to launder the funds.  On 4  March 2025, James Stunt was acquitted of  
+money laundering charges in relation to monies received by Stunt & Co from Fowler 
+Oldfield, on the basis that he had no knowledge or suspicion that those monies 
+were criminal property. 
+2.8 Stunt & Co’s accounts at Barclays were frozen from 29 August 2018 and closed in 
+April 2020 and October 2020. In March 2021, when the Authority charged NatWest 
+with offences under the 2007 Regulations, Barclays commenced an investigation 
+into its own exposure to monies its customers received from Fowler Oldfield.  
+Barclays’ misconduct 
+2.9 The Authority considers that Barclays breached Principle 2 during the Relevant 
+Period by failing to conduct its business with due skill, care and diligence in respect 
+of the identification, assessment, monitoring and management of the money 
+laundering risks associated with the provision of banking services to Stunt & Co. In 
+particular: 
+(a) in establishing a business relationship with Stunt & Co in January 2015 and 
+assigning it a low risk rating, Barclays failed to obtain sufficient information 
+from it on the nature of its business , including on its source of wealth and 
+source of funds, in order to assess the money laundering risks appropriately. 
+Having assigned the ‘low’ risk rating, Barclays failed to update it in light of 
+relevant information which should have led to a re-assessment of whether the 
+risk rating was accurate and whether EDD was necessary; 
+4 
+(b) following onboarding, Barclays failed to conduct appropriate ongoing 
+monitoring of Stunt & Co  and to scrutinise the transactions undertaken to 
+ensure that they were consistent with Barclays’ knowledge of its business . 
+This included significant funds received by Stunt & Co  from Fowler Oldfield 
+from July 2015 that were inconsistent with Barclays’ understanding of Stunt 
+& Co’s business and significantly in excess of the turnover Stunt & Co  had 
+informed Barclays was likely at account opening . Barclays also failed to 
+consider, following receipt of information on 8 October 2015 that Stunt & Co 
+and Fowler Oldfield had entered into a joint venture , whether the change in 
+Stunt & Co’s business model and turnover merited a reconsideration of its risk 
+rating or a need to conduct EDD or enhanced ongoing monitoring; 
+(c) when Barclays refreshed its CDD in respect of Stunt & Co in January 2016, it 
+failed to obtain and verify sufficient information to enable it to have a sound 
+understanding of the nature of Stunt & Co ’s business and the money 
+laundering risks presented by it; 
+(d) despite receiving significant information in August 2016 (via a request from 
+law enforcement) that Fowler Oldfield may have been used to launder the 
+proceeds of suspected money laundering and that Stunt & Co was one of the 
+main recipients of electronic credits from Fowler Oldfield , Barclays failed to 
+consider appropriately what effect this may have on the money laundering 
+risks associated with Stunt & Co, including whether EDD or enhanced ongoing 
+monitoring was required, or whether it should terminate the relationship; 
+(e) despite identifying adverse media in September 2016 that the premises of 
+both Stunt & Co  and Fowler Oldfield  had been raided by the police in 
+connection with money laundering, and despite its Intelligence, Monitoring 
+and Investigation (“IMI”) team separately conducting a review of Stunt & Co’s 
+accounts in September 2016 to understand the relationship between it and 
+Fowler Oldfield as a consequence of news of the police raids and Production 
+Orders received in August 2016, Barclays considered that the account activity 
+was consistent with its understanding of Stunt & Co’s business. This was also 
+despite a further Production Order which had been received by Barclays in 
+respect of Stunt & Co in November 2016. Although Barclays had received the 
+request from law enforcement concerning Fowler Oldfield in August 2016, the 
+IMI team were not made aware of the law enforcement request for its review. 
+No change was made to Stunt & Co’s risk rating and no EDD was applied; 
+5 
+(f) in January 2017, Barclays completed a KYC refresh in respect of Stunt & Co 
+and certified that all necessary due diligence had been conducted. This was 
+despite Barclays not having received responses to outstanding queries 
+regarding Stunt & Co , Fowler Oldfield and the source of Mr Stunt’s wealth, 
+and despite being aware of a police investigation being conducted into Fowler 
+Oldfield. No changes were made to Stunt & Co’s risk rating and no EDD nor 
+enhanced ongoing monitoring was applied; 
+(g) Barclays continued to assess Stunt & Co as low risk, save for a period between 
+March 2019 and May 2020 when it was assessed as medium risk. As a result, 
+no periodic annual review of Stunt & Co’s accounts was conducted by Barclays 
+in 2018 or 2019. This was despite Barclays receiving a number of court orders 
+relating to Mr Stunt and Stunt & Co in 2018 and 2019. Barclays, noting that 
+Stunt & Co’s accounts were frozen from 29 August 2018,  failed to conduct 
+further reviews of its relationship with Stunt & Co or its risk rating or consider 
+whether any EDD or enhanced monitoring should be applied or whether the 
+relationship should be terminated; and 
+(h) the fact of Mr Stunt being charged with money laundering offences in May 
+2020 did not prompt any consideration of whether Barclays should review the 
+account activity of  Stunt & Co . It was only after Barclays learned in March 
+2021 of the Authority’s decision to charge NatWest with criminal offences 
+under the 2007 Regulations, in respect of NatWest’s relationship with Fowler 
+Oldfield, that Barclays commenced a significant investigation in respect of 
+Stunt & Co and certain other Barclays customers who had received funds from 
+Fowler Oldfield. Mr Stunt was acquitted of the money laundering charges on 
+4 March 2025. 
+2.10 Stunt & Co  received a total of  £46.8 million  in electronic receipts  from Fowler 
+Oldfield between July 2015 and August 2016. The Authority considers that those 
+monies represented the proceeds of crime and that Stunt & Co’s account was used 
+in part to launder the funds. 
+Seriousness 
+2.11 The Authority considers Barclays’ breach of Principle 2 to be serious because: 
+(a) the Authority published, before and during the Relevant Period, guidance for 
+firms on preventing financial crime in addition to a number of Notices against 
+firms for AML weaknesses . This is  in addition to the extensive guidance 
+6 
+published by the Joint Money Laundering Steering Group (“JMLSG”) to assist 
+banks in addressing these risks. These publications emphasise the importance 
+of firms having robust controls in place to counter financial crime risks, 
+particularly in respect of a customer’s source of funds and the nature of their 
+business. Firms are required to apply these controls with due skill, care and 
+diligence; and 
+(b) In the Authority’s view, the £46.8 million received into the account of Stunt & 
+Co from Fowler Oldfield during the Relevant Period represents the proceeds 
+of crime. The risk of damaging confidence in the UK market, in that Barclays 
+was facilitating the movement of funds linked to financial crime, is 
+consequently significant. 
+2.12 The Authority acknowledges that Barclays proactively reported its findings to the 
+Authority in June 2021 following the Bank’s review  of its own exposure to Fowler 
+Oldfield, in accordance with the Authority’s expectations for authorised firms. 
+Barclays has also cooperated fully with the Authority throughout the course of its 
+investigation.  
+2.13 The Authority also acknowledges that Barclays continues to engage and invest in a 
+significant remediation programme to enhance its AML control framework , which 
+has resulted in structural changes. 
+ 
+Sanction 
+2.14 The Authority hereby imposes a financial penalty on Barclays of £39,314,700 for 
+its breach of Principle 2 which reflects the settlement discount of 30%. Were it not 
+for this discount, the Authority would have imposed a financial penalty of 
+£56,163,900.  
+3. DEFINITIONS 
+3.1 The definitions below are used in this Notice. 
+“the 2007 Regulations” means the Money Laundering Regulations 2007, which were 
+in force in respect of conduct beginning after 15 December 2007 and before 26 
+June 2017 inclusive; 
+“the Act” means the Financial Services and Markets Act 2000;  
+“AML” means anti-money laundering; 
+7 
+“the Assay Office” means an assay office in the UK granted the right to assay and 
+hallmark precious metals; 
+“the Authority” means the body corporate previously known as the Financial 
+Services Authority and renamed on 1 April 2013 as the Financial Conduct Authority; 
+“Bank A” means a bank which Stunt & Co informed Barclays had provided to it a 
+master bullion loan facility for use in Stunt & Co ’s business during the Relevant 
+Period; 
+“Barclays” or “the Bank” means Barclays Bank Plc; 
+“Barclays Group” means the global financial services group of companies of which 
+Barclays Bank Plc is a member; 
+“the Barclays AML Intelligence team” means the team in the Financial Intelligence 
+Unit at Barclays responsible for dealing with enquiries from law enforcement  
+relating to money laundering; 
+“BIC” means Barclays Industrial Classification; 
+“CDD” means customer due diligence, the measures a firm must take to establish 
+and verify the identity of its customers and the purpose and intended nature of the 
+business relationship; 
+“DEPP” means the Decision Procedure and Penalties Manual, part of the Handbook; 
+“EDD” means enhanced customer due diligence, the measures a firm must apply 
+in certain circumstances, including where the customer presents a higher risk of 
+money laundering; 
+“Financial Crime Analyst A ” means an Analyst in Financial Crime Analytics  at 
+Barclays; 
+“FIU” means the Financial Intelligence Unit at Barclays; 
+“Fowler Oldfield” means Fowler Oldfield Ltd; 
+“the Handbook” means the Authority’s Handbook of rules and guidance; 
+“HMRC” meant during the Relevant Period Her Majesty’s Revenue and Customs; 
+“HNW” means High Net Worth; 
+8 
+“the IMI Manager” means a Manager in the IMI team from late 2015 (who was 
+formerly the WIM EDD Analyst); 
+“the IMI team” means the Intelligence, Monitoring and Investigation team  at 
+Barclays; 
+“JMLSG” means the Joint Money Laundering Steering Group, a private sector body 
+made up of the leading UK trade associations in the financial services industry; 
+“JMLSG Guidance” means the guidance issued by the JMLSG  and approved by a 
+Treasury Minister on compliance with the legal requirements in the 2007 
+Regulations, regulatory requirements in the Authority’s Handbook and evolving 
+practice within the financial services industry. The JMLSG Guidance sets out good 
+practice for the UK financial services sector on the prevention of money laundering 
+and combatting terrorist financing; 
+“KYC” means know your customer; 
+“KYC Manager A” means a KYC Manager in the London KYC & Account Opening 
+team at Barclays; 
+“KYC Manager B” means a KYC Manager in the KYC Remediation and Refresh team 
+at Barclays; 
+“MLRO” means Money Laundering Reporting Officer , an individual wit h 
+responsibility for oversight of a firm’s AML systems and controls whose role is to 
+act as the focal point for all AML activity within the firm;  
+“Mr Stunt” means James Robert Frederick Stunt; 
+“NatWest” means National Westminster Bank plc;  
+“PACE” means the Police and Criminal Evidence Act 1984; 
+“POCA” means the Proceeds of Crime Act 2002;  
+“the Principles” means the Authority’s Principles for Businesses; 
+“Production Order” in this Notice means an order made under section 345 of POCA 
+which require s the production of material to an appropriate officer in a law 
+enforcement investigation or to give an appropriate officer access to that material; 
+9 
+“the Relationship Director” means the Relationship Director at Barclays responsible 
+for the relationship between the Bank and Stunt & Co; 
+“the Relevant Period” means the period 9 January 2015 to 23 April 2021; 
+“Stunt & Co” means Stunt & Co Ltd; 
+“Supplier A” means a company based in Burkina Faso which was to supply gold to 
+Stunt & Co for use in its business during the Relevant Period; 
+“the Tribunal” means the Upper Tribunal (Tax and Chancery Chamber);  
+“UBO” means Ultimate Beneficial Owner; 
+“UHNW” means Ultra High Net Worth; 
+“the WIM banker” means a private banker in the WIM team; 
+“the WIM EDD Analyst” means an EDD analyst in the WIM team during 2015 (who 
+from late 2015 was the IMI Manager); and 
+“the WIM team” means the Wealth and Investment Management team at Barclays. 
+4. FACTS AND MATTERS 
+Barclays  
+4.1 Barclays is a member of the Barclays Group, a British banking and financial services 
+group headquartered in London and operating across 38 countries. It has 
+approximately 48 million customers worldwide of which around 20 million are in 
+the UK . Barclays has been authorised by the Authority to provide regulated 
+products and services since 1 December 2001. 
+Legal and regulatory obligations 
+ 
+4.2 All authorised firms have legal and regulatory obligations to establish and maintain 
+appropriate and risk-sensitive policies and procedures in order to minimise the risk 
+of being used to further financial crime, including money laundering. These must 
+include systems and controls that enable it to identify, assess, monitor and manage 
+money laundering risk and which are comprehensive and proportionate to the 
+nature, scale and complexity of the firm’s activities. These obligations are set out 
+in the Authority’s Handbook and, during the Relevant Period, the 2007 Regulations 
+10 
+which were supported by the JMLSG Guidance together with statements from the 
+Authority. 
+4.3 The 2007 Regulations, as supported by the JMLSG Guidance,  required that firms 
+undertake CDD by gathering documents, data or other information about their 
+customers. This is in order to identify and verify the identity of the customer or (in 
+the case of corporate entities, trusts and other arrangements) the customer’s 
+ownership and control structure, and to establish the purpose and intended nature 
+of the business relationship. Subject to certain exceptions,  the circumstances in 
+which firms must apply CDD include when the business relationship is established, 
+when money laundering is suspected , and when the firm doubts the veracity or 
+adequacy of documents, data or information previously obtained for the purposes 
+of identification or verification.  
+4.4 Firms were also required to apply CDD measures at appropriate times to its existing 
+customers on a risk -sensitive basis  under the 2007 Regulations . The JMLSG 
+Guidance stated that a  range of trigger events, such as an existing customer 
+applying to open a new account or establish a new relationship, might prompt a 
+firm to seek appropriate evidence. 
+4.5 Firms were also required under the 2007 Regulations to conduct ongoing 
+monitoring of the business relationship with customers  on a risk -sensitive basis. 
+This involves scrutiny of transactions undertaken throughout the course of the 
+relationship (including, where necessary, the source of funds) to ensure that the 
+transactions are consistent with the relevant person’s knowledge of the customer, 
+the customer’s business and risk profile. This also involves keeping the documents, 
+data or information obtained for the purpose of applying CDD measures up-to-date.  
+4.6 The 2007 Regulations, as supported by the JMLSG Guidance, further required that 
+in a situation which by its nature can present a higher risk  of money laundering, 
+firms must conduct EDD and enhanced ongoing monitoring measures on a risk -
+sensitive basis. The JMLSG Guidance provided examples of EDD measures that  
+could be applied for higher risk business relationships, including:  
+(a) obtaining, and where appropriate verifying, additional information on the 
+customer and updating more regularly the identification of the customer and 
+any beneficial owner;  
+(b) obtaining additional information on the intended nature of the business 
+relationship;  
+11 
+(c) obtaining information on the source of funds or source of wealth of the 
+customer;  
+(d) obtaining information on the reasons for intended or performed transactions; 
+and  
+(e) conducting enhanced monitoring of the business relationship, by increasing 
+the number and timing of controls applied, and selecting patterns of 
+transactions that need further examination.  
+4.7 The JMLSG Guidance stated that where appropriate and practical, and where there 
+are no data protection restrictions , firms should take reasonable steps to ensure 
+that where they have CDD information in one part of the business, they are able to 
+link it to information in another. 
+4.8 Relevant extracts from the Authority’s Handbook, the 2007 Regulations and the 
+JMLSG Guidance are set out in Annex A to this Notice. 
+Fowler Oldfield 
+ 
+4.9 Fowler Oldfield  was a UK jewellery business which was not authorised by the 
+Authority. Fowler Oldfield was not a customer of Barclays. It entered liquidation on 
+14 October 2016.  
+4.10 From 2016 Fowler Oldfield was the subject of a criminal investigation involving 
+suspicions of potential money laundering. In December 2021, NatWest was fined 
+£264.8 million following convictions for offences under the 2007 Regulations 
+relating to its use by its customer Fowler Oldfield to facilitate money laundering. 
+On 4 March 2025, Gregory Frankel and Daniel Rawson, who were both directors of 
+Fowler Oldfield, were convicted of money laundering.  
+Account opening for James Stunt 
+ 
+4.11 James Stunt opened a personal account at Barclays in September 2005. Mr Stunt 
+was rated as standard risk at account opening. Mr Stunt remained a standard risk 
+customer until 23 March 2021, with his account subject to a restraint order from 
+August 2018 (see paragraph 4.132 below). As a result of Barclays’ ring-fencing, Mr 
+Stunt became a customer of another entity within the Barclays Group on 1 April 
+2018.  
+12 
+Account opening for Stunt & Co 
+4.12 On or around 9 January 2015, Stunt & Co applied to open an account at Barclays. 
+The account was opened on 16 January 2015. Mr Stunt was a director and the sole 
+shareholder of Stunt & Co.  
+Barclays’ CDD and EDD policies 
+4.13 When Stunt & Co’s account was opened, Barclays’ 2013 AML policy (“the 2013 AML 
+policy”) applied. This set out minimum standards that applied to Barclays’ lines of 
+business. Initially, the CDD procedure at customer take-on included: 
+(a) identification;  
+(b) verification; 
+(c) understanding the purpose and nature of the relationship (including source of 
+wealth and source of funds); and 
+(d) understanding the control and ultimate ownership of clients/customers (for 
+private companies, due diligence on controllers and UBOs was required).  
+4.14 Barclays’ due diligence and onboarding procedures for client relationships within 
+Corporate Banking  dated 15 December 2014  (“the 2014 Due Diligence and 
+Onboarding Procedures”) stated that CDD was about understanding who the Bank’s 
+clients were and the risks they might pose to its business, and that the purpose of 
+effective CDD was, amongst other things, “to ensure a banking relationship is not 
+established or maintained that may be used as a vehicle for money laundering […].” 
+It stated that effective CDD required that there was “a sound understanding of the 
+client’s business before entering into a relationship with them”. It listed examples 
+of effective CDD  as capturing and analysing information about the client to 
+understand: 
+ 
+“what business activities they are involved in  who they trade with 
+(customers, suppliers, partners) who controls and owns the business  
+[…] 
+which countries or jurisdictions the clients or any related party operate in 
+source/origin of funds 
+the client’s risk profile - so that appropriate consideration can be given to 
+the possible actions that can be taken to mitigate the risks that have been 
+found.” 
+13 
+ 
+ The procedures also stated that the information  gathered at new client take on 
+played a key role in the ongoing monitoring of the business relationship.  
+ 
+4.15 The procedures also referred to certain client relationships requiring EDD before 
+the relationship was established, stating that t he purpose of EDD was to provide 
+the firm with an understanding of the risks associated with an entity or individuals, 
+and to allow the firm to make risk-sensitive commercial decisions. The procedures 
+stated that an EDD review may result in requests for additional information 
+regarding, amongst other things, the nature and details of the business, and the 
+source and origin of funds. 
+4.16 Barclays’ Corporate Bank use d the Risk Scoring Tool ( “RST”) as a risk rating 
+system. The methodology for the RST remained the same from 1 December 2014 
+to 31 December 2020  and considered four different components related to each 
+customer, namely: product, geography, industry and entity. Each component was 
+scored. Each component ha d a number of risk criteria which were analysed and 
+used to give the overall component score. The system provide d a total monthly 
+score for the customer and assign ed a risk rating accordingly. A client was 
+categorised as low, standard or high risk  based on the following factors: client/ 
+customer risk (including industry  and reputational risk); product risk ( including 
+susceptibility to money laundering) ; and delivery channels (including third party 
+introducers and distributors).  
+4.17 A customer’s risk rating was used to determine the level of due diligence that was 
+to be undertaken. The 2013 AML policy provided that low risk customers may be 
+subject to simplified due diligence and high risk customers were subject to  EDD 
+and enhanced ongoing monitoring. In 2016, an additional level was introduced, so 
+that low risk customers were subject to simplified due diligence, standard risk 
+customers were subject to  standard due diligence and high -risk customers were 
+subject to EDD. 
+4.18 Business units were required to  perform EDD during take -on for higher risk  
+customers. This included where a client was engaged in any business activity 
+connected to any restricted countries.  The policy also stated that EDD must be 
+considered for other high risk situations. The 2013 AML policy stated that EDD may 
+lead to a conclusion that a particular client/customer did not ultimately pose a high 
+risk to the business, meaning that EDD may not lead directly to the high risk 
+14 
+categorisation of a client/customer; if that was the case , business-specific 
+procedures were required to define clearly the related categorisation process. 
+Onboarding of Stunt & Co 
+4.19 The Barclays KYC team and the Relationship Director for Stunt & Co took steps to 
+gather KYC information on Stunt & Co by obtaining material directly from Stunt & 
+Co and in meetings with Stunt & Co.   
+4.20 The account opening application, dated 9 January 2015, noted: 
+(a) Stunt & Co’s nature of business was described as “Gold Refining & Trading”;  
+(b) the business was to be funded by an initial investment of £1,500,000 paid 
+into the account from various accounts of Mr Stunt;  
+(c) the company’s anticipated turnover was expected to be £500,000, although 
+this was manually amended to £3 million; and 
+(d) the company would not trade outside of the EU. 
+4.21 When the account was opened, Barclays allocated the Stunt & Co  account the 
+Barclays Industrial Classification “5240 Jewellery”, which “Includes the following 
+activities: Clocks (retail) Jewellery (retail) Watches and clocks (retail) ”. This was 
+not an accurate reflection of the anticipated nature of Stunt & Co’s business, which 
+was stated to be “Gold Refining & Trading”. 
+4.22 The 2014 Due Diligence and Onboarding Procedures state d that “BIC/BTA code 
+details” were mandatory fields to complete to facilitate the transfer of data to 
+Shared Data Services, which was Barclays’  main client reference database . This 
+linked customer records to a unique single customer identifier and allowed KYC 
+teams to view client data held by all parts of the Bank. Corporate KYC was required 
+to verify any BIC provided by the Origination team and submit a screenshot to the 
+Account Opening team to be recorded on Barclays’ systems.  
+4.23 Moreover, guidance relating to Barclays’ Alacra system (see paragraph  4.36) 
+indicated that if a h igh risk industry was i dentified at account opening, then 
+“Commercial Director/Deputy Notification 1st level sign off” was required via email. 
+If a n ew risk was identified, the Relationship Director was required to decide 
+whether to accept the risk.  
+15 
+4.24 The relationship team met with representatives of Stunt & Co on 27 January 2015 
+to discuss the account opening application , the nature of its business  and its 
+banking requirements. Barclays was informed on that occasion that Stunt & Co’s 
+business plan was for gold to be sourced from West Africa. Stunt & Co planned to 
+use secondary sources for gold , principally in Ghana and Burkina Faso . The 
+relationship team recorded in its note of the meeting, “It is not clear why they will 
+not be using main  stream [sic] suppliers.” Having sourced the gold, Stunt & Co  
+intended to p rocess it and sell it  to HNW individuals in the Middle East.  The 
+customers were expected to be primarily “James’s Middle East contacts (Jordan, 
+Kuwait, Doha & UAE […])”. The relationship team further noted, “We have stressed 
+that if they are seeking to market to the general public then we will need to 
+undertake further DD”. 
+4.25 During that meeting, Stunt & Co also informed Barclays that it had acquired the 
+lease of a foundry situated at the Assay Office, and would move in in April 2015.  
+4.26 On 28 January 2015, Barclays opened a Euro currency account for Stunt & Co. The 
+stated nature of business was “Gold Refining and Trading” and the stated reason 
+for opening the account was “Operations in Europe”. This indicated a change in the 
+geographic region of the business. The Authority considers that this should have 
+triggered a review of the risk rating of Stunt & Co.  
+4.27 On 3 February 2015, the Relationship Director received documents from  a 
+representative of Stunt & Co relating to Stunt & Co. These included a draft sale and 
+purchase agreement for the purchase of 24kg of gold by Stunt & Co from Supplier 
+A (a company based in Burkina Faso), to be delivered to the UK and shipped to the 
+Assay Office.  
+4.28 On 9 February 2015, the Relationship Director asked Stunt & Co’s representative 
+for further information about Stunt & Co’s business plan, including information on 
+the industry risk regarding the West African gold mining industry and on their KYC 
+and AML procedures in respect of suppliers . The representative of Stunt & Co  
+responded that Stunt & Co would be selling to UHNW and HNW individuals, family 
+offices, wholesalers (with a UK -based wholesaler given as an example) , private 
+banks and institutions, and  stated that procedures for AML and KYC for all their 
+customers would be  “followed closely”. The representative of Stunt & Co  stated 
+that they had  provided to Barclays all of the KYC i nformation regarding Stunt & 
+Co’s suppliers and were also using the services of  “Focus-Africa” which was 
+undertaking their due diligence procedures in Africa.  
+16 
+4.29 On 12 February 2015, the representative of Stunt & Co sent Barclays Stunt & Co’s 
+business plan, which was dated 12 February 2015 and set out details of the refinery 
+located within the Assay Office. The revenue forecast for 2015  was stated as 
+approximately £11.1 million, which did not accord with the anticipated turnover of 
+£3 million recorded in the account opening document dated 15 January 2015, less 
+than one month earlier. The representative of Stunt & Co stated that, whilst they 
+were working with Supplier A as their initial supplier , they  “will be looking to 
+diversify [their] bona fide sources”. 
+4.30 On 16 February 2015, a US Dollar currency account was opened for Stunt & Co at 
+Barclays. The nature of the business was stated as “Precious metal refinery”. When 
+asked to disclose the countries with which Stunt & Co  would be trading, the 
+response was: “TBC. Customers not yet identified. Early pre production phase of 
+business”.   
+4.31 On 26 February 2015, the relationship team met with Stunt & Co again. Stunt & Co 
+reiterated their desire to progress their first importation from Africa and “to show 
+intent to their African supplier”. 
+Barclays’ response to risks at o nboarding relating to the nature of Stunt & Co ’s 
+business 
+4.32 At account opening, Stunt & Co  was treated as a Corporate Banking customer. 
+Given the level of expected turnover of £3 million per annum, Stunt & Co did not 
+fall within the parameters of Corporate Banking.  However, given Mr Stunt’s close 
+association with another Barclays corporate customer, Barclays allocated to Stunt 
+& Co the same Corporate Banking Relationship Director as other entities in the 
+associated group of companies.  
+4.33 The account opening form for Stunt & Co stated that it would not trade outside of 
+the EU. However, the business plan discussed with the Relationship Director, and 
+concerning which they made written enquiries with the firm, stated that gold would 
+be sourced in West Africa and sold to HNW individuals in the Middle East. The Bank 
+failed to address those inconsistencies in the KYC undertaken at account opening. 
+Moreover, the business plan s tated that Stunt & Co  was to trade in gold, a high 
+value product with suppliers in certain countries in West Africa , which were 
+assessed by Barclays as presenting a high risk for the purposes of assessing money 
+laundering risk, to be sold to HNW individuals in the Middle East, a high risk region. 
+This proposed trading with suppliers and customers in high risk jurisdictions ought 
+to have been a trigger for the application of EDD according to the 2013 AML policy 
+17 
+(see paragraph 4.18). Further, Barclays had allocated Stunt & Co  the industry 
+classification of “5240 Jewellery” (see paragraph 4.21). Notwithstanding that the 
+classification should have been Gold Refining and Commercial, the 2013 AML policy 
+classified jewellers as presenting a “ higher risk” and required business units to 
+consider conducting EDD for such customers.  
+4.34 On 15 January 2015, KYC Manager A  asked the Relationship Director to confirm 
+whether they should complete standard due diligence or EDD on Stunt & Co (due 
+to the nature of its business). The Relationship Director stated that they were  
+comfortable to undertake standard due diligence at that stage and that they were 
+was going to speak to Mr Stunt to discuss the business in more detail in order to 
+decide whether or not to undertake further due diligence. Barclays failed to record 
+its rationale for deciding that EDD was not necessary for Stunt & Co. 
+4.35 Notwithstanding the financial crime risk factors around the nature of Stunt & Co’s 
+business which were apparent at account opening, Barclays classified Stunt & Co 
+as low risk and did not record its rationale for this. The Authority considers that the 
+Bank should have given closer attention to the information provided by Stunt & Co 
+and that the inconsistencies in that information ought to have been identified and 
+responded to effectively. 
+Barclays’ policies and procedures regarding adverse media 
+4.36 The 2014 Due Diligence and Onboarding Procedures  required that an adverse 
+media search be performed as part of the onboarding process and that any adverse 
+media identified required further investigation.  The Onshore KYC Manager was 
+required to complete an Alacra screening at onboarding . Alacra was a client 
+research and data aggregation tool used to highlight any relevant or detrimental 
+information within all necessary regulatory watch lists, premium databases, news 
+and web resources for potential clients and its officials . The relevant Alacra 
+guidance stated that public domain searches should be completed on individuals 
+and entities to highlight any involvement in adverse activities, which was crucial to 
+protect the bank from reputational and financial risks. The guidance also stated 
+that Google searches (including of adverse terms within Alacra) acted as a control 
+for highlighting these risks. 
+Barclay’s adverse media checks on Stunt & Co 
+4.37 Stunt & Co’s account opening document records adverse media checks conducted 
+on 15 January 2015. The Authority has seen no evidence that the adverse media 
+18 
+results were reviewed and if so, why they were discounted.  This lack of further 
+investigation into the adverse media results or consideration by the Relationship 
+Director of whether to accept the risk was contrary to Barclays’ policies regarding 
+adverse media (as set out at paragraph 4.36). 
+KYC sign-off of Stunt & Co at onboarding 
+4.38 The 2014 Due Diligence and Onboarding Procedures stated that an attestation by 
+the Relationship Director had to be completed detailing all relevant red flags, and 
+that all investigations, escalations and EDD must be completed and resolved before 
+the case was submitted to the Offshore team for account opening. 
+4.39 The Stunt & Co  account opening document  included the attestation form which 
+required the Relationship Director to indicate the a utomatic compliance referrals 
+and red flags  which applied to the client , which included “Trade with High -Risk 
+Jurisdictions/Countries”.  
+4.40 Had Barclays conducted effective CDD to enable it to have a sound understanding 
+of the nature of Stunt & Co’s business prior to the account opening according to its 
+own policies (see paragraph 4.14), it would have ascertained  that Stunt & Co ’s 
+stated business model involved trading gold with suppliers and customers in high-
+risk jurisdictions (West Africa and the Middle East) , and that the red flag “ Trade 
+with High -Risk Jurisdictions/Countries ” on the attestation form was therefore 
+applicable. Instead, Barclays obtained this information  after the account opening, 
+on 27 January 2015 (see paragraph 4.24).  
+4.41 The form noted that if the Relationship Director identified that one or more of those 
+compliance referrals or red flags applied to the client, they must provide supporting 
+material to evidence that mandatory EDD had been applied. Although the 
+information a vailable to Barclays at onboarding indicated that certain of the 
+compliance referrals and red flags applied to Stunt & Co, no EDD was undertaken 
+and there was no rationale recorded to explain the absence of EDD. 
+4.42 On 15 January 2015, KYC Manager A and the Relationship Director each signed the 
+attestation. The attestation signed by the Relationship Director confirmed the 
+following: 
+“As the Relationship Director with ultimate responsibility for the due 
+diligence completed for the client, I confirm that there are no Automatic 
+Compliance Referrals (ACRs) or Red Flags associated with this client. 
+[…]  
+19 
+Consequently, I am satisfied that the overall due diligence conducted for 
+this client adequately reflects the risk of on-boarding and/or maintaining the 
+client relationship.”  
+4.43 The attestation form included a section where the Relationship Director was 
+required to provide detailed comment as to why they were supportive of the client 
+onboarding or relationship retention notwithstanding the automatic compliance 
+referrals/red flags that had been triggered for the client , and to indicate the 
+automatic compliance referrals /red flags to which their comments referred.  The 
+Relationship Director did not record any comments in respect of Stunt & Co, despite 
+the automatic compliance referrals / red flags that applied based on the information 
+available to Barclays at that time and despite lacking a sound understanding of 
+Stunt & Co's business.  
+4.44 Had Stunt & Co been given a high risk rating at onboarding, the relationship would 
+have been subject to annual KYC reviews under Barclays’ policies. 
+4.45 Barclays’ failure to conduct EDD on Stunt & Co at onboarding, notwithstanding the 
+high risk nature of its business  and the high risk jurisdictions of the proposed 
+suppliers and customers, was contrary to  the JMLSG Guidance, which stated that 
+where the risks of money laundering are higher, firms must conduct EDD measures 
+consistent with the risks identified (see Annex A).  
+Review of Mr Stunt as a potential Wealth customer in 2015 
+4.46 On 25 April 2015, the WIM banker emailed the Relationship Director stating they 
+had been introduced to Mr Stunt who wished to open a Wealth account (this was 
+further to the personal bank account Mr Stunt already held with Barclays). The WIM 
+banker stated they needed to “make a full and detailed KYC and analysis of his 
+SOW [Source of Wealth]” and asked the Relationship Director if they could assist. 
+On the same day the WIM banker emailed the WIM team to ask them to assist with 
+an EDD report, focussing on potential concerns around Mr Stunt’s source of wealth. 
+On 29 April 2015, the WIM EDD Analyst tasked with the open source EDD report 
+emailed the WIM banker noting potential concerns . They agreed to put the EDD 
+report on hold until Mr Stunt provided information around his source of wealth. The 
+WIM MLRO was copied into that email. 
+4.47 On 1 May 2015, the WIM EDD Analyst confirmed to the WIM banker  that they 
+understood that they would not be proceeding with this relationship, following the 
+20 
+WIM banker’s contact with Mr Stunt’s office. The WIM banker confirmed that this 
+was correct and that they had updated the Relationship Director in Corporate. 
+4.48 On 22 May 2015, the WIM team finalised its report using open source material only. 
+Barclays was not able to obtain adequate evidence of Mr Stunt’s source of wealth. 
+The report noted four potential sources of wealth for Mr Stunt: his relationship with 
+wealthy individuals; his corporate interests; trading in high value goods; and family 
+money. The report suggested that Mr Stunt’s wealth derived from an association 
+with a publicly listed company but there was little evidence of Mr Stunt receiving 
+money from th e firm or any connected initial public offering. The report also 
+identified media reports relating to Mr Stunt seeking injunctions against journalists 
+enquiring into his source of wealth. 
+4.49 The report concluded that Mr Stunt’s source of wealth was unclear from open source 
+research and that it had not been possible to establish verifiable evidence of “any 
+independent and self -generated source of wealth”; it stated that the only 
+“immediately apparent and credible source of his wealth” derived from his 
+association with wealthy individuals. The Wealth relationship was not pursued with 
+Mr Stunt.  
+4.50 The WIM team’s concerns in respect of Mr Stunt’s source of wealth were not relayed 
+to the Relationship Director at the time or other Barclays staff responsible for 
+assessing the money laundering risks associated with Stunt & Co. As a result, those 
+concerns did not inform any consideration of whether the risk rating for the Stunt 
+& Co account remained appropriate or whether EDD or enhanced monitoring should 
+be applied . This was contrary to the JMLSG Guidance which state d that where 
+appropriate and practical, firms should take reasonable steps to ensure that where 
+they have CDD information in one part of the business, they are able to link it to 
+information in another (see paragraph 4.7).  
+4.51 Further, Barclays did not seek to obtain more information on Mr Stunt’s source of 
+wealth at that time despite the WIM team concluding that this was unclear  from 
+open sources . This was despite the JMLSG Guidance stating that an  existing 
+customer applying to open a new account  might be a trigger event for a firm to 
+seek appropriate evidence on its customers for the purposes of applying CDD (see 
+paragraph 4.4). 
+21 
+Relationship between Stunt & Co and Fowler Oldfield 
+4.52 On 10 June 2015, a Stunt & Co representative emailed the relationship team to 
+explain that they were expecting to make a payment to Fowler Oldfield and stated 
+that Fowler Oldfield was “an established UK refinery [….] who have been introduced 
+to us by the […] Assay Office.”  
+4.53 The Barclays account of Stunt & Co  received 561 electronic payments totalling 
+£46.8 million from Fowler Oldfield between July 2015 and August 2016. The first 
+remittance from Fowler Oldfield was £100,000 on 22 July 2015. Between 22 July 
+2015 and 8 October 2015, there were 105 payments totalling £8,934,591.55 
+remitted by Fowler Oldfield to Stunt & Co . Those payments were, at the time, 
+outside of the expected business activity of Stunt & Co  as set out in the KYC 
+information held by Barclays (see paragraphs 4.20 and 4.29) in terms of both the 
+value of the payments into the account and the source of those payments.  
+4.54 On 8 October 2015, the relationship team held a third meeting with Stunt & Co’s 
+management. Stunt & Co informed Barclays at this meeting that the UK refinery 
+was now operating but it had found that buying direct ly from African suppliers 
+hadn’t been successful. Stunt & Co further informed Barclays that it had established 
+a joint venture with Fowler Oldfield, which was 70% controlled by Stunt & Co with 
+the remaining 30% controlled by Fowler Oldfield, and that they intended to merge 
+their refinery operations. The joint venture entity was not a Barclays customer. 
+4.55 Barclays was also informed at the meeting that through connections of Mr Stunt, 
+Stunt & Co  had arranged a $10 million master bullion facility with Bank A. The 
+facility was described as enabling Stunt & Co  to sell/buy gold or finance the 
+acquisition of scrap gold.  Stunt & Co stated that with that facility in place, it had 
+achieved revenue of £5 million in September and expected to increase that to £10 
+million in December.  
+4.56 Until 8 October 2015, Barclays’ knowledge of the business plan of Stunt & Co was 
+that it would buy gold from entities in West Africa and sell it to HNW individuals in 
+the Middle East. The account activity and the value of the transactions in the 22 
+July 2015 to 8 October 2015 period did not reflect the expected account activity of 
+Stunt & Co. Barclays had, until 8 October 2015, no information as to the intended 
+conduct of the joint venture  with Fowler Oldfield. This notwithstanding, Barclays 
+took no immediate steps to verify the information provided  relating to the new 
+relationship between its customer and Fowler Oldfield to enquire further into the 
+22 
+business arrangement with Fowler Oldfield, nor to consider whether the change in 
+business model and turnover merited a reconsideration of Stunt & Co’s risk rating 
+or a need to conduct EDD. Further, the payments made by Fowler Oldfield did not 
+trigger any transaction monitoring alerts.   
+Adverse media in November 2015 
+4.57 On 30 November 2015 the WIM banker forwarded to the WIM team a recent media 
+article which questioned the source and size of Mr Stunt’s wealth.  
+4.58 In response to this adverse media, the WIM EDD Analyst referenced the WIM 
+team’s review in May 2015 of Mr Stunt, noting that they had considered his source 
+of wealth to have been “opaque” and “deeply unclear”. Whilst it had not identified 
+any criminality relating to Mr Stunt’s source of wealth, the WIM team contacted the 
+Barclays Financial Crime team and described Mr Stunt as “potentially a person of 
+interest to corporate fin crime ” and re-attached its “coverage of Stunt” with “the 
+details of the Stunt & Co. Relationship re: gold from West Africa”.  
+Further transfers from Fowler Oldfield to Stunt & Co 
+4.59 On 31 December 2015, Fowler Oldfield sent a round sum payment of £1 million to 
+Stunt & Co’s account. This payment was ten times the previous largest payment 
+into the account from Fowler Oldfield. Notwithstanding the unusualness of the value 
+of that transaction, no monitoring alert was triggered and the account was not 
+subject to review. 
+4.60 By the end of January 2016, Stunt & Co  had received £20 million from Fowler 
+Oldfield in 200 round sum payments of £100,000. 
+KYC refresh of Stunt & Co in 2016 
+4.61 In January 2016 due to adverse media the Financial Crime Advisory team requested 
+that the KYC team perform an out-of-cycle KYC review of Stunt & Co.  The Financial 
+Crime Advisory team also specifically required that Mr Stunt confirm the source of 
+his wealth, how it was acquired and the source of funds into the business.  
+4.62 In May 2016 Mr Stunt was subject to a Sta ndard Risk Refresh which w as an 
+electronic identification and verification review using credit rating agency 
+information. The standard risk rating for Mr Stunt was maintained. 
+23 
+The KYC refresh – policy requirements and actions taken 
+4.63 Barclays’ procedures for a KYC refresh dated November 2015 set out a range of 
+trigger events which could prompt either a full or partial KYC refresh, including 
+“Significant spike or sustianed [sic] increase in turnover / change to source of funds 
+/ significant adverse media”, stating that a combination of changes and triggers 
+may indicate a wider issue or influence a change to the client’s risk profile . The 
+procedures also set out the requirement to escalate adverse media relating to 
+financial crime to the Corporate Banking Financial Crime team.  
+4.64 In the case of Mr Stunt and his associated entities, KYC Manager B and the Financial 
+Crime Advisory team were responsible for arranging the KYC refresh. At the start 
+of the KYC refresh on 7 January 2016, the Financial Crime Advisory team  liaised 
+with the Relationship Director’s team and advised them that the focus should be 
+on Mr Stunt’s source of wealth and the source of funds into their businesses. When 
+the refresh started on 7 January 2016, Stunt & Co had a risk rating of “Low” and 
+Mr Stunt had a standard risk rating.   
+KYC information gathering 
+4.65 The KYC refresh team asked the Relationship Director’s team to obtain information 
+from Stunt & Co including: 
+(a) whether Mr Stunt was the sole key official, the only individual on the executive 
+board and whether any other individual had control over the running of the 
+business; 
+(b) the company’s business activity and nature of its business; and 
+(c) the source of funds for the company, including the expected annual turnover 
+though the account, and whether the origin, destination and value of funds 
+passing through the account were consistent with what was anticipated and 
+the client’s nature and purpose of business. 
+The Relationship Director was also asked to comment on the risk that proceeds of 
+crime might be transacted through the Stunt & Co account.  
+4.66 To conduct these KYC checks, the Relationship Director contacted Stunt & Co and 
+also Mr Stunt’s accountant, as set out below. 
+4.67 Around early February 2016, the Relationship Director had a call with a 
+representative of Stunt & Co  regarding the provision of Stunt & Co ’s accounting 
+24 
+information, in which they were informed that the initial set of audited accounts for 
+Stunt & Co  were being prepared for the period ending 31 March 2016. Barclays 
+appears to have received the audited accounts for Stunt & Co on 7 February 2017 
+(see paragraph 4.120). 
+4.68 On 11 February 2016, the Relationship Director asked Stunt & Co to provide details 
+of the CDD that it had undertaken on Fowler Oldfield prior to the establishment of 
+commercial arrangements with it. That information was important to obtain to 
+understand the relationship between Stunt & Co  and Fowler Oldfield with which 
+Stunt & Co  had had entered into a profit sharing arrangement , given the risks 
+around that relationship . Barclays’ procedures stated that CDD was about 
+understanding the risks clients may pose to their business and listed examples of 
+“effective CDD ” as capturing and analysing information about the client to 
+understand “who they trade with (customers, suppliers, partners)” (see paragraph 
+4.14). The Relationship Director specifically asked Stunt & Co to provide: copies of 
+the latest audited accounts of the Fowler Oldfield group entity; details of Fowler 
+Oldfield’s KYC and AML practices on customers that Fowler Oldfield acquired gold 
+from and to whom Fowler Oldfield sold gold that had been refined at Stunt & Co’s 
+refinery; and documentary evidence to show that the HMRC inspections, which 
+Stunt & Co had informed Barclays that Fowler Oldfield were subject to regularly, 
+were satisfactory from the perspective of HMRC.  
+4.69 On 26 February 2016 Stunt & Co  provided to the Relationship Director what it 
+described as “relevant KYC information”. That consisted of a copy of a certificate of 
+incorporation on a change of name for Fowler Oldfield , a copy of the VAT 
+registration form which list ed the trade classification of Fowler Oldfield as “Retail 
+Predom. Food, drink or tobacco” and copies of the driving licences for two directors 
+of Fowler Oldfield. Stunt & Co also provided an unaudited set of accounts for Fowler 
+Oldfield for the year ending 31 December 2014.  
+4.70 Barclays failed to identify and e nquire about  the discrepancy in the trade 
+classification for Fowler Oldfield in the VAT registration form, nor did it follow up on 
+that point with Stunt & Co. Further, the requested documentary evidence of HMRC 
+inspections was not provided, nor the  requested copies of the AML processes of 
+Fowler Oldfield . No further information demonstrat ing the legitimacy of Fowler 
+Oldfield’s business was obtained. The documents provided by Stunt & Co therefore 
+did not address the KYC requirements of Barclays required from Stunt & Co and 
+the information was never provided.  
+25 
+4.71 The Relationship Director also requested a copy of the master bullion agreement 
+between Stunt & Co and Bank A; Stunt & Co attached a copy of that agreement to 
+its response. The copy provided was unsigned and undated; no steps were taken 
+by Barclays to verify its legitimacy.  
+4.72 The Relationship Director  identified at that time that Fowler Oldfield  remitted 
+between £300,000 to £900,000 per day to Stunt & Co, giving an annual turnover 
+estimated to be £150 million - £200 million.  
+The Relationship Director’s view on financial crime risk 
+4.73 As part of the KYC review, the KYC team also asked the Relationship Director how 
+high the risk was that the proceeds of crime could be included in the traffic they 
+saw. The Relationship Director responded on 8 February 2016: 
+“Given the nature of the company’s activity, the risk must be considered 
+medium but this is mitigated by the fact that the majority of the company’s 
+stock is sourced via [Bank A] and the CDD undertaken on Fowler Oldfield 
+(further details are being sought). Fowler Oldfield are responsible for the 
+AML processes relating to the ultimate vendor of scrap gold and we 
+understand that they are subject to regular and satisfactory HMRC 
+reviews.”’ 
+4.74 The Relationship Director had not however obtained, or where appropriate, verified, 
+evidence supporting the factors which he considered mitigated the financial crime 
+risk presented by Stunt & Co.  
+Mr Stunt – Attempted verification of source of wealth  
+4.75 On 8 January 2016 the Relationship Director was informed by the KYC team that 
+Barclays’ Financial Crime Advisory team required evidence of Mr Stunt’s source of 
+wealth. To assist the Relationship team, Barclays’ financial crime team pro vided 
+the “Permissible Source of Wealth” guidance accepted by Barclays. This document 
+provided guidance on the categories  of documents that might be requested to 
+assess a customer’s source of wealth. These included: a copy of a contract of sale 
+of assets in the client’s name; proof of employment; copies of wills and trust deeds 
+and/or a grant of probate letter; evidence of legal settlements (for example, a 
+divorce); copies of latest company reports; tax returns; and investment valuations, 
+portfolio of holdings and evidence of how this had been accumulated. 
+26 
+4.76 On 11 February 2016 , the Relationship Director requested that Mr Stunt’s 
+accountant provide to Barclays evidence of Mr Stunt’s source of wealth for internal 
+KYC purposes and requested a statement of assets.  
+4.77 On 19 February 2016, Mr Stunt’s accountant, whilst providing some information to 
+the Relationship Director relating to the business of Stunt & Co, noted that he would 
+provide the requested source of wealth information, subject to Mr Stunt’s 
+instructions and agreement.  
+4.78 Barclays did not receive the source of wealth information and chased the 
+accountant for a response. On 31 August 2016 (almost six months later) the 
+accountant wrote to the Relationship Director stating that Mr Stunt was “ very 
+reticent to provide personal information regarding his finances, particularly when 
+there is almost constant press speculation regarding that matter .” The Authority 
+considers that such hesitancy in providing CDD information could be a red flag from 
+an AML perspective. The accountant’s response attached a letter addressed to the 
+Relationship Director dated 18 April 2016 (which Barclays had not previously 
+received). In that letter the accountant provided brief and mostly generalised 
+information about Mr Stunt’s source of wealth , with no supporting evidence . 
+Although th e accountant’s  response did not accord with Barclays ’ “Permissible 
+Source of Wealth ” guidance , no further enquiries, or attempts to obtain such 
+documentation, were made.  
+Risk rating following KYC refresh 
+4.79 Barclays’ Financial Crime team triggered the requirement for verification of Mr 
+Stunt’s source of wealth. Despite the failure to obtain verified source of wealth 
+information that complied with Barclays’ policy requirements, Barclays retained its 
+customer relationship with Mr Stunt and Stunt & Co. Further, Barclays did not revise 
+the risk rating for either customer, with Mr Stunt continuing to be assessed as 
+standard risk and Stunt & Co  as low risk. In particular, Barclays was unable to 
+provide a satisfactory explanation to the Authority as to why it was satisfied with 
+the unverified information received from Mr Stunt’s accountant in relation to his 
+source of wealth. 
+4.80 Following that KYC refresh conducted in 2016, Mr Stunt continued to be rated as 
+standard risk (until 23 March 2021, and his accounts were subject to a restraint 
+order from August 2018 – see paragraph 4.132) and Stunt & Co remained low risk. 
+This was notwithstanding the lack of verifiable evidence obtained during the KYC 
+refresh on Mr Stunt’s source of wealth and the failure to follow up on the inadequate 
+27 
+CDD information provided by Stunt & Co  on Fowler Oldfield . Barclays’ own 
+procedures for a KYC refresh included significant adverse media amongst triggers 
+which might prompt consideration of whether the risk profile of the client  should 
+change (see paragraph 4.63). Barclays has no record of having assessed the risk 
+profile of Mr Stunt following adverse media reports relating to him. 
+ 
+Court orders relating to Stunt & Co in 2016 
+Barclays’ policies for responding to court orders 
+ 
+4.81 Barclays’ Court Orders Operational Process, in force from November 2015, set out 
+the procedures to be taken by the Court Orders team following receipt of Production 
+Orders, namely: (a) reviewing the orders before logging the detail, and escalating 
+them to the legal department where necessary; (b) logging the information onto 
+the Bank’s systems; (c) collation of all materials that had been requested to fulfil 
+the court order; and (d) supply of collated materials to the requesting officer., 
+4.82 A further policy dated 29 June 2015 stated that the Inquiries and Surveillance 
+Personal and Corporate Banking team was responsible for liaising with law 
+enforcement, in particular in respect of court orders and carrying out investigations 
+from FIU intelligence gathering; this policy was replaced by a policy dated  9 
+December 2016 which stated that court orders were processed by Barclays’ Court 
+Orders Team. It stated that the Court Orders Team will liaise with Investigations 
+only if there is a financial crime element to the request and the request is complex, 
+and that any subsequent investigation will be recorded in the case management 
+system used by the IMI team. 
+4.83 Barclays had further supplemental guidance in relation to trigger s for KYC/CDD  
+which came into force in or around January 2017. This stated that any court order 
+issued under PACE or POCA or originated by HMRC will trigger a full CDD refresh 
+and business activity review on the client or any related parties.  
+Production Orders relating to James Stunt and Stunt & Co 
+4.84 Between August and November  2016, Barclays received the following Production 
+Orders requiring documents and information relating to the accounts of Mr Stunt 
+and his associated entities, including Stunt & Co. The Production Orders arose from 
+a criminal investigation into allegations of money laundering by Fowler Oldfield: 
+28 
+(a) 11 August 2016 - this required Barclays to provide documents from 5 May 
+2016 to 11 August 2016 and annual turnover figures for 2014, 2015 and 2016 
+on Stunt & Co ’s account. It also sought “ details only ” of all connected 
+accounts; 
+(b) 22 August 2016 – this related to Stunt & Co and required the production of 
+all related accounts in the preceding 6 years; 
+(c) 4 November 2016 – this related to Mr Stunt and required information about 
+all accounts for which he was a signatory in the preceding 6 years.  
+4.85 Barclays’ Court Orders Team  typically processed court orders ; however the 
+Investigation team in IMI  dealt with the receipt and processing of the Production 
+Orders received as part of the criminal investigation into Fowler Oldfield. Following 
+receipt of the first Production Order, the Investigations team contacted the police. 
+4.86 The receipt of multiple Production Orders in 2016 did not trigger a change to the 
+risk rating of the Stunt & Co account. 
+Request from law enforcement in 2016 
+ 
+Barclays AML Intelligence team 
+ 
+4.87 Barclays had a team in its FIU which was responsible for dealing with requests from 
+law enforcement relating to money laundering (“the Barclays AML Intelligence 
+team”). The Barclays AML Intelligence team first received these types of requests 
+in May 2016. 
+Request from law enforcement 
+4.88 On 16 August 2016, the Barclays AML Intelligence team recorded in its work log:  
+“We are expecting a [request from law enforcement ] in relation to a 
+company known as Fowler Oldfield who in the last year have paid £235 
+million though their accounts, £206m in cash deposits. The money has been 
+laundered through three company accounts [...]”.   
+Stunt & Co was named as one of those three accounts.  
+29 
+4.89 On 17 August 2016, the Barclays AML Intelligence team received the request from 
+law enforcement and was informed that this  required an initial response by 19 
+August 2016, and that the request should be prioritised.  
+4.90 The request from law enforcement stated: “ This is a request for information 
+concerning a […] Police investigation of the activities of UK registered company, 
+Fowler Oldfield Ltd in relation to suspicions of potential money laundering.” It listed 
+a number of “ Subjects”, including Stunt & Co , which was noted as holding an 
+account with Barclays. 
+4.91 The request explained that Fowler Oldfield was processing significant cash which 
+was suspected of being laundered money: “ It has been noted that there is a 
+‘prominent smell’ on the cash being deposited which is also made up of a high 
+proportion of Scottish Notes. ” Stunt & Co  was specified as one of three main 
+recipients of electronic credits from Fowler Oldfield. Stunt & Co did not receive cash 
+into the account from Fowler Oldfield. 
+4.92 The request further stated: 
+“Information contained within this report may be shared within the recipient 
+organisation to progress the enquiry. Where data is shared [the issuing 
+agency’s] name should be redacted and the request should be refined so 
+that only relevant information is sent.” 
+4.93 On the day the request was received, the Barclays AML Intelligence team emailed 
+Barclays’ Financial Crime Analytics team enquiring which of their customers had 
+received money from Fowler Oldfield which was “believed to have laundered the 
+proceeds of crime ”. On 17 August 2016 the Barclays AML Intelligence team  
+informed Financial Crime Advisory management of “findings and job to date.”  
+4.94 On 18 August 2016, Financial Crime Analyst A emailed the Barclays AML 
+Intelligence team  attaching the results of their searches and stated, “ This has 
+returned 88 cross-border payments […]”. Financial Crime Analyst A identified three 
+further Fowler Oldfield account numbers and recommended that their review be 
+expanded to look for cross border payments for those three accounts also. Financial 
+Crime Analyst A stated that they had included in the results a list of the Barclays 
+customers with whom Fowler Oldfield was transacting, and asked the Barclays AML 
+Intelligence team to review this and inform them if they wished for any of these 
+names and accounts to be included in their secondary search. Financial Crime 
+Analyst A identified 20 Barclays customers who had transacted with Fowler Oldfield.  
+30 
+4.95 The Barclays AML Intelligence team member who had received the request from 
+law enforcement responded to Financial Crime Analyst A’s email the same day 
+stating, “I think for the initial request this is great I will report back to [the issuing 
+agency] as an initial response and further develop when I get chance [sic].” The 
+Barclays AML Intelligence team did not however conduct that further development.  
+4.96 On 19 August 2016, the Barclays AML Intelligence team emailed FIU management 
+regarding the request and stated, “A company known as Fowler Oldfield is reported 
+to had [sic] laundered £230 million (£206 million in cash), through its bank 
+accounts – the money has been sent to three other companies, one of which is a 
+customer of Barclays know [sic] as Stunt & Co”. The Barclays AML Intelligence team 
+stated that “ through the initial analysis completed it can be seen  that since July 
+2015 to 01 July [sic] [2016] STUNT & Co has received in excess of £59 million from 
+Fowler Oldfield”. The Barclays AML Intelligence team noted that the funds appeared 
+to have been sent by Stunt & Co  to an account at Bank A. The Barclays AML 
+Intelligence team reported that to date it had responded to the initial request from 
+law enforcement “by identifying [their] initial exposure”. Barclays does not have a 
+record of a response to law enforcement, but has informed the Authority that it 
+responded by telephone to the police on 18 August 2016, in which it provided 
+details of another Barclays customer account and account numbers for Fowler 
+Oldfield that were not included in the request. On 19 August 2016 Barclays 
+informed the police, likely by phone, of the signatories of the Stunt & Co account. 
+4.97 The Barclays AML Intelligence team  further noted on 19 August 2016 to FIU 
+management that it had received from the analysts “other companies who have 
+transacted with Fowler Oldfield  – this is in preparation gaining [sic] an 
+understanding of the account activity, and identifying any conduct which would be 
+of concern for the bank in terms of activity and our customers customer.”  
+4.98 The Barclays AML Intelligence team  member who received the request from law 
+enforcement informed the Authority that ideally there ought to have  been a full 
+analysis of the accounts to see if there was suspicious activity, however they didn’t 
+finish this analysis because of resource constraints in the team. They stated to the 
+Authority that they did not have sufficient understanding of the facts about Stunt 
+& Co to inform any such suspicion.  
+4.99 The Barclays AML Intelligence team failed to sufficiently develop the intelligence in 
+the request from law enforcement . Neither t he intelligence contained within the 
+request, nor the existence of the intelligence, was recorded on any system which 
+31 
+was visible to relevant staff outside of the Barclays AML Intelligence team, nor was 
+there a process in place which could flag to relevant staff that intelligence was held. 
+Neither the intelligence in the request from law enforcement nor that fact that there 
+was intelligence, was known to the IMI team or the Relationship Director. Analysts 
+reviewing transaction monitoring alerts would not be aware that intelligence was 
+held that may be relevant to their assessment of account activity of Stunt & Co and 
+other parties, and those reviewing any suspicious account activity would not have 
+been aware of that intelligence. 
+4.100 The Barclays AML Intelligence team showed Financial Crime Advisory management 
+the request from law enforcement; the team did not develop the intelligence it had 
+received and relied on Financial Crime Advisory management to review the Stunt 
+& Co relationship for exposure.  
+4.101 In appropriate cases, the Barclays AML Intelligence team  escalated cases to FIU 
+management which would escalate the cases to senior management as it saw fit. 
+The Barclays AML Intelligence team reported this case to FIU management on 19 
+August 2016 because of the potential reputational risk. FIU management forwarded 
+the Barclays AML Intelligence team’s request to front office senior management the 
+same day describing the circumstances as “ a typical [law enforcement AML 
+intelligence] issue, albeit with some u rgency around it” and noting that if 
+appropriate, the matter would be handed over to investigations.  
+4.102 According to Financial Crime Advisory management, the role of developing 
+intelligence received by the Barclays AML Intelligence team to identify any exposure 
+that Barclays had would have been within the IMI function and the Barclays AML 
+Intelligence team as well. As set out at paragraphs 4.121 to 4.131 below, the IMI 
+team was in fact conducting a review into Stunt & Co from September 2016, shortly 
+after the request from law enforcement was received by Barclays – however it was 
+not made aware of the request.  
+4.103 Notwithstanding the intelligence received in the request from law enforcement that 
+Fowler Oldfield was making electronic transfers to Stunt & Co in circumstances 
+where Fowler Oldfield was being investigated in relation to suspicions of potential 
+money laundering, the exposure identified by Financial Crime Analyst A and the 
+concerns noted by the Barclays AML Intelligence team , no suspicions of money 
+laundering were formed by Barclays  relating to the activity on the Stunt & Co  
+account following receipt of the  request from law enforcement. Further, Barclays 
+did not conduct at the time an internal investigation or review of the identified 
+32 
+customers. Despite the exposure review being identified by the Barclays AML 
+Intelligence team as a suitable step to be taken, a review of the bank’s exposure 
+to Fowler Oldfield  did not take place until 2021  following the Authorit y’s 
+announcement of its criminal case against NatWest (see paragraph 4.141). 
+4.104 The Authority considers that the intelligence received in the request from law 
+enforcement on 17 August 2016 represented a situation which by its nature can 
+present a higher risk of money laundering requiring EDD and enhanced ongoing 
+monitoring, in accordance with the 2007 Regulations and the JMLSG Guidance (see 
+paragraph 4.6). Despite the financial crime red flags that were raised in the  
+request, namely that Stunt & Co  was in receipt of substantial funds from a 
+suspected money launderer, Stunt & Co was not referred for a risk rating review. 
+This was contrary to the JMLSG Guidance which stated that, where appropriate and 
+practical, and where there are no data protection restrictions, firms should take 
+reasonable steps to ensure that where they have c ustomer due diligence 
+information in one part of the business, they are able to link it to information in 
+another (see paragraph 4.7). As a result, no EDD nor enhanced ongoing monitoring 
+was applied. 
+Processes at Barclays for AML requests from law enforcement 
+4.105 Barclays did not have any formal policies, reporting lines or governance in place 
+for the processing of requests from law enforcement relating to money laundering 
+in August 2016 when the request was received. Barclays formalised procedures in 
+relation to intelligence relating to money laundering  received from requests from 
+law enforcement subsequently.   
+Failure to consider other information 
+4.106 During the period that the relevant Barclays AML Intelligence team member worked 
+on the law enforcement request, they were not aware that Production Orders had 
+been received in relation to the Stunt & Co  account or Mr Stunt. Further, those 
+dealing with the Production Orders for Stunt & Co were not aware of the intelligence 
+in the request from law enforcement. The Barclays AML Intelligence team member 
+had no interaction with the Court Orders Unit  or the intelligence or investigation 
+teams. The relevant Barclays AML Intelligence team  member did not share the 
+information from the request from law enforcement with the IMI team. 
+33 
+Police raids and adverse media in early autumn 2016 
+ 
+4.107 In September 2016 the police raided the offices of Fowler Oldfield and Stunt & Co. 
+It was reported in the media that 12 people were arrested in relation to money 
+laundering.  
+4.108 Following the raid, the police informed Barclays that the media article regarding 
+the raid was factually correct, and that 12 people were arrested at Fowler Oldfield, 
+but no arrests were made at Stunt & Co. The police also noted that  there was a 
+“close link” between Fowler Oldfield and Stunt & Co, as Gregory Frankel was part 
+of the family that owned the Fowler Oldfield business and was a Vice Chairman at 
+Stunt & Co. The police confirmed that they had not decided whether to review the 
+account of Stunt & Co in any greater detail, and there had been no decision made 
+to obtain a restraint/freezing order against Stunt & Co. 
+4.109 A Financial Crime Inquiries and Surveillance log in September 2016 recorded that:  
+“Adverse media on Stunt and Co. Ltd (bullion and gold sales) and Fowler 
+Oldfield (wholesale gold dealer), indi cating raids by UK law enforcement 
+reportedly in regards of an internal fraud against Stunt and Co. Cout [sic] 
+orders received from UK law enforcement. Account review into Stunt and 
+Co […] undertaken by Investigations, Monitoring, Intelligence. 
+We have not crystallised suspicion at this stage following an investigation in 
+to [sic] the account activity”.  
+4.110 The adverse media did not trigger a change to the risk rating of Mr Stunt or any of 
+his corporate accounts.  
+Application of adverse media policies to press coverage of police raids in 2016 
+4.111 Barclays’ 2013 AML policy required a review of the CDD in the event of trigger 
+events which included the report of potential suspicious activity. 
+4.112 Additionally, a Barclays policy titled “Significant Negative News” dated June 2016 
+provided direction when adverse media was identified. It stated that all clients, 
+including “Related Parties” (for example, Control Persons and UBOs) identified as 
+being the subject of “Significant Negative News” must be automatically referred to 
+the EDD team (which was part of the corporate banking financial crime risk team). 
+34 
+4.113 The Significant Negative News policy stated that w here a client or connected 
+individual was subject to significant negative news, especially where criminal 
+activity or regulatory enforcement was a feature, this must be reviewed and 
+investigated further to ensure the risk was an acceptable one for the Bank as well 
+as to determine what additional controls and monitoring may be necessary to risk 
+manage that client effectively from a financial crime perspective. 
+4.114 The adverse media, and the information obtained from the police, in September 
+2016 identified financial crime allegations in relation to Fowler Oldfield. Barclays 
+was aware at that time, from its meeting with Stunt & Co on 8 October 2015 and 
+from the start of the KYC refresh of Stunt & Co in January 2016, that Stunt & Co 
+and Fowler Oldfield had a close business relationship. It was also clear that Barclays 
+had not received adequate information about Fowler Oldfield , despite having 
+requested it from Stunt & Co. Further, Stunt & Co’s account activity showed that 
+substantial funds, both in terms of absolute value and proportion, were received 
+by it from Fowler Oldfield. None of those factors appear to have raised concerns at 
+Barclays or prompted at that time further CDD/a referral for EDD, contrary to 
+Barclays’ policies, and Stunt & Co remained a low-risk customer. 
+4.115 Barclays did initiate a review of its relationship with Stunt & Co around the time of 
+the police raid. That review by the IMI team is set out at paragraphs 4.121 to 4.131 
+below; however, the final report from the IMI team indicates that the reviewer of 
+that report was aware of the police raids. The report concluded: “No further action 
+required from IMI at the present time”.  
+Finalisation of the KYC review 
+ 
+4.116 On 19 November 2016, the Relationship Director  emailed the Financial Crime 
+Advisory team in relation to the IMI review known as “Project Dust” stating that 
+they were being chased on the KYC refresh for Stunt & Co, and that, whilst they 
+were “aware of other matters on-going”, they had received an attachment from Mr 
+Stunt’s accountant which , they stated, identified the source of funds placed into 
+the Stunt & Co account and Mr Stunt’s source of wealth. The Relationship Director 
+stated that there were “doubtless many questions that could still be asked ” but 
+they believed that this document provide d sufficient information to address the 
+matter of Mr Stunt’s source of wealth for the purpose of the KYC refresh issue  
+35 
+“whilst other matters continue”. The Financial Crime Advisory team responded on 
+21 November 2016 providing its agreement. 
+4.117 On 19 December 2016, an Alacra report was produced which included details about 
+Stunt & Co, James Stunt and his accountant. The report included significant adverse 
+media on the police money laundering raids on Stunt & Co in September 2016. The 
+report noted that email confirmation had been received from the Relationship 
+Director for Google search results concerning Stunt & Co to be discounted, but no 
+rationale was recorded for that decision. The Financial Crime Advisory team noted 
+(with the Relationship Director in copy ) on 15 December 2016:  “From a KYC 
+perspective you can proceed with the case. Fin Crime is aware of the adverse”.  
+4.118 Following completion of the KYC refresh, on 4 January 2017 KYC Manager B emailed 
+the Relationship Director requesting that they sign the attestation form regarding 
+the KYC completion. This was required due to identification of “significant negative 
+news”. The Relationship Director  signed the form on 6 January 2017  with the 
+comment: “The adverse press reports have been fully disclosed and discussed with 
+the Financial Crime team. We are in ongoing dialogue with them and will continue 
+to do so until the present position is satisfactorily resolved […]”. The Authority has 
+not seen evidence  of any discussions between the Relationship Director and the 
+Financial Crime team which records how they were reassured about the adverse 
+news relating to Stunt & Co. The risk rating for Stunt & Co remained “low risk” at 
+that time.  
+4.119 Barclays informed the Authority that between November 2016 and January 2017 a 
+decision was taken to complete the KYC refresh process. It noted that this decision 
+was taken “(a) in light of the additional information regarding Stunt & Co, and Mr 
+Stunt’s investment in Stunt & Co, that had been obtained during the Refresh, but 
+also (b) in the knowledge that the IMI Review was to be conducted, in light of the 
+Production Orders and also taking account of the information gathered during the 
+Refresh.” 
+ 
+4.120 The Relationship Director attended a further meeting with representatives of Stunt 
+& Co on 7 February 2017 at which they appear to have received audited accounts 
+for Stunt & Co for the 16 months to March 2016. This was after the completion of 
+the KYC refresh in respect of Stunt & Co.  
+ 
+36 
+Project Dust/ IMI review from September 2016 
+ 
+4.121 Following the receipt of the Production Order dated 11 August 2016 relating to 
+Stunt & Co, in September 2016 Barclays opened “Project Dust” to review the Stunt 
+& Co relationship. The matter was referred to IMI for investigation following receipt 
+of the Production Order and adverse media of the police raids, and documents were 
+sent to Financial Crime Compliance  and the IMI Manager (who was formerly the 
+WIM EDD Analyst in a previous role) i n September 2016 and October 2016 . The 
+review was conducted by the IMI Manager who had, in their previous role in the 
+WIM team, prepared a review of Mr Stunt when Barclays was considering him as a 
+Wealth customer. The WIM team had not pursued Mr Stunt as a Wealth customer 
+as there had been unresolved questions relating to his source of wealth (see 
+paragraphs 4.46 to 4.51). 
+4.122 The provisional scoping of the IMI review was to obtain: 
+“- full understanding of the commercial and business activities and 
+relationships of the Stunt companies (and [in relation to  his source of 
+wealth]). Develop understanding of what constitutes their normal 
+commercial activity. 
+- Drilldown via open source into Folwer Oldfield [sic], and all associated 
+known personnel. Develop full understanding of relationship between Fowler 
+Oldfield and Stunt companies, inclusive of joint ventures and overall 
+transactional activity.  
+- Drilldown on properties held, linked companies, tenants, title to properties.  
+- Ensure up-to-date knowledge on developing adverse media and integrate 
+into account review where relevant.  
+- Review of documentation held and alerts held via Fortent [Barclays’ legacy 
+internal transaction monitoring system].” 
+4.123 On 22 September 2016, in order to assist the IMI Manager with the Project Dust 
+review, Financial Crime Compliance sent them the KYC refresh documents, the WIM 
+report from 2015, and Mr Stunt’s accountant’s letter regarding his client’s wealth. 
+The IMI team was aware of the adverse media, the Production Orders and the 
+information provided by the police directly on the raids. The IMI team conducted a 
+transactional analysis of the activity in Stunt & Co’s account for the period from 4 
+37 
+January 2016, and held discussions with the Relationship Director about questions 
+they had on the business model and account activity of Stunt & Co . Notably, the 
+IMI Manager was not made aware that Barclays had received the request from law 
+enforcement received on 17 August 2016, and  was not made aware of the 
+intelligence in that request at any stage during the review. 
+4.124 The IMI review was completed in March 2017 and a report was prepared setting 
+out the findings. The report included information already held by Barclays including 
+the brief and mostly generalised information on Mr Stunt’s source of wealth as 
+provided by his accountant. No evidence was obtained by Barclays to verify the 
+information in the accountant’s letter.  
+4.125 The IMI report noted that Stunt & Co had been in a partnership with Fowler Oldfield, 
+which at that time was in liquidation (see paragraph 4.9). It stated that Stunt & Co 
+acquired gold, smelted it into smaller bars which were sold to Fowler Oldfield being 
+the main customer of Stunt & Co.   
+4.126 The report noted that a Production Order was received on 8 November 2016 against 
+the customer and all connections held by Mr Stunt, over the proceeding 6 year 
+period. In noting that the Production Order was acquired by the police, the report 
+stated that  “this may indicate that whatever activity was under investigation 
+derives from law enforcement interest in FO at first instance, rather than Stunt and 
+Company Limited.”  
+4.127 The IMI report also records how in September 2016, police raided the offices of 
+Stunt & Co and the premises of Fowler Oldfield. The report did not however refer 
+to the fact that the adverse media stated that the police raids concerned suspected 
+money laundering and that 12 people had been arrested.  
+4.128 The report noted that the value of the transactions from Fowler Oldfield to Stunt & 
+Co were in line with expectations;  it also noted that the transactions comprised  
+round sum amounts of £100,000. The Authority considers that round sum transfers 
+may constitute a red flag for money laundering.  There was no commentary or 
+analysis in the report to note the round sum transfers as red flags, nor was there 
+any explanation as to why the round sum transactions were discounted as money 
+laundering red flags.  
+4.129 The IMI report conclude d that the transactions on the Stunt & Co  account were 
+consistent with their KYC, albeit that the account turnover was lower than expected. 
+It stated that the transfers from Fowler Oldfield to Stunt & Co in 2016 were notably 
+38 
+larger than the financial picture  in Fowler Oldfield ’s unaudited 2014 financial 
+statements, however they did not consider “this difference in the volume of funds 
+alone to be sufficient to crystallise a suspicion of money laundering”. The report did 
+not refer to Stunt & Co’s audited accounts which the Relationship Director appears 
+to have received on 7 February 2017 (see paragraph 4.120); the Authority has not 
+seen any evidence that these were considered as part of the IMI review.    
+4.130 It is unclear to the Authority as to why the IMI report failed to state that the police 
+raids on Stunt & Co and Fowler Oldfield related to money laundering and resulted 
+in the arrest of 12 people. There was no analysis of any financial crime risks arising 
+from the September 2016 police raids. The scoping instructions specified that the 
+review was to obtain a full understanding of the relationship between Fowler 
+Oldfield and Stunt & Co. Given the clear reference to financial crime in the adverse 
+media reports, it is significant that the report failed to record any concern about 
+the transfer of tens of millions of pounds into the Barclays Stunt & Co account by 
+Fowler Oldfield in 2016 which may have resulted in Barclays being used to receive 
+the proceeds of crime.  
+4.131 The IMI report recommended that no further action was required from IMI at the 
+present time . No concerns of suspicious activity were formed by Barclays , the 
+customer risk rating was not changed and there was no recommendation to 
+consider exiting the relationship. The finalised report was sent to Financial Crime 
+Compliance on 1 March 2017.  
+Receipt of further court orders between 2017 and 2020 
+ 
+4.132 Barclays received a further nine court orders in relation to Stunt & Co and related 
+entities/individuals between 2017 and 2020. These included: 
+(a) a Production Order dated 6 December 2017. This required Barclays to provide 
+information relating to Mr Stunt, referring to accounts for Stunt & Co and all 
+other accounts to which Mr Stunt was a signatory from 1 August 2016 to the 
+date of the order; 
+(b) a restraint order dated 29 August 2018  prohibiting the disposal of assets of 
+Mr Stunt in addition to those of Stunt & Co and Mr Stunt’s accountant. This 
+required information about accounts of Mr Stunt and Stunt & Co; 
+(c) a disclosure order dated 15 July 2020 in relation to a confiscation investigation 
+requiring statements for certain accounts of Mr Stunt from 29 August 2018 to 
+39 
+the date of the order and other accounts to which Mr Stunt was or had been 
+a signatory in that period. It also sought account opening and KYC documents 
+in respect of one of Mr Stunt’s accounts. 
+The AML Customer Lifecycle Standard 
+4.133 Barclays’ AML Customer Lifecycle Standard was in force  from 1 January 2017  
+(replacing the 2013 AML policy) and so was in effect when the court orders set out 
+above were received. This set out Barclays’ processes for  dealing with trigger 
+events which were events occurring during the customer lifecycle which 
+necessitated review of the customer outside the periodic review cycle . It stated 
+that the business must have appropriate controls in place to ensure that trigger 
+events were identified and that the review was completed within 90 days of the 
+trigger event, unless risk concerns, for example significant adverse media, 
+necessitated a shorter timeframe for completion. 
+4.134 The policy stated that any changes to customer information which were classed as 
+trigger events, or as a result of which the business identified that the information 
+held for the customer was incomplete or out of date, should trigger a consideration 
+to complete a CDD review. This should involve consideration of which trigger events 
+will necessitate a full CDD review and which, less significant triggers, will lead to a 
+partial review, with the approach to be endorsed by Financial Crime management. 
+It stated that the business must consider whether there was a need to conduct a 
+CDD review in response to trigger events  including receipt of a financial crime 
+related Production Order, customer information order, monitoring order, subpoena 
+or local equivalent relating to the customer or account, and receipt of information 
+from law enforcement or regulatory authorities. 
+4.135 The policy further stated that a CDD review on existing customers must consider 
+whether the customer’s risk rating remain ed appropriate and that all conclusions 
+on risk rating must be evidenced on the customer’s file. For a review of high risk 
+customers, the business must understand and document the reasons for the actual 
+account activity differing to the expected activity . The business must consider 
+whether the receipt of a court order would trigger a determination to  exit the 
+customer relationship. There was also a requirement for the business to keep clear 
+records of the review. 
+40 
+Barclays’ response to the further court orders received in 2017-2020 
+4.136 None of the court orders received during 2017-2020 resulted in Barclays assessing 
+that the risk rating for Stunt & Co or Mr Stunt required revision; this was contrary 
+to the AML Customer Lifecyle Standard which included the receipt of such orders 
+as trigger events requiring consideration of a CDD review was needed and whether 
+the customer’s risk rating remained appropriate (see paragraphs 4.133 to 4.134). 
+Stunt & Co’s and Mr Stunt ’s accounts were frozen pursuant to a restraint order 
+from August 2018. Save for a period between March 2019 and May 2020 when it 
+was assessed as medium risk (on account of an increase in the product risk rating 
+in relation to its US Dollar currency  account), the risk rating  for Stunt & Co  
+remained as low risk. No periodic review of the Stunt & Co account took place in 
+2018 or 2019 because it was rated low risk. 
+4.137 Barclays also failed to consider whether EDD or enhanced monitoring should be 
+applied in response to the court orders , notwithstanding that these included a 
+restraint order dated 29 August 2018 prohibiting the disposal of Mr Stunt’s assets, 
+including those of Stunt & Co . This was contrary to the JMLSG Guidance which 
+stated that where the risks of money laundering are higher, firms must conduct 
+EDD measures consistent with the risks identified (see Annex A) . Barclays also 
+failed at that time to assess the accounts linked to Mr Stunt to consider whether 
+there had been any suspicious activity, or whether the relationship with Stunt & Co 
+should be terminated.  
+Charging of James Stunt and winding up of Stunt & Co in 2020 
+4.138 In May 2020, James Stunt was charged with money laundering offences. This did 
+not prompt any consideration of whether Barclays should review the account 
+activity in respect of Stunt & Co ’s business activities . Mr Stunt was acquitted  of 
+those charges on 4 March 2025. 
+4.139 On 2 September 2020, the court ordered that Stunt & Co be wound up.  
+Closing of Stunt & Co’s accounts in 2020 
+4.140 Barclays issued a Notice to Close on all of Stunt & Co’s accounts at Barclays on 6 
+March 2020 and the accounts were closed on 23 and 24 April 2020 , with the last 
+account closed on 19 October 2020. This was due to a bankruptcy filing on Mr 
+Stunt.   
+41 
+Commencement of Project Rufus in March 2021 
+4.141 Following an announcement by Authority in March 2021  that it had decided to 
+charge NatWest with criminal offences under the 2007 Regulations, in respect of 
+its relationship with Fowler Oldfield , Barclays initiated a review in March 2021 to 
+establish its exposure to Fowler Oldfield. The review was named Project Rufus.  
+4.142 During Project Rufus, Barclays reviewed its relationship with Stunt & Co and the 
+relationship between Stunt & Co  and Fowler Oldfield. Barclays found that  Fowler 
+Oldfield had remitted a total of £46.8 million to Stunt & Co, and that 361 of those 
+payments were round sum payments of £100,000.  
+4.143 Barclays found that, although it had had concerns over Stunt & Co ’s source of 
+wealth and had been aware of adverse media relating to this in 2016 , it had 
+continued to complete the KYC refresh  in respect of Stunt & Co . The review 
+highlighted the absence of key KYC information for Stunt & Co: 
+(a) James Stunt’s source of wealth had not been explained in full and there had 
+been press speculation that he was reluctant to provide this; and 
+ 
+(b) the KYC file had not evidenced the outcome of further information requested 
+from Stunt & Co in early 2016, namely the HRMC audits and CDD procedures 
+of Fowler Oldfield, and the additional source of wealth explanation. 
+ 
+4.144 Regarding adverse media, Barclays found that the Relationship Director had relied 
+on “an ongoing adverse media investigation” with Financial Crime to sign off the 
+KYC refresh in 2017 but that there was no evidence that this was considered at the 
+time as a reputation risk red flag. 
+4.145 Regarding Stunt & Co’s risk rating, Barclays found that concerns raised throughout 
+the client lifecycle should have triggered a review of a possible risk rating override 
+to high risk, which would have driven annual KYC reviews. Barclays found that 
+there was no evidence that an override of the low risk rating had been considered.  
+4.146 The total funds received by Stunt & Co from Fowler Oldfield via electronic transfer 
+between July 2015 and August 2016 were £46,803,329.51. Barclays noted that, 
+due to concerns around the source of funding from Fowler Oldfield and the high 
+value and velocity of the payments, it was concerned that Stunt & Co’s accounts 
+were in receipt of the proceeds of crime, in order to purchase high value precious 
+metals to use as a vehicle for money laundering. 
+42 
+Barclays’ self-reporting to the Authority in June 2021 
+4.147 On 7 June 2021 Barclays informed the Authority of its findings from Project Rufus 
+and of steps it was taking towards remediating  its AML control framework . 
+Regarding the suspicious activity it had identified in respect of Stunt & Co, Barclays 
+stated that this had not previously been subject to the same level of investigation 
+as it had undertaken in 2021, and that as a result the concerns were not identified 
+earlier. Barclays stated that this had occurred as a consequence of its Compliance 
+Intelligence and Investigations function failing to share intelligence from law 
+enforcement relating to money laundering  received during 2016.  Barclays had 
+identified that individuals dealing with Production Orders were not aware of the 
+request from law enforcement received in August 2016 and therefore did not take 
+this information into account when reviewing the Stunt & Co accounts. Barclays 
+acknowledged that “there could have been a more joined up approach within the 
+Bank to share and utilise the intelligence [in the request from law enforcement]” 
+and also stated that since 2016 it had “proactively made changes to the structure 
+of the team involved and the processes for handling [law enforcement requests]”.  
+4.148 Barclays further stated to the Authority on 12 July 2021 in relation to Stunt & Co: 
+“Whilst the new information relating to FO [the information following the Authority’s 
+announcement of its prosecution of NatWest] has supported our understanding of 
+the overall scope of the alleged criminal conduct, there were several indicators 
+identified during 2016 which, when combined should have led to the identification 
+of suspicion.”  
+5. FAILINGS 
+5.1 The regulatory provisions relevant to this Notice are referred to in Annex A. 
+5.2 The Authority considers that, by reason of the matters described in section 4 of this 
+Notice, Barclays breached Principle 2 during the Relevant Period by failing to 
+conduct its business with due skill, care and diligence in respect of the 
+identification, assessment, monitoring and management of the money laundering 
+risks associated with the provision of banking services to Stunt & Co. In particular: 
+(a) In establishing a business relationship with Stunt & Co  in January 2015, 
+Barclays failed to obtain sufficient information from Stunt & Co on the nature 
+of its business in order appropriately to assess the money laundering risks 
+which might be presented by it. This was in breach of Barclays’ own policies 
+43 
+which required “a sound understanding of the client’s business before entering 
+into a relationship with them”. 
+(i) Barclays was unaware when the first account was opened on 16 January 
+2015 how Stunt & Co’s business was intended to operate, save that the 
+nature of its business was stated to be “ Gold Refining & Trading”. 
+Barclays allocated Stunt & Co an industry classification of “Jewellery” 
+which was not an accurate reflection of its stated business. The 
+Relationship Director certified that EDD was not necessary and did not 
+record any rationale for this. 
+ 
+(ii) Despite the lack of information about the nature of its business, the KYC 
+team certified that all necessary due diligence requirements had been 
+discharged. Stunt & Co was assessed as “low risk” for money laundering 
+risk purposes.  
+ 
+(b) In assigning a “low risk” rating to Stunt & Co, Barclays failed appropriately to 
+assess the fact that, at the point of entering into the business relationship and 
+thereafter, it had insufficient information to assess appropriately the money 
+laundering risks presented by Stunt & Co . H aving assigned the “low risk” 
+rating, Barclays failed to update it in light of relevant information which should 
+have been taken into account and led to a re-assessment of whether the risk 
+rating was accurate and whether EDD was necessary. 
+(i) Barclays failed to address  the discrepancy between the  customer’s 
+application form, which had stated that Stunt & Co did not trade outside 
+the EU , and information received by the Relationship Director at a 
+meeting with Stunt & Co on 27 January 2015 that it intended to source 
+gold from specific countries in West Africa and sell it to customers in the 
+Middle East. S everal of the countries referred to by Stunt & Co  were 
+assessed by Barclays as presenting a high risk for the purposes of 
+assessing money laundering risk. This information was not made known 
+to the KYC team and so was not taken into account in assessing the risk 
+rating applied to Stunt & Co, which remained unchanged.  
+ 
+(ii) Because Barclays did not conduct EDD on Stunt & Co  at the time of 
+opening its account, it conducted only limited enquiries into Stunt & Co’s 
+source of wealth. Whi lst it established that Mr Stunt intended to  
+capitalise Stunt & Co  through a payment of £1.5  million, it made no 
+44 
+enquiries, prior to opening the account with Stunt & Co, into his source 
+of wealth (and thus the source of funds for Stunt & Co). 
+(c) Following the opening of Stunt & Co ’s accounts, Barclays failed to conduct 
+appropriate ongoing monitoring of the business relationship, including 
+scrutiny of the transactions undertaken, to ensure that they were consistent 
+with Barclays’ knowledge of Stunt & Co and its business, and in order to keep 
+the information obtained for the purpose of applying CDD up to date. 
+(i) Between 22 July 2015 and 8 October 2015  (a period of less than three 
+months), Stunt & Co  received 105 payments from Fowler Oldfield , 
+totalling almost £9 million. These payments, which were frequently 
+made in round sums, were inconsistent with Barclays’ understanding of 
+Stunt & Co’s business in that: (a) Barclays had, until 8 October 2015, no 
+information as to the intended joint venture with Fowler Oldfield; and 
+(b) the sums involved represented a turnover significantly in excess of 
+what Stunt & Co  had informed Barclays was likely at account opening 
+and in a business plan provided on 12 February 2015 . Barclays did not 
+identify these significant differences and failed to take reasonable steps 
+during that period to ascertain the nature of Stunt & Co’s business or to 
+assess what money laundering risks it might present. 
+ 
+(ii) At a meeting with Stunt & Co  on 8 October 2015, the Relationship 
+Director was informed that Stunt & Co had entered into a joint venture 
+with Fowler Oldfield, as a result of which Stunt & Co ’s revenues were 
+expected to increase to £10 million per month. Although the Relationship 
+Director obtained some information about the nature of Stunt & Co ’s 
+business at that meeting, no immediate steps were taken to verify the 
+information provided, to enquire further into the business arrangement 
+with Fowler Oldfield, nor to consider whether the change in business 
+model and turnover merited a reconsideration of Stunt & Co’s risk rating 
+or a need to conduct EDD or enhanced ongoing monitoring. 
+(d) When Barclays refreshed its CDD in respect of Stunt & Co from January 2016 
+(on account of a media report in November 2015 which questioned the source 
+of Mr Stunt’s wealth and/or because other work was being conducted on 
+certain associated entities), Barclays failed to obtain, and, where appropriate, 
+to verify, sufficient information to enable it to have a sound understanding of 
+the nature of Stunt & Co’s business and the money laundering risks presented 
+by it. By this time, Stunt & Co had received £20 million from Fowler Oldfield. 
+45 
+(i) The relationship team identified that Stunt & Co was receiving between 
+£300,000 and £900,000 per day from Fowler Oldfield  and that the 
+anticipated turnover was £150 -200 million per year. Whilst the 
+Relationship Director sought accounting information from Stunt & Co  
+around early February 2016, they were told that accounts would not be 
+ready until later that year. The KYC refresh was completed in January 
+2017 while that accounting information remained outstanding. 
+(ii) In February 2016, the Relationship Director requested copies of the CDD 
+undertaken by Stunt & Co in respect of Fowler Oldfield. Barclays failed 
+to follow up on the inadequate and incomplete CDD information provided 
+by Stunt & Co on Fowler Oldfield in order to understand its business with 
+Fowler Oldfield. 
+(iii) In February 2016, the Relationship Director asked Mr Stunt’s accountant 
+to provide evidence of Mr Stunt’s source of wealth. The accountant did 
+not provide information on Mr Stunt’s source of wealth until August 2016 
+when he stated that Mr Stunt had been reticent to provide such 
+information and provided brief and mostly generalised information about 
+Mr Stunt’s source of wealth , with no supporting evidence . A lthough 
+Barclays maintained a list of permissible source of wealth 
+documentation, no further enquiries, or attempts to obtain such 
+documentation, were made.  
+(e) As a result, although Barclays appreciated the need to understand Stunt & 
+Co’s business relationship with Fowler Oldfield, it failed to obtain sufficient 
+verification to satisfy itself of the nature of the business being conducted or 
+to assess the money laundering risks involved.  
+(f) Despite receiving significant information in August 2016 indicating that Fowler 
+Oldfield may have been used to launder the proceeds of suspected money 
+laundering and that Stunt & Co was one of the main recipients of electronic 
+credits from Fowler Oldfield , Barclays failed to consider appropriately what 
+effect this may have on the money laundering risks associated with Stunt & 
+Co: 
+(i) Although Barclays conducted an initial analysis of which of its customers 
+may have received monies from Fowler Oldfield and identified Stunt & 
+Co as a significant recipient, a further analysis and consideration of how 
+this impacted on the money laundering risks presented to Barclays by 
+46 
+Stunt & Co  was not conducted because of a lack of clear processes, 
+resource constraints  and unclear communications. The Barclays AML 
+Intelligence team were unaware that Barclays had been served with 
+Production Orders requiring the provision of information on Stunt & Co’s 
+accounts. 
+ 
+(ii) As a result, Barclays did not at that time assess whether the information 
+necessitated a change in Stunt & Co’s risk rating, the application of EDD 
+or enhanced monitoring, or termination of the relationship. It did not 
+consider whether, in light of the information, there were reasonable 
+grounds to suspect that Stunt & Co might have been engaged in money 
+laundering. 
+(g) Despite identifying media reports in September 2016 that the premises of 
+both Stunt & Co  and Fowler Oldfield  had been raided by the police in 
+connection with money laundering , and despite the IMI team  separately 
+conducting a review of Stunt & Co ’s accounts in September 2016 (as a 
+consequence of news of the police raids and  Production Orders received in 
+August 2016) to understand its relationship with Fowler Oldfield , Barclays 
+considered that the account activity was consistent with its understanding of 
+the business. Further, the IMI team were not made aware of the request from 
+law enforcement relating to Fowler Oldfield for its review. The IMI team’s 
+review did consider a further Production Order which had been received by 
+Barclays in respect of Stunt & Co in November 2016 but concluded, apparently 
+without verification and despite knowing that Stunt & Co’s offices had been 
+searched by the police, that the terms of the Production Order may indicate 
+law enforcement interest in Fowler Oldfield, rather than Stunt & Co . As a 
+result, no change was made to Stunt & Co ’s risk rating  and no EDD nor 
+enhanced monitoring was applied. 
+(h) In January 2017, Barclays completed the KYC refresh and certified that all 
+necessary due diligence had been conducted . This was despite Barclays not 
+having received  responses to outstanding queries  regarding Stunt & Co , 
+Fowler Oldfield and the source of Mr Stunt’s wealth, and despite  Barclays 
+being aware of a police investigation being conducted into Fowler Oldfield and 
+Stunt & Co. As a result, no changes were made to Stunt & Co’s risk rating and 
+no EDD nor enhanced ongoing monitoring was applied.   
+47 
+(i) Barclays continued to assess Stunt & Co as low risk, save for a period between 
+March 2019 and May 2020 when it was assessed as medium risk. As a result, 
+no periodic annual review of Stunt & Co’s accounts was conducted by Barclays 
+in 2018 or 2019. This was despite Barclays receiving a number of court orders 
+relating to James Stunt and Stunt & Co in 2018 and 2019, including a restraint 
+order in August 2018 which prohibited the operation of the accounts. Despite 
+this, Barclays failed to conduct further reviews of its relationship with Stunt & 
+Co or its risk rating, or consider whether EDD or enhanced monitoring should 
+be applied or whether the relationship should be terminated.  
+(j) the fact of Mr Stunt being charged with money laundering offences  in May 
+20201 did not prompt any consideration of whether Barclays should review 
+the account activity of Stunt & Co. It was only after Barclays learned in March 
+2021 of the Authority’s decision to charge NatWest with criminal offences 
+under the 2007 Regulations, in respect of its relationship with Fowler Oldfield, 
+that Barclays commenced a significant investigation in respect of Stunt & Co 
+and certain other customers who had received funds from Fowler Oldfield.  
+5.3 Between July 2015 and August 2016, Stunt & Co  received 561 payments from 
+Fowler Oldfield , totalling £46.8 million. 361 of these payments were round 
+payments of £100,000. The Authority considers that those monies represented the 
+proceeds of crime and that Stunt & Co’s account was used to launder the funds. 
+6. SANCTION 
+Financial penalty 
+6.1 The Authority’s policy for imposing a financial penalty is set out in Chapter 6 of 
+DEPP. In respect of conduct occurring on or after 6 March 2010, the Authority 
+applies a five -step framework to determine the appropriate level of financial 
+penalty. DEPP 6.5A sets out the details of the five -step framework that applies in 
+respect of financial penalties imposed on firms. 
+Step 1: disgorgement  
+6.2 Pursuant to DEPP 6.5A.1G, at Step 1 the Authority seeks to deprive a firm of the 
+financial benefit derived directly from the breach where it is practicable to quantify 
+this. 
+ 
+1 Mr Stunt was acquitted of those charges in March 2025. 
+48 
+6.3 The Authority has not identified any financial benefit that Barclays derived directly 
+from its breach. 
+6.4 Step 1 is therefore £0. 
+Step 2: the seriousness of the breach 
+6.5 Pursuant to DEPP 6.5A.2G, at Step 2 the Authority determines a figure that reflects 
+the seriousness of the breach. Where the amount of revenue generated by a firm 
+from a particular product line or business area is indicative of the harm or potential 
+harm that its breach may cause, that figure will be based on a percentage of the 
+firm’s revenue from the relevant products or business area.  
+6.6 The Authority considers that the revenue generated by Barclays is not an 
+appropriate indicator of the harm or potential harm caused by its breach.  The 
+Authority has therefore determined that the total funds transferred from Fowler 
+Oldfield to Stunt & Co ’s account at Barclays, which the Authority considers  
+represented the proceeds of crime, is the appropriate indicator of the harm in this 
+case. That figure is £46,803,329.51.  
+6.7 In cases where revenue is not the appropriate indicator of the harm or potential 
+harm of the firm's breach, DEPP 6.5A.2G(13) allows the Authority to adopt a scale 
+other than the 0 -20% scale prescribed in DEPP 6.5A.2G(3).  Accordingly, the 
+Authority has used a 0 -125% range to ensure the penalty properly reflects the 
+seriousness of the breach.  The Authority has applied the following levels for the 
+purposes of this case: 
+Level 1 – 0% 
+Level 2 – 50% 
+Level 3 – 75% 
+Level 4 – 100% 
+Level 5 – 125% 
+6.8 In assessing the seriousness level, the Authority takes into account various factors 
+which reflect the impact and nature of the breach, and whether it was committed 
+deliberately or recklessly. DEPP 6.5A.2G(11) lists factors likely to be considered 
+‘level 4 or 5 factors’. Of these, the Authority considers the following factors to be 
+relevant: 
+49 
+ 
+(a) Financial crime was facilitated, occasioned or otherwise attributable to 
+the breach (DEPP 6.5A.2G(11)(c)) 
+6.9 Taking all of these factors into account, the Authority considers the seriousness of 
+the breach to be level 4 and so the Step 2 figure is 100% of £46,803,329.51.   
+6.10 Step 2 is therefore £46,803,329.51. 
+Step 3: mitigating and aggravating factors 
+6.11 Pursuant to DEPP 6.5A.3G, at Step 3 the Authority may increase or decrease the 
+amount of the financial penalty arrived at after Step 2, but not including any 
+amount to be disgorged as set out in Step 1, to take into account factors which 
+aggravate or mitigate the breach. 
+6.12 The Authority considers that the factors below aggravate the breach. 
+6.13 The Authority has imposed financial penalties on Barclays for breaches of 
+regulatory requirements on previous occasions:  
+(a) on 19 August 2009, the Authority fined Barclays £2.5 million for breaches of 
+Principles 2 and 3 relating to Barclays’ submissions of inaccurate transaction 
+reports to the Authority in an estimated 57.5 million transactions; 
+ 
+(b) on 14 January 2011, the Authority fined Barclays £7.7 million for breaches of 
+Principle 9 and COBS 9.2.1R relating to the provision of unsuitable investment 
+advice to retail customers; 
+ 
+(c) on 27 June 2012, the Authority fined  Barclays £59.5 million for breaches of 
+Principles 2, 3 and 5 for misconduct relating to its submissions of rates which 
+formed part of LIBOR; 
+ 
+(d) on 23 May 2014 , the Authority fined  Barclays £26 million for breaches of 
+Principles 3 and 8 for failing to manage conflicts of interest, as well as systems 
+and controls failings in relation to London Gold Fixing; 
+ 
+(e) on 23 September 2014 , the Authority fined  Barclays £37.7 million for 
+breaches of Principles 3 and 10 for failing to adequately handle and have 
+adequate systems and controls to protect £16.5 billion of its client assets;  
+ 
+50 
+(f) on 20 May 2015, the Authority fined Barclays £284.4 million for a breach of 
+Principle 3 for failing to take reasonable care to organise and manage its 
+foreign exchange business effectively; 
+ 
+(g) on 26 November 2015, the Authority fined Barclays £72 million for a breach 
+of Principle 2 for failing to minimise the risk that it may be used to facilitate 
+financial crime; 
+ 
+(h) on 15 December 2020, the Authority fined Barclays £26 million for breaches 
+of Principle 6, Principle 3 and CONC for failures relation to their treatment of 
+consumer credit customers who fell into arrears or experienced financial 
+difficulties; 
+ 
+(i) on 28 February 2022, the Authority fined Barclays £783,800 for a breach of 
+Principle 2 for failures related to financial crime in the corporate banking 
+sector; and 
+ 
+(j) on 25 November 2024, the Authority fined Barclays £10 million and Barclays 
+Plc £30 million for breaches of listing rules in relation to failure to the disclose 
+information to the issuer sector.  
+6.14 Since 1990, the JMLSG has published detailed written guidance on AML controls. 
+During the Relevant Period, the JMLSG provided guidance on compliance with the 
+legal requirements of the 2007 Regulations, regulatory requirements in the 
+Handbook and evolving practice in the financial services industry.  
+6.15 Before, or during, the Relevant Period, the Authority issued the following 
+guidance relating to AML controls: 
+(a) in March 2008, the Authority published its findings of a thematic review of 
+firms’ AML processes in a report titled “ Review of firms’ implementation of a 
+risk-based approach to anti-money laundering”. It included examples of good 
+and poor industry practice and reminded firms that their approach to AML 
+should be aligned with the JMLSG Guidance; 
+(b) in June 2011, the Authority published a report titled “ Banks’ management of 
+high money -laundering risk situations: How banks deal with high -risk 
+customers (including politically exposed persons), correspondent banking 
+relationships and wire transfers ”. The report highlighted the importance of 
+51 
+applying meaningful EDD measures in higher risk situations and noted the 
+importance of carrying out enhanced monitoring of high-risk relationships, 
+including as an example of good practice that firms should proactively follow 
+up gaps in, and update, CDD during the course of a relationship. 
+(c) in December 2011, the Authority published “ Financial Crime: A Guide for 
+Firms”. The guide highlight ed the need to conduct adequate CDD checks, 
+perform ongoing monitoring and carry out EDD measures and enhanced 
+ongoing monitoring when handling higher risk situations; and 
+(d) in April 2015, the Authority published “Financial crime: a guide for firms Part 
+1: A firm’s guide to preventing financial crime ” which set out examples of 
+good and poor industry practice to assist firms.  
+6.16 The Authority has published a number of Notices against firms for AML weaknesses 
+both before and during the Relevant Period, including in respect of  Alpari (UK) 
+Limited in May 2010, Coutts & Company in March 2012, Habib Bank AG Zurich in 
+May 2012, Turkish Bank (UK) Ltd in July 2012, EFG Private Bank Ltd in April 2013, 
+Guaranty Trust Bank (UK) Ltd in August 2013, Standard Bank Plc in January 2014, 
+Sonali Bank (UK) Ltd in October 2016, Deutsche Bank AG in January 2017 and 
+Commerzbank AG in June 2020. 
+6.17 Consequently, Barclays was aware, or ought to have been aware, of the importance 
+of identifying, assessing, monitoring and managing the money laundering risks in 
+respect of its relationship with Stunt & Co to counter the risk that the Bank might 
+be used to further financial crime. 
+6.18 The Authority acknowledges that Barclays proactively reported the findings of its 
+2021 review to the Authority and cooperated fully with the Authority throughout 
+the course of its investigation. Those actions reflect the Authority’s expectations of 
+authorised firms and are not factors that mitigate the breach. 
+6.19 However, the Authority acknowledges that the review conducted by Barclays in 
+2021 of its own exposure to Fowler Oldfield, following the Authority’s 
+announcement that it had charged NatWest with criminal offences under the 2007 
+Regulations, was extensive and of a nature that mitigates the breach. 
+6.20 Having taken into account these aggravating and mitigating factors, the Authority 
+considers that the Step 2 figure should be increased by 20%. 
+6.21 Step 3 is therefore £56,163,995.41. 
+52 
+Step 4: adjustment for deterrence 
+6.22 Pursuant to DEPP 6.5A.4G, if the Authority considers the figure arrived at after Step 
+3 is insufficient to deter the firm who committed the breach, or others, from 
+committing further or similar breaches, then the Authority may increase the 
+penalty. 
+6.23 The Authority considers that the Step 3 figure of £ 56,163,995.41 represents a 
+sufficient deterrent to Barclays and others, and so has not increased the penalty at 
+Step 4. 
+6.24 Step 4 is therefore £56,163,995.41. 
+Step 5: settlement discount 
+6.25 Pursuant to DEPP 6.5A.5G, if the Authority and the firm on whom a penalty is to 
+be imposed agree the amount of the financial penalty and other terms, DEPP 6.7 
+provides that the amount of the financial penalty which might otherwise have been 
+payable will be  reduced to reflect the stage at which the Authority and the firm 
+reached agreement. The settlement discount does not apply to the disgorgement 
+of any benefit calculated at Step 1. 
+6.26 The Authority and Barclays reached agreement at Stage 1 and so a 30% discount 
+applies to the Step 4 figure. 
+6.27 Step 5 is therefore £39,314,796.79. This is to be rounded down to £39,314,700.   
+Penalty 
+6.28 The Authority hereby imposes a total financial penalty of £39,314,700 on 
+Barclays for breaching Principle 2.  
+7. PROCEDURAL MATTERS 
+7.1 This Notice is given to Barclays under and in accordance with section 3 90 of the 
+Act.   
+7.2 The following statutory rights are important. 
+Decision maker  
+7.3 The decision which gave rise to the obligation to give this Notice was made by the 
+Settlement Decision Makers.  
+53 
+Manner and time for payment  
+ 
+7.4 The financial penalty must be paid in full by Barclays to the Authority no later than 
+28 July 2025. 
+ 
+If the financial penalty is not paid  
+ 
+7.5 If all or any of the financial penalty is outstanding on 29 July 2025, the Authority 
+may recover the outstanding amount as a debt owed by Barclays and due to the 
+Authority. 
+ 
+Publicity  
+ 
+7.6 Sections 391(4), 391(6) and 391(7) of the Act apply to the publication of 
+information about the matter to which this Notice relates. Under those provisions, 
+the Authority must publish such information about the matter to which this Notice 
+relates as the Authority considers appropriate. The information may be published 
+in such manner as the Authority considers appropriate. However, the Authority may 
+not publish information if such publication would, in the opinion of the Authority, 
+be unfair to Barclays or prejudicial to the interests of consumers or detrimental to 
+the stability of the UK financial system.  
+7.7 The Authority intends to publish such information about the matter to which this 
+Final Notice relates as it considers appropriate.  
+Authority contacts 
+7.8 For more information concerning this matter generally, contact Roshani Pulle at the 
+Authority (direct line: 020 7066 6241/email: Roshani.pulle3@fca.org.uk). 
+ 
+ 
+ 
+Deidre O’Sullivan 
+ 
+Head of Department 
+ 
+Financial Conduct Authority, Enforcement and Market Oversight Division 
+  
+54 
+ANNEX A 
+RELEVANT STATUTORY AND REGULATORY PROVISIONS AND GUIDANCE 
+1. RELEVANT STATUTORY PROVISIONS 
+1.1. The Authority’s operational objectives, established in section 1B of the Act, include 
+protecting and enhancing the integrity of the UK financial system (section 1D(1) of 
+the Act). The integrity of the UK financial system includes it not being used for a 
+purpose connected with financial crime (section 1D(2)(b) of the Act). 
+1.2. Pursuant to section 206(1) of the Act, if the Authority considers that an authorised 
+person has contravened a requirement imposed upon that person by or under the 
+Act, it may impose on that person a penalty in respect of the contravention of such 
+amount as it appears appropriate. 
+The 2007 Regulations 
+1.3. The Money Laundering Regulations 2007 (referred to in this Notice as the “ 2007 
+Regulations”) were in force from 15 December 2007 to 25 June 2017 inclusive and 
+have been replaced by the Money Laundering Regulations 2017, in respect of 
+conduct beginning on or after 26 June 2017. In this Notice, the Authority refers to 
+the Money Laundering Regulations 2007 for the part of the Relevant Period which 
+occurred when the Money Laundering Regulations 2007 were in force. 
+Relevant extracts from the 2007 Regulations 
+1.4. Regulation 5 stated: 
+(1) ““Customer due diligence measures” means— 
+(a) identifying the customer and verifying the customer’s identity on the 
+basis of documents, data or information obtained from a reliable and 
+independent source; 
+(b) identifying, where there is a beneficial owner who is not the customer, 
+the beneficial owner and taking adequate measures, on a risk-sensitive 
+basis, to verify his identity so that the relevant person is satisfied that 
+he knows who the beneficial owner is, including, in the case of a legal 
+person, trust or similar legal arrangement, measures to understand the 
+ownership and control structure of the person, trust or arrangement; 
+and 
+55 
+(c) obtaining information on the purpose and intended nature of the 
+business relationship.” 
+1.5. Regulation 6 stated: 
+(1) In the case of a body corporate, “beneficial owner” means any individual 
+who— 
+(a) as respects any body other than a company whose securities are listed 
+on a regulated market, ultimately owns or controls (whether through 
+direct or indirect ownership or control, including through bearer share 
+holdings) more than 25% of the shares or voting rights in the body; or 
+(b) as respects any body corporate, otherwise exercises control over the 
+management of the body. 
+1.6. Regulation 7 stated: 
+(1) “Subject to regulations 9, 10, 12, 13, 14, 16(4) and 17, a relevant person 
+must apply customer due diligence measures when he— 
+(a) establishes a business relationship; 
+(b) carries out an occasional transaction; 
+(c) suspects money laundering or terrorist financing; 
+(d) doubts the veracity or adequacy of documents, data or information 
+previously obtained for the purposes of identification or verification. 
+(2) Subject to regulation 16(4), a relevant person must also apply customer 
+due diligence measures at other appropriate times to existing customers on 
+a risk-sensitive basis. 
+(3) A relevant person must— 
+(a) determine the extent of customer due diligence measures on a risk-
+sensitive basis depending on the type of customer, business 
+relationship, product or transaction; and 
+(b) be able to demonstrate to his supervisory authority that the extent of 
+the measures is appropriate in view of the risks of money laundering 
+and terrorist financing.” 
+56 
+1.7. Regulation 8 stated: 
+(1) “A relevant person must conduct ongoing monitoring of a business 
+relationship. 
+(2)  “Ongoing monitoring” of a business relationship means— 
+(a) scrutiny of transactions undertaken throughout the course of the 
+relationship (including, where necessary, the source of funds) to ensure 
+that the transactions are consistent with the relevant person’s 
+knowledge of the customer, his business and risk profile; and 
+(b) keeping the documents, data or information obtained for the purpose of 
+applying customer due diligence measures up-to-date. 
+(3) Regulation 7(3) applies to the duty to conduct ongoing monitoring under 
+paragraph (1) as it applies to customer due diligence measures.” 
+1.8. Regulation 14 stated: 
+(1) “A relevant person must apply on a risk-sensitive basis enhanced customer 
+due diligence measures and enhanced ongoing monitoring— 
+(a) in accordance with paragraphs (2) to (4); 
+(b) in any other situation which by its nature can present a higher risk of 
+money laundering or terrorist financing.” 
+2. RELEVANT REGULATORY PROVISIONS 
+Principles for Businesses 
+2.1. The Principles are a general statement of the fundamental obligations of firms 
+under the regulatory system and are set out in the Authority’s Handbook. They 
+derive their authority from the Authority’s rule-making powers as set out in the Act 
+and reflect the Authority’s regulatory objectives. 
+2.2. During the Relevant Period, Principle 2 stated: 
+“A firm must conduct its business with due skill, care and diligence.” 
+57 
+DEPP 
+2.3. Chapter 6 of DEPP, which forms part of the Authority’s Handbook, sets out the 
+Authority’s statement of policy with respect to the imposition and amount of 
+financial penalties under the Act. 
+3. RELEVANT REGULATORY GUIDANCE 
+The JMLSG Guidance 
+3.1. The JMLSG Guidance outlines the legal and regulatory framework for 
+AML/countering terrorist financing requirements and systems across the financial 
+services sector. It provides interpretation on the requirements of the relevant law 
+and legislation and indicates good industry practice through a proportionate, risk -
+based approach. It is comprised of three parts. 
+3.2. The JMLSG Guidance provisions set out below are taken from the November 2014 
+version of the guidance. The JMLSG Guidance is periodically updated ; there were 
+no changes to the provisions set out below during the Relevant Period , except 
+where otherwise indicated below. 
+Relevant extracts from the JMLSG Guidance 
+Part I, Chapter 4 Risk-based approach 
+3.3. Paragraph 4.13 stated: 
+“Whatever approach is considered most appropriate to the firm’s money 
+laundering/terrorist financing risk, the broad objective is that the firm should 
+know at the outset of the relationship who [their customers (in place from 
+November 2014) / its customers (and, where relevant, beneficial owners) (in 
+place from December 2017)] are, where they operate, what they do, their 
+expected level of activity with the firm [and whether or not they are likely to be 
+engaged in criminal activity (in place from November 2014, not from December 
+2017)]. The firm then should consider how the profile of the customer’s financial 
+behaviour builds up over time, thus allowing the firm to identify transactions or 
+activity that may be suspicious.”  
+3.4. Paragraph 4.51 stated: 
+“Where the risks of ML/TF are higher, firms must conduct enhanced due diligence 
+measures consistent with the risks identified. In particular, they [should (in place 
+58 
+from November 2014) / must (in place from December 2017)] [as far as 
+reasonably possible, examine the background and purpose of the transaction; 
+and (in place from December 2017)] increase the degree and nature of 
+monitoring of the business relationship, in order to determine whether these 
+transactions or activities appear unusual or suspicious. Examples of [other (in 
+place from December 2017)] EDD measures that [, depending on the 
+requirements of the case, (in place from December 2017)] could be applied for 
+higher risk business relationships include: 
+➢ Obtaining, and where appropriate verifying, additional information on the 
+customer and updating more regularly the identification of the customer and 
+any beneficial owner 
+➢ Obtaining additional information on the intended nature of the business 
+relationship  
+➢ Obtaining information on the source of funds or source of wealth of the 
+customer  
+➢ Obtaining information on the reasons for intended or performed transactions  
+➢ Obtaining the approval of senior management to commence or continue the 
+business relationship  
+➢ Conducting enhanced monitoring of the business relationship, by increasing 
+the number and timing of controls applied, and selecting patterns of 
+transactions that need further examination  
+➢ Requiring the first payment to be carried out through an account in the 
+customer’s name with a bank subject to similar CDD standards” 
+ 
+Part I, Chapter 5 Customer Due Diligence 
+Application of CDD measures 
+3.5. Paragraph 5.3.15 stated: 
+“As risk dictates […] firms must take steps to ensure that they hold appropriate 
+information to demonstrate that they are satisfied that they know all their 
+customers. Where the identity of an existing customer has already been verified 
+to a previously applicable standard then, in the absence of circumstances 
+indicating the contrary, the risk is likely to be low. A range of trigger events, such 
+as an existing customer applying to open a new account or establish a new 
+relationship, might prompt a firm to seek appropriate evidence.” 
+59 
+Enhanced due diligence 
+3.6. Paragraph 5.5.1 stated: 
+“A firm must apply EDD measures on a risk-sensitive basis in any situation which 
+by its nature can present a higher risk of money laundering or terrorist financing. 
+As part of this, a firm may conclude, under its risk-based approach, that the 
+information it has collected as part of the customer due diligence process […] is 
+insufficient in relation to the money laundering or terrorist financing risk, and that 
+it must obtain additional information about a particular customer, the customer’s 
+beneficial owner, where applicable, and the purpose and intended nature of the 
+business relationship.” 
+3.7. Paragraph 5.5.2 stated: 
+“As a part of a risk-based approach, therefore, firms should hold sufficient 
+information about the circumstances and business of their customers and, where 
+applicable, their customers’ beneficial owners, for two principal reasons: 
+➢ to inform its risk assessment process, and thus manage its money 
+laundering/terrorist financing risks effectively; and 
+➢ to provide a basis for monitoring customer activity and transactions, thus 
+increasing the likelihood that they will detect the use of their products and 
+services for money laundering and terrorist financing.” 
+3.8. Paragraph 5.5.6 stated: 
+“When someone becomes a new customer, or applies for a new product or 
+service, or where there are indications that the risk associated with an existing 
+business relationship might have increased, the firm should, depending on the 
+nature of the product or service for which they are applying, request information 
+as to the customer’s residential status, employment and salary details, and other 
+sources of income or wealth […] in order to decide whether to accept the 
+application or continue with the relationship. The firm should consider whether, in 
+some circumstances, evidence of source of wealth or income should be required 
+[…]. The firm should also consider whether or not there is a need to enhance its 
+activity monitoring in respect of the relationship. A firm should have a clear policy 
+regarding the escalation of decisions to senior management concerning the 
+acceptance or continuation of high-risk business relationships.” 
+3.9. Paragraph 5.5.7 stated:  
+60 
+“The availability and use of other financial information held is important for 
+reducing the additional costs of collecting customer due diligence information and 
+can help increase a firm’s understanding of the risk associated with the business 
+relationship. Where appropriate and practical, therefore, and where there are no 
+data protection restrictions, firms should take reasonable steps to ensure that 
+where they have customer due diligence information in one part of the business, 
+they are able to link it to information in another.”  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

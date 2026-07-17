@@ -1,0 +1,1366 @@
+ 
+ 
+ 
+   
+ 
+FINAL NOTICE  
+ 
+ 
+ 
+To: JPMorgan Chase Bank N.A.  
+Firm  
+Reference  
+Number:     124491    
+Address: 25 Bank Street, Canary Wharf, London, E14 5JP 
+Date: 11 November 2014 
+ 
+1. ACTION 
+1.1. For the reasons given in this N otice, the Authority hereby imposes on 
+JPMorgan Chase Bank N.A. (" JPMorgan") a financial penalty of 
+£222,166,000.  
+1.2. JPMorgan agreed to settle at an early stage of the Authority’s 
+investigation. JPMorgan therefore qualified for a 30% ( Stage 1) 
+discount under the Authority’s executive settlement procedures. 
+Were it not for this discount, the Authority would have impo sed a 
+financial penalty of £317,380,000 on JPMorgan. 
+ 
+ 
+ 2  
+2. SUMMARY OF REASONS  
+2.1. The foreign exchange market (“FX market”) is one of the largest and 
+most liquid markets in the world. 1 Its integrity is of central 
+importance to the UK and global financial systems. Over a period of 
+five years, JPMorgan failed properly to control its London voice 
+trading operations in the G10 spot FX market, with the result that 
+traders in this part of its business were able to behave in a manner 
+that put JPMorgan’s interests ahead of the interests of its clients, 
+other market participants and the wider UK financial system.  
+2.2. The Authority expects firms to identify, assess and manage 
+appropriately the risks that their business pose s to the markets in 
+which they operate  and to preserve market integrity , irrespective of 
+whether or not those markets are regulated . The Authority  also 
+expects firms to promote a culture which requires their staff to have 
+regard to the impact of their behaviour on clients, other participants 
+in those markets and the financial markets as a whole.  
+2.3. JPMorgan’s failure adequately to control its London voice trading 
+operations in the G10 spot FX market is extremely serious . The 
+importance of this market and its widespread use  by market 
+participants throughout the financial system means that misconduct 
+relating to it has potentially damaging and far-reaching consequences 
+for the G10 spot FX market and financial markets generally. The 
+failings described in this Notice undermine confidence in the UK 
+financial system and put its integrity at risk. 
+2.4. JPMorgan breached Principle 3 of the Authority’s Principles for 
+Businesses in the period from 1 January 2008 to 15 October 2013 
+(“the Relevant Period”) by failing to take reasonable care to organise 
+and control its affairs responsibly and effectively with adequate risk 
+management systems in relation to G10 spot FX voice trading in 
+London. References in this Notice to JPMorgan’s G10 spot FX trading 
+business refer to its relevant voice trading desk based in London.  
+2.5. During the Relevant Period, JPMorgan did not exercise adequate and 
+effective control over its G10 spot FX trading  business. JPMorgan 
+                                                 
+1 The daily average volume turnover of the global FX market was over USD5 trillion in April 
+2013 according to the Bank for International Settlements (BIS) Triennial Central Bank Survey 
+2013. 
+ 
+ 3  
+relied primarily upon its front office FX  business to  identify, assess 
+and manage risks  arising in that business. The front office failed 
+adequately to discharge these responsibilities with regard to obvious 
+risks associated with confidentiality, conflicts of interest and trading 
+conduct. The right values and culture were not sufficiently embedded 
+in JPMorgan’s G10 spot FX trading business , which resulted in it 
+acting in JPMorgan’s own interests as described in this Notice without 
+proper regard for the interests of its clients, other market participants 
+or the wider UK financial system. The lack of proper control by 
+JPMorgan over the activities of its G10 spot FX traders in London 
+undermined market integrity an d meant that misconduct went 
+undetected for a number of years. JPMorgan’s control and risk 
+functions failed to challenge effectively  the management of these 
+risks in the G10 spot FX trading business. 
+2.6. JPMorgan’s failings in this regard allowed  the following behaviours to 
+occur in its G10 spot FX trading business: 
+(1) Attempts to manipulate the WMR and the ECB fix rates , alone 
+or in collusion with traders at other firms , for JPMorgan’s own 
+benefit and to the potential detriment of certain of its clients 
+and/or other market participants;  
+(2) Attempts to trigger clients’ stop loss orders for JPMorgan’s 
+own benefit and to the potential detriment of those clients 
+and/or other market participants; and 
+(3) Inappropriate shar ing of confidential information  with traders 
+at other firms , including specific client identities and , as part 
+of (1) and (2) above, information about clients’ orders.  
+2.7. These failings occurred in circumstances where certain of those  
+responsible for managing front office matters were awar e of and/or 
+at times involved in behaviours described above.  They also occurred 
+despite the fact that risks around confidentiality were highlighted 
+when, in March 2012, London FX front office requested guidance from 
+JPMorgan Compliance regarding informati on sharing with other banks 
+ahead of fixes.  
+2.8. JPMorgan was aware during the Relevant Period of misconduct 
+associated with LIBOR / EURIBOR , which was identified in well -
+publicised Final Notices issued against other firms  from June 2012 
+ 
+ 4  
+onwards.  JPMorgan was not subject to enforcement action by the 
+FCA for LIBOR / EURIBOR misconduct during the Relevant Period.  It 
+nonetheless engaged in a remediation programme  across its 
+businesses in response to these Notices.  This included  policy 
+enhancements regarding submissions -based benchmarks. Despite 
+these improvements , the steps taken during the Relevant Period in 
+its G10 spot FX business did not adequately address the r oot causes 
+that gave rise to failings described in this Notice. 
+2.9. The Authority therefore imposes  a financial penalty on JPMorgan in 
+the amount of £222,166,000 pursuant to section 206 of the Act. 
+2.10. The Authority acknowledges th e significant co-operation and 
+assistance provided by JPMorgan during the course of its 
+investigation. JPMorgan is continuing to undertake remedial action 
+and has committed significant resources to improving the  business 
+practices and associated controls relating to its FX operations. The 
+Authority recognises the work already undertaken by JPMorgan in 
+this regard. 
+2.11. This Notice relates solely to JPMorgan’s conduct in its G10 spot FX 
+trading business in London. It makes no criticism of any entities 
+other than the firms engaged in misconduct as described in this 
+Notice.     
+3. DEFINITIONS 
+3.1. The definitions below are used in this Final Notice. 
+“the Act” means the Financial Services and Markets Act 2000 
+“the Authority” means the body corporate previously known as the 
+Financial Services Authority and renamed on 1 April 2013 as the 
+Financial Conduct Authority 
+“the BoE” means the Bank of England 
+“the BIS survey” means the Bank for International Settlements  (BIS) 
+Triennial Central Bank Survey 2013 
+“CDSG” means the BoE’s Chief Dealers’ Sub-Group 
+“clients” means persons to whom a firm provides G10 spot FX voice 
+trading services 
+ 
+ 5  
+“EBS” means the Electronic Brokerage Service , an electronic broking 
+platform 
+“ECB” means the European Central Bank  
+“1:15pm ECB fix” or “ECB fix” is the exchange rate for various spot 
+FX currency pairs as determined by the ECB as at 1:15pm UK time  
+“EURIBOR” means the Euro Interbank Offered Rate 
+“firms” means authorised persons as defined in section 31 of the Act 
+“FX” means foreign exchange 
+“G10 currencies” means the following currencies: 
+USD US dollar 
+EUR Euro 
+JPY Japanese yen 
+GBP British pound 
+CHF Swiss franc 
+AUD Australian dollar 
+NZD New Zealand dollar 
+CAD Canadian dollar 
+NOK Norwegian krone 
+SEK Swedish krona 
+“LIBOR” means the London Interbank Offered Rate 
+“the ACI Model Code” means the Model Code issued by the ACI – the 
+Financial Markets Association, as applicable during the Relevant 
+Period 
+“net client orders” has the meaning given to that term at paragraph 
+3.2 of Annex B to this Notice  
+“the NIPS Code” means the Non -Investment Products Code , as 
+applicable during the Relevant Period 
+ 
+ 6  
+“the Principles” means the Authority’s Principles for Businesses 
+“Reuters” means the Reuters Dealing 3000, an electronic broking 
+platform operated by Thomson Reuters 
+“the Relevant Period” means 1 January 2008 to 15 October 2013 
+“spot FX” has the meaning given to that term in paragraph 4.3 of this 
+Notice 
+“the spot FX rate” means  the current exchange rate at which a 
+currency pair can be bought or sold 
+“the Tribunal” means the Upper Tribunal (Tax and Chancery 
+Chamber) 
+“the UK financial system” means the financial system operating in the 
+United Kingdom, including financial markets and exchanges, 
+regulated activities and other activities connected with financial 
+markets and exchanges 
+“4pm WM Reuters fix”  or “WMR fix” is the exchange rate for various  
+spot FX currency pairs determined by WM Reuters as at 4pm UK time 
+4. FACTS AND MATTERS 
+  Relevant background 
+The FX market  
+4.1. The FX market, in which participants are able to buy, sell, exchange 
+and speculate on currencies, is one of the largest financial markets in 
+the world. Participants in the FX market include banks, commercial 
+companies, central banks, investment management firms, hedge 
+funds and retail investors.  
+4.2. The most significant currencies traded in the FX market are  G10 
+currencies in terms of turnover and their widespread use within 
+global financial markets. According to the BIS survey, almost 75% of 
+all global FX trading in April 2013 wa s conducted in G10 currency 
+pairs, with a daily average turnover of almost USD4 trillion. The top 
+currencies by daily volume of FX trading in April 2013 were US dollar, 
+Euro, Japanese yen and British pound, with the largest turnover in 
+EUR/USD, USD/JPY and GBP/USD currency pairs. 
+4.3. The FX market includes transactions involving the excha nge of 
+currencies between two parties at an agreed rate  for settlement on a 
+ 
+ 7  
+spot date (usually two business days from the trade date) (“spot 
+FX”). Benchmarks set in the spot FX market, especially in G10 
+currency pairs, are used throughout the world to esta blish the 
+relative values of different currencies and are of crucial importance in 
+worldwide financial markets. In particular, benchmarks such as the 
+4pm WM Reuters and 1:15pm ECB fixes are used in the valuation and 
+performance management of investment por tfolios held by pension 
+funds and asset managers both in the UK and globally. The rates 
+established at these fixes are also used as reference rates in financial 
+derivatives.  
+4.4. A fuller description of the spot FX market and the background 
+matters described below is set out in Annex B to this Notice. 
+The 4pm WM Reuters fix and the 1:15pm ECB fix 
+4.5. Two of the most widely referenced spot FX benchmarks are the 4pm 
+WM Reuters fix and the 1:15pm ECB fix , which are each used to 
+determine benchmark rates for various currency pairs . For G10 
+currency pairs, these fixes are based upon spot FX trading activity by 
+market participants at or around the times of the respective 4pm WM 
+Reuters or 1:15pm ECB fixes. 
+Fix orders 
+4.6. Prior to a fix, c lients often place orders with a  firm to buy or sell a 
+specified volume of currency “at the fix  rate”. This is a reference to 
+the rate that will be determined at a forthcoming fix  and the firm 
+agrees to transact with clients at that rate.  
+4.7. By agreeing to transact with clients at a fix rate that is yet to be 
+determined, the firm is exposed to rate movements at the fix . A firm 
+will typically buy or sell currency in order to manage this risk , for 
+example by trading in the market or “netting off” (e.g. where a firm 
+has a buying interest for the fix  and trades with a market participant 
+which has a selling interest for the fix). 
+4.8. A firm with net client order s to buy currency at the fix rate will make 
+a profit if the average rate at which the firm buys the curre ncy in the 
+market is lower than the fix rate at which it sells to its clients. 
+Similarly, a firm with net client order s to sell currency at the fix rate 
+will make a profit if the average rate at which it sells the currency in 
+the market is higher than the fix rate at which it buys from its clients. 
+ 
+ 8  
+4.9. A firm legitimately managing the risk arising from its net client order s 
+at the fix rate may make a profit or loss from its associated trading in 
+the market.  Such trading can, however, potentially infl uence the fix 
+rate. For example, a firm buying a large volume of currency in the 
+market just before or during the fix may cause the fix rate to move 
+higher. This gives rise to a potential conflict of interest between a 
+firm and its clients. It also creates  a potential incentive for a firm to  
+seek to  manipulate the fix rate to its benefit and to the potential 
+detriment of certain of its clients. For example, there is a risk that a 
+firm with net client order s to buy a particular currency at the fix rate 
+might deliberately trade in a manner designed to manipulate the fix 
+rate higher. This trading could result in a profit for the firm as 
+described above, but may result in certain clients paying a higher fix 
+rate than they would otherwise have had to pay. 
+Fix Orders – The Bank of England 
+4.10. The Bank of England (the “BoE”) through its membership of the Chief 
+Dealers’ Sub-Group (“CDSG”) 2 was made aware during the Relevant 
+Period of firms using electronic messaging services, such as chat 
+rooms, to discuss their net orders ahead of fixes and the practice of 
+netting off between them. For the avoidance of doubt, the Authority 
+does not conside r that the netting off of orders ahead of fixes is 
+inappropriate in all circumstances.   The Authority has concluded that 
+the fact that netting off was discussed by the CDSG does not affect 
+the liability of the firms.  Each firm was responsible for ensuring that 
+it had appropriate systems and controls to manage the risks 
+associated with these practices. The BoE has conducted its own 
+investigation into the role of its officials in relation to certain conduct 
+issues in the FX market which is being published separately.3 
+Stop loss orders 
+4.11. Clients place stop loss orders with a firm to help manage their risk 
+arising from movements in currency rates in the spot FX market.  By 
+accepting these orders, the firm agrees to transact with the client at 
+                                                 
+2 The CDSG is a sub-group of the London Foreign Exchange Joint Standing Committee 
+established under the auspices of the BoE. Its membership is drawn from a selection of chief 
+dealers active in the London FX market and is chaired by a representative of the BoE.  
+3 The terms of reference of which are available at: 
+http://www.bankofengland.co.uk/publications/Pages/news/2014/052.aspx 
+ 
+ 9  
+or around a specified rate if the currency trades at th at rate in the 
+market. No binding agreement is made until the agreed rate has 
+been “triggered” (i.e. when  the currency trades at that rate in the 
+market). 
+4.12. By agreeing to transact with a client  at or around the specified rate , 
+the firm is exposed to movements in the spot FX rate. A firm will 
+typically buy or sell currency in the market in order to manage this 
+risk. This trading can result in a profit or a loss for the firm. For 
+example, a client ’s stop loss order to buy currency can result in a 
+profit for the firm if the  average rate at which the firm buys the 
+currency in the market is lower than the rate at which it sells the 
+currency to the client pursuant to the stop loss order. 
+4.13. A firm legitimately managing the risk arising from a client’s stop loss 
+order may profit from the trading associated with its risk 
+management. There is, however,  a potential incentive for a firm to 
+manipulate the spot FX rate in order to execute stop loss orders for 
+the firm’s benefit and to the potential detriment of its client. For 
+example, a firm with a client stop loss order to buy a particular 
+currency might deliberately trade in a manner designed to 
+manipulate the spot FX rate higher in order to trigger the client’ s 
+order at the specified rate . This could result in the firm  making a 
+profit as described above . The client could be disadvantaged , 
+however, since the transaction may not have happened at that time 
+or at all but for the firm’s actions.  
+Electronic messaging via chat rooms or similar 
+4.14. It was common practice during most of the Relevant Period for G10 
+spot FX traders at firms to use electronic messaging services, such as 
+chat rooms, to communicate with traders at other firms. Whilst such 
+communications are not of themselves inappropriate, the frequent 
+and significant flow of information between traders at different firms 
+increases the potential risk of traders engaging in collusive activity 
+and sharing, amongst other things, confidential information. It is 
+therefore especially important that firms exercise appropriate control 
+and monitoring of such communications. 
+ 
+ 10  
+Spot FX operations at JPMorgan 
+4.15. JPMorgan is a wholly owned subsidiary of J.P. Morgan Chase & Co. 
+(“the Group”). JPMorgan is a full service bank, headquartered in the 
+U.S., with operations in retail, wholesale and investment banking as 
+well as treasury and securities services.   
+4.16. Throughout the Relevant Period, the Group’s UK spot FX business 
+was conducted out of London via JPMorgan. JPMorgan also conducted 
+G10 spot FX trading out of New York, Tokyo  and Sydney. According 
+to the Euromoney 4 FX Survey 2013, JPMorgan was listed in the top 
+seven firms in terms of market share in global FX trading in spot and 
+forwards. 
+4.17. JPMorgan operates a “three lines of defence” model to manage risk. 
+JPMorgan’s front office business lines (the first line of defence)  had 
+primary responsibility for identification of conduct risks, which they 
+were expected to report to Compliance officers for escalation via 
+relevant business control committees. In addition, the business line  
+and compliance functions participated in regular risk assessments , 
+which could also result in escalation of issues for remedial work by 
+Compliance or Risk (the second line of defence) or Internal Audit (the 
+third line of defence). 
+  The failures of systems and controls at JPMorgan  
+4.18. In accordance with Principle  3, JPMorgan was under an obligation to 
+identify, assess and manage appropriately the risks associated with 
+its G10 spot FX trading business, given the potentially very significant 
+impact of misconduct in that business on G10 fix benchmarks , the 
+spot FX market generally  and the wider UK financial system. 
+JPMorgan failed to do so adequately during the Relevant Period  in 
+relation to risks associated with confidentiality, conflicts of interest 
+and trading conduct in its G10 spot FX trading business in London. 
+4.19. There are no detailed requirements for systems and controls 
+concerning spot FX trading in the Authority’s Handbook. The 
+importance of firms implementing effective systems and controls to 
+manage risks associated with their spot FX businesses was 
+                                                 
+4 Euromoney is an English-language monthly magazine focused on business and finance. First 
+published in 1969, it covers global banking, macroeconomics and capital markets, including 
+debt and equity. 
+ 
+ 11  
+nonetheless recognised within the market, as evidenced by a number 
+of industry codes published from time to time from 1975 onwards. 
+4.20. The codes applicable during the Relevant Period  expressly 
+recognised: 
+(1) That manipulative practices by firms constituted “unacceptable 
+trading behaviour” in the FX market;5  
+(2) The need for FX trading management to “prohibit the 
+deliberate exploitation of electronic dealing systems to 
+generate artificial price behaviour”;6 
+(3) The need for firms to manage the conflict of interest between 
+a firm handling client orders and trading for its own account so 
+as to ensure that “customers’ interests are not exploited”  and 
+“the fair treatment of counterparties”;7 
+(4) The importance of firms requiring standards that “strive for 
+best execution for the customer”  when managing client 
+orders;8 and 
+(5) The fundamental importance of preserving the confidentiality 
+of client information as “essential for the preservation of a 
+reputable and efficient market place”.9  
+4.21. The key provisions of these codes relevant to the matters in this 
+Notice are reproduced in Annex C. 
+Failure adequately to identify, assess and manage risks in JPMorgan’s 
+G10 spot FX trading business  
+4.22. JPMorgan failed to identify properly or take adequate steps to assess 
+the risks  described in this Notice  associated with its  G10 spot FX  
+trading business, and to manage them effectively during the Relevant 
+Period.  
+4.23. JPMorgan’s G10 spot FX trading business involved traders receiving 
+confidential information reg arding, amongst other things, the size 
+and direction of its clients’ fix orders and the size, direction and level 
+of other client orders , including stop loss orders . Whilst receipt and 
+                                                 
+5 Paragraph 1 of Annex C  
+6 Paragraph 1 of Annex C 
+7 Paragraph 1 and 2.1 of Annex C  
+8 Paragraph 1 of Annex C  
+9 Paragraph 2.1 of Annex C  
+ 
+ 12  
+use of s uch information for risk management purposes can be 
+legitimate, there is a risk that the information could be improperly 
+used by those traders to trade for JPMorgan’s benefit and to the 
+disadvantage of certain of its clients. If disclosed by JPMorgan to 
+traders at other firms, it could also enable those traders improperly 
+to take advantage of this information for their firms’ benefit and to 
+the potential detriment of certain of JPMorgan’s clients, acting either 
+alone or in collusion with G10 spot FX traders at JPMorgan. This gave 
+rise to obvious risks in JPMorgan’s G10 spot FX trading business 
+concerning conflicts of interest, confidentiality and trading conduct. 
+These risks were exacerbated by the widespread use by JPMorgan’s 
+G10 spot FX traders of chat rooms to communicate with traders at 
+other firms.  
+4.24. Pursuant to its three lines of defence model, JPMorgan’s front office 
+had primary responsibility for identifying, assessing and managing 
+the risks associated with its G10 spot FX trading business. The front 
+office failed adequately to discharge these responsibilities with regard 
+to the risks described in this Notice . The right values and culture 
+were not sufficiently embedded in JPMorgan's G10 spot FX  trading 
+business, which resulted in it acting in JPMorgan's own interests as 
+described in this Notice, without proper regard for the interests of its 
+clients, other market participants or the wider UK financial system. 
+The lack of proper controls by JPMorgan over the activities of its G10 
+spot FX traders meant that misconduct went undetected for a 
+number of years . Certain of those responsible  for managing front 
+office matters were aware of and/or at times involved in the 
+misconduct.  
+4.25. Whilst JPMorgan had policies in place regarding risks  of the type 
+described in this Notice , they were high -level in nature and applied 
+generally across a number of JPMorgan’s business divisions. There 
+were no policies specific to FX and the guidance provided in the 
+business-wide policies did not address the practical issues that 
+traders in JPMorgan’s G10 spot FX trading business faced on a daily 
+basis. JPMorgan did not have any policies  applicable to its G10 spot 
+FX trading business specifically regarding the use by traders of chat 
+rooms or similar electronic messaging services  during the Releva nt 
+ 
+ 13  
+Period. JPMorgan allowed its traders to participate in multi -bank chat 
+rooms throughout the Relevant Period. 
+4.26. JPMorgan failed to take adequate steps to ensure that general 
+policies concerning confidentiality, conflicts of interest and trading 
+conduct were effectively implemented in its G10 spot FX trading 
+business. There was insufficient training and guidance on how these 
+policies should be applied specifically to that business. JPMorgan 
+recognised this towards the end of 2011 , and implemented  FX-
+specific training in March 2012  as a result . This training prompted 
+requests from the front office  for specific guidance from Compliance . 
+JPMorgan also rolled-out new firm-wide anti-trust training to London-
+based FX staff in September 2012. However, the new training 
+contained few practical examples about the application of JPMorgan’s 
+policies and inadequate guidance on what amounted to unacceptable 
+behaviour by G10 spot FX traders. The absence of adequate training 
+and guidance about the application of JPMorgan’s general policies to 
+its G10 spot FX trading business increased the risk that misconduct 
+would occur.   
+4.27. JPMorgan’s day-to-day oversight of its  G10 spot FX  traders’ conduct 
+was insufficient. There was inadequate supervision by JPMorgan of 
+those traders’ conduct and use of chat rooms or similar 
+communications during the Relevant Period. None of the systems and 
+controls in JPMorgan’s FX business  were adequate to detect and 
+prevent the behaviours described in this Notice.  
+4.28. JPMorgan’s second and third lines of defence  failed to challenge 
+effectively the management of these risks by JPMorgan’s front office.  
+During the Relevant Period, JPMorgan did not conduct monitoring of 
+chat rooms in which London traders participated , except for the 
+purposes of anti -money laundering and wall -crossing concerns. This 
+monitoring failed to identify the behaviours described in this Notice. 
+4.29. JPMorgan had certain G10 spot FX trade monitoring in place in 
+London during the Relevant Period , which  was not designed to 
+identify the trading behaviours described in this Notice. 
+4.30. JPMorgan’s failure to identify, assess and manage these risks 
+appropriately is especially serious given that:  
+ 
+ 14  
+(1) Certain of those responsible  for managing front office matters 
+were aware of and/or at times involved in behaviours 
+described in this Notice. 
+(2) JPMorgan was aware during the Relevant Period of misconduct 
+associated with LIBOR / EURIBOR. The Authority published a 
+Final Notice against a nother firm in relation to LIBOR  / 
+EURIBOR in June 2012. This , and other  similar Notices 
+published subsequently , highlighted, amongst other th ings, 
+significant failings in the management and control of traders’ 
+activities by other firms’ front office businesses . These 
+included failing to address or adequately control conflicts of 
+interest around benchmarks , inappropriate communications 
+and other misconduct involving co llusion between traders at 
+different firms  aimed at inappropriately influencing LIBOR / 
+EURIBOR. The control failings at these other firms had led to a 
+poor culture in the front office lacking appropriate ethical 
+standards and resulted in an ineffective first line of defence. 
+They allowed trader misconduct around LIBOR / EURIBOR at 
+these other firms to occur undetected over a number of years. 
+(3) In response to the above, JPMorgan undertook a review to 
+assess whether issues could arise for JPMorgan in relation to 
+similar benchmarks and indices (not including the 1:15pm ECB 
+or 4pm WM  Reuters fixes), including an inventory project to 
+identify LIBOR -like submissions and to consider whether 
+JPMorgan should continue to contribute to, or participate in, 
+those submissions and, if so, to review and enhance relevant 
+policies and procedures where necessary.  JPMorgan 
+implemented enhanced policies and new training and guidance 
+for submitters and traders in order to better ensure 
+independence and reliability in the benchmark setting process.  
+(4) Despite these improvements, JPMorgan failed to address fully 
+in its G10 spot FX tradi ng business the root causes that gave 
+rise to failings described in this Notice . For example, the risks 
+around conflicts of interest in that business were not 
+addressed by JPMorgan. As a result,  JPMorgan did not 
+appropriately mitigate the risks of potentia l trader misconduct 
+in its G10 spot FX trading business. 
+ 
+ 15  
+(5) Risks around confidentiality in JPMorgan’s G10 spot FX trading 
+business were highlighted in March 2012, when JPMorgan 
+Compliance was asked for guidance about information sharing 
+with other banks in chat rooms  ahead of fixes . While 
+Compliance replied with appropriate advice by email, there is 
+no record of wider dissemination of the guidance or of steps to 
+ensure this was reflected in JPMorgan’s policies or controls.  
+(6) In addition, in April 2012 Compliance requested that the front 
+office provide it with a list of "do's and don'ts" for trading at a 
+fix, in order to assist with creating guidance in that regard . No 
+such guidance was produced. However, general firm -wide 
+anti-trust training was provided to London G10 spot FX traders 
+in September 2012, as noted in paragraph 4.26 above.  
+Inappropriate trading behaviour and misuse of confidential 
+information 
+4.31. JPMorgan’s failure to identify, assess and manage appropriately the 
+risks in its G10 spot FX trading business allowed the following 
+behaviours to occur in that business: 
+(1) Attempts to manipulate the WMR and the ECB fix rates, alone 
+or in collusion with traders at other firms , for JPMorgan’s own 
+benefit and to the potential detriment of certain of its clients 
+and/or other market participants;  
+(2) Attempts to trigger client s’ stop loss orders for JPMorgan’s 
+own benefit and  to the potential detriment of those clients 
+and/or other market participants; and 
+(3) Inappropriate sharing of confidential information  with traders 
+at other firms , including specific client identities and , as part 
+of (1) and (2) above, information about clients’ orders. 
+4.32. These behaviours were  typically facilitated by means of G10 spot FX 
+traders at different firms communicating via electronic messaging 
+services (including chat rooms).  These traders formed close, tight -
+knit groups or one -to-one relationship s based upon mutual benefit 
+and often with a focus on particular currency pairs. Entry into some 
+of these groups or relationships and the chat rooms used by them  
+was closely controlled by the participants . Certain groups described 
+ 
+ 16  
+themselves or were described by others using phrases such as “A-
+team” or similar. 
+4.33. The value of the information exchanged between the traders and the 
+importance of keeping it confidential between recipients was clear to 
+participants. In one group, a JPMorgan trader questioned whether a 
+prospective new participant would “tell [the] rest of [his] desk stuff”. 
+A trader at another firm commented “dont want  other numpty’s in 
+mkt to know [about information exchanged within the group], but not 
+only that is he gonna protect us like we protect each other…”.  
+Attempts to manipulate the fix 
+4.34. During its investigation, the Authority identified examples  within 
+JPMorgan’s G10 spot FX trading business of  attempts to manipulate 
+fix rates alone or in collusion with traders at other firms in the 
+manner described in this Notice.  
+4.35. The traders involved disclosed and received confidential information 
+to and from traders at other firms regarding the size and dire ction of 
+their firms’ net orders at a forthcoming fix. The disclosures provided 
+these traders with more information than they would otherwise have 
+had about other firms’ client order flows and thus the likely direction 
+of the fix.  
+4.36. These traders used this information to determine their trading 
+strategies and depending on the circu mstances to attempt to 
+manipulate the fix in the desired direction . They did this by 
+undertaking a number of actions, typically including one or more of 
+the following (which would depend on the information disclosed and 
+the traders involved): 
+(1) Traders in a chat room with net orders in the opposite 
+direction to the desired movement at the fix sought before the 
+fix to transact or “ net off ” their orders with third parties  
+outside the chat room , rather than with other traders in the 
+chat room. This maintained the volume of orders in the 
+desired direction held by traders in the chat room and avoided 
+orders being transacted in the opposite direction at the fix.  
+Traders within the market have referred to this process as 
+“leaving you with the ammo” or similar. 
+ 
+ 17  
+(2) Traders in a chat room with net orders in the same direction 
+as the desired rate movement at the fix sought before the fix 
+to do one or more of the following: 
+(a) Net off these orders with third parties outside the chat 
+room, thereby  reducing the volume of orders held by 
+third parties that might otherwise be transacted at the 
+fix in the opposite direction. Traders within the market 
+have referred to this process as “taking out t he filth” or 
+“clearing the decks” or similar; 
+(b) Transfer these orders to a single trader in the chat room , 
+thereby consolidating these orders in the hands of one 
+trader. This potentially increased the likelihood of 
+successfully manipulating the fix rate sinc e that trader 
+could exercise greater control over his trading strategy 
+during the fix than a number of traders acting 
+separately. Traders within the market  have referred to 
+this as “giving you the ammo” or similar; and/or  
+(c) Transact with third parties outside the chat room in 
+order to increase the volume of orders held by them in 
+the desired direction. This potentially increased the 
+influence of the trader(s) at the fix by allowing them to 
+control a larger proportion of the overall volume traded 
+at the fix than they would otherwise have and/or to 
+adopt particular trading strategies, such as trading a 
+large volume of a currency pair aggressively.  This 
+process was known as “building”.  
+(3) Traders increased the volume traded by them at the fix in the 
+desired direction in excess of the volume necessary to manage 
+the risk associated with firms’ net buy or sell orders at the fix. 
+Traders within the market have referred to this process as 
+“overbuying” or “overselling”.   
+4.37. The effect of these actions was to increase the influence that those 
+traders had with regard to the forthcoming fix and therefore the 
+likelihood of them being able to manipulate the rate in the desired 
+direction. The trader(s) concerned then traded in an attempt to move 
+the fix rate in the desired direction. 
+ 
+ 18  
+Example of JPMorgan’s attempts to manipulate the fix  
+4.38. An example of JPMorgan’s involvement in this behaviour occurred on 
+one day within the Relevant Period when JPMorgan attempted to 
+manipulate the WMR fix in the EUR/USD currency pair. On this day, 
+JPMorgan had net buy order s at the fix which meant that it would 
+benefit if it was able to move the WMR fix rate upwards. 10 The 
+chances of successfully manipulating the fix rate in this manner 
+would be improved if JPMorgan and another firm or firms ado pted 
+trading strategies based upon the information they shared with each 
+other about their net orders. 
+4.39. In the period between 3:41pm and 3:51pm on this day, traders at 
+two different firms (including JPMorgan) inappropriately disclosed to 
+each other via a chat room details about their net orders in respect of 
+the forthcoming WMR fix in order to determine their trading 
+strategies. The other firm is referred to in this Final Notice as Firm A. 
+On the day in question, a third firm (Firm B) was a member of the 
+chat room, but did not participate in the discussions. JPMorgan then 
+participated in the series of actions described below in an attempt to 
+manipulate the fix rate higher. 
+(1) At 3:43pm, Firm A asked JPMorgan whether it would need to 
+buy EUR in the market for the  forthcoming WMR fix. JPMorgan 
+responded that it had net buy order s for the fix, which it 
+subsequently confirmed amounted to EUR105 million. It 
+offered to transfer its net buy orders to Firm A. 
+(2) At 3:44pm, Firm A replied “ maybe” and went on to state that 
+it had a buy order “ for a top [account]” for EUR150 million at 
+the fix. 
+(3) At 3:46pm, Firm A then stated “ i'd prefer we join forces” . 
+JPMorgan responded “perfick…lets  do ths…lets double team 
+em”. Firm A replied “ YESsssssssssss”. The Authority considers 
+these s tatements to refer to the possibility of JPMorgan and 
+Firm A co-ordinating their actions in an attempt to manipulate 
+the fix rate higher.  Since JPMorgan and Firm A each needed 
+to buy EUR at the fix, each would profit to the extent that the 
+                                                 
+10 JPM would profit if the average rate at which it bought EUR/USD in the market was lower 
+than the fix rate at which it sold EUR/USD. 
+ 
+ 19  
+fix rate at whi ch it sold EUR was higher than the  average rate 
+at which it bought EUR in the market. 
+(4) At 3:47pm and 3:51pm, JPMorgan informed Firm A that it had 
+conducted trades with third parties that resulted in it needing 
+to buy additional EUR at the fix. This is an ex ample of 
+“building”. 
+(5) At 3:48pm, Firm A said that it was monitoring activity in 
+relation to the forthcoming fix in the interdealer broker market 
+(“i got the bookies covered”). 
+4.40. In the period leading up to the fix, JPMorgan “ built” the volume of 
+EUR that it needed to buy for the fix to a total of approximately 
+EUR278 million via a series of transactions with market participants. 
+Firm A had net buy orders associated with its client fix orders of 
+EUR170 million in the period leading up to the fix. It increased this 
+amount (or “built”) by EUR70 million. 
+4.41. From 3:52pm until the opening of the fix window at 3:59:30pm, 
+JPMorgan and Firm A bought EUR on the EBS trading platform . In 
+particular JPMorgan bought EUR57 million from 3:58pm onwards. 
+These early trades were designed to take advantage of the expected 
+upward movement in the fix rate following the discussions within the 
+chat room described above. 
+4.42. In the first five seconds of the fix window, JPMorgan and Firm A each 
+placed orders to buy EUR 50 million and subsequently placed smaller 
+orders to buy EUR throughout the remainder of the fix window. 
+During the 60 second fix window, JPMorgan bought a total of EUR134 
+million and Firm A bought EUR125 million. Between them, they 
+accounted for 41% of th e volume of EUR/USD bought during the fix 
+window. 
+4.43. The rate prevailing on EBS at the start of the fix window was 1.3957. 
+Over the course of the window period, the rate rose and WM Reuters 
+subsequently published the fix rate for EUR/USD at 1.39605. 
+4.44. The infor mation disclosed between JPMorgan and Firm A regarding 
+their order flows was used to determine their trading strategies. T he 
+consequent “building” by JPMorgan and its trading in relation to that 
+increased quantity in advance of and during the fix window we re 
+designed to increase the WMR fix rate to JPMorgan’s benefit. 
+ 
+ 20  
+JPMorgan’s trading in EUR/USD in this example generated a profit of  
+approximately USD33,000. 
+4.45. Subsequent to the WMR fix, the two traders discussed the outcome of 
+their trading. At 4:03pm, Firm A stated “ sml rumour we havent lost 
+it”. JPMorgan responded “we…do…dollarrr”. 
+4.46. The following day Firm A stated to Firm B “we were EPIC at the 
+[WMR] fix yest”. Firm B responded “ yeeeeeeeeeeeeeeeeeeah”.  Firm 
+A added “i dragged [JPMorgan] in , we covered all the bases b/w us ”. 
+Firm B commented “so couldnt have been that $hit a week!!” 
+Attempts to trigger client stop loss orders 
+4.47. During its investigation, the Authority identified instances within 
+JPMorgan’s G10 spot FX trading business of at tempts to trigger client 
+stop loss orders. These attempts involved inappropriate disclosures to 
+traders at other firms concerning details of the size, direction and 
+level of client stop loss orders. The traders involved would trade in a 
+manner aimed at man ipulating the spot FX rate , such that the stop 
+loss order was triggered . JPMorgan would potentially profit from this 
+activity because if successful it would, for example, have sold the 
+particular currency to its client pursuant to the stop loss order at a 
+higher rate than it had bought that currency in the market.  
+4.48. This behaviour was reflected in language used by G10 s pot FX 
+traders at JPMorgan in chat rooms. For example, a JPMorgan trader 
+explained to other traders in a chat room that he had traded in the 
+market in order “ to get the 69 print”  (i.e. to move the spot FX rate 
+for that currency pair to the level ( “69”) at which a stop loss would 
+be triggered) . On another occasion, the same trader disclosed the 
+level of certain clients’ stop loss orders to other JPMorgan traders in a 
+chat room and asked “shall we go get these stops?”. 
+Inappropriate sharing of confidential information 
+4.49. The attempts to manipulate the WMR and ECB fixes and trigger client 
+stop loss orders described in this Notice involved inappropriate 
+disclosures of client order flows at fixes and details of client stop loss 
+orders. 
+4.50. There are also examples in JPMorgan’s G10 spot FX trading business 
+of disclosures of specific client identities to traders at other firms 
+ 
+ 21  
+during the Relevant Period. These examples involved t raders within 
+that business using informal and sometimes derogatory code words 
+to communicate details of clients’ activities without mentioning the 
+clients by name. Disclosing these details gave traders at other firms 
+notice of the activity of JPMorgan’s clients. This gave those traders 
+more information about th ose clients’ activities than they would 
+otherwise have  had. The clients identified were typically significant 
+market participants, such as central banks, large corporates, pension 
+funds or hedge funds , whose trading activity was potentially  
+influential in the market . When these disclosures were made while 
+the client ’s activity was ongoing , there was significant potential for 
+client detriment. 
+5. FAILINGS 
+5.1. The regulatory provisions relevant to this Final Notice are referred to 
+in Annex A. 
+5.2. For the reasons set out at paragraphs 4.18 to 4.50 in this Notice, 
+JPMorgan breached Principle 3 by failing to take reasonable care to 
+organise and control its affairs properly and effectively in relation to 
+its G10 spot FX trading business. 
+6. SANCTION  
+6.1. The Authority’s policy for imposing a financial penalty is set out in 
+Chapter 6 of the Authority’s Decision Procedure and Penalties Manual 
+(“DEPP”). In determining the financial penalty, the Authority has had 
+regard to this guidance. 
+6.2. Changes to DEPP were introduced o n 6 March 2010. Given that 
+JPMorgan’s breach occurred both before an d after that date , the 
+Authority has had regard to the provisions of DEPP in fo rce before 
+and after that date. 
+6.3. The application of the Authority’s penalty policy is set out in Annex D 
+to this Notice in relation to: 
+(1) JPMorgan’s breach of Principle 3 prior to 6 March 2010; and 
+(2) JPMorgan’s breach of Principle 3 on or after 6 March 2010. 
+6.4. In determining the financial penalty to be attributed to JPMorgan’s 
+breach prior to and on or after 6 March 2010, the Authority has had 
+ 
+ 22  
+particular regard to the following  matters as applicable during each 
+period: 
+(1) The need for credible deterrence; 
+(2) The nature, seriousness and impact of the breach;  
+(3) The failure of JPMorgan to respond adequately during the 
+Relevant Period in its G10 spot FX trading business to 
+misconduct identified  in well-publicised enforcement actions 
+against other firms relating to LIBOR / EURIBOR; 
+(4) The previous disciplinary record and general compliance  
+history of JPMorgan; and 
+(5) Any applicable settlement discount for agreeing to settle at an 
+early stage of the Authority’s investigation. 
+6.5. The Authority therefore imposes a total financial penalty of 
+£222,166,000 on JPMorgan comprising: 
+(1) A penalty of £ 40,950,000 relating to JPMorgan’s breach of 
+Principle 3 under the old penalty regime; and  
+(2) A penalty of £ 181,216,000 relating to JPMorgan’s breach of 
+Principle 3 under the current penalty regime.  
+7. PROCEDURAL MATTERS   
+Decision maker 
+7.1. The decision which gave rise to the obl igation to give this Notice was 
+made by the Settlement Decision Makers. 
+7.2. This Final Notice is given under, and in accordance with, section 390 
+of the Act.  
+Manner of and time for Payment 
+7.3. The financial penalty must be paid in full by JPMorgan to the 
+Authority by no later than 25 November 2014, 14 days from the date 
+of the Final Notice. 
+If the financial penalty is not paid 
+7.4. If all or any of the financial penalty is outstanding on 26 November 
+2014, the Authority may recover the outstanding amount as a debt 
+owed by JPMorgan and due to the Authority. 
+ 
+ 23  
+Publicity 
+7.5. Sections 391(4), 391(6) and 391(7) of the Act apply to the 
+publication of information about the matter to which this notice 
+relates.  Under those provisions, the Authority must publish such 
+information about the matter to which this notice relates as the 
+Authority considers appro priate.  The information may be published 
+in such manner as the Authority considers appropriate.   However, the 
+Authority may not publish information if such publication would, in 
+the opinion of the Authority, be unfair to you or prejudicial to the 
+interests of consumers or detrimental to the stability of the UK 
+financial system. 
+Authority contacts 
+7.6. For more information concerning this mat ter generally, contact Karen 
+Oliver at the Authority (direct line: 020 7066  1316 / fax: 020 7066 
+1317). 
+ 
+  
+ 
+Therese Chambers 
+Project Sponsor 
+Financial Conduct Authority 
+Enforcement and Financial Crime Division 
+ 
+ 
+  
+ 
+ 24  
+ANNEX A 
+RELEVANT STATUTORY AND REGULATORY PROVISIONS 
+ 
+1. RELEVANT STATUTORY PROVISIONS 
+1.1. The Authority’s statutory objectives, set out in section 1B(3) of the 
+Act, include the integrity objective.  
+1.2. Section 206(1) of the Act provides: 
+“If the Authority considers that an authorised person has contravened 
+a requirement imposed on him by or under this Act… it may impose 
+on him a penalty, in respect of the contravention, of such amount as 
+it considers appropriate." 
+2. RELEVANT REGULATORY PROVISIONS 
+Principles for Businesses 
+2.1. The Principles are a general statement of the fundamental obligations 
+of firms under the regulatory system and are set out in the 
+Authority’s Handbook. They derive their authority from the 
+Authority’s rule -making powers set out in the Act. The relevant 
+Principle and associated Rules are as follows: 
+(1) Principle 3 provides that a firm mu st take reasonable care to 
+organise and control its affairs responsibly and effectively, 
+with adequate risk management systems; and 
+(2) PRIN3.2.3R provides that, amongst other things, Principle 3 
+will apply with respect to the carrying on of unregulated 
+activities in a prudential context. PRIN3.3.1R provides that 
+this applies with respect to activities wherever they are carried 
+on. 
+DEPP 
+2.2. Chapter 6 of DEPP, which forms part of the Authority’s Handbook, 
+sets out the Authority’s statement of policy with respect to the 
+imposition and amount of financial penalties under the Act. 
+The Enforcement Guide 
+2.3. The Enforcement Guide sets out the Authority’s approach to 
+exercising its main enforcement powers under the Act.   
+ 
+ 25  
+2.4. Chapter 7 of the Enforcement Guide sets out the Authority’s approach 
+to exercising its power to impose a financial penalty. 
+  
+ 
+ 26  
+ANNEX B 
+BACKGROUND INFORMATION TO THE SPOT FX MARKET 
+ 
+1. SPOT FX TRANSACTIONS 
+1.1. A “spot FX” transaction is an agreement between two parties to buy 
+or sell one currency against another  currency at an agreed price for 
+settlement on a “spot date” (usually two business days from the 
+trade date).  
+1.2. Spot FX transactions can be direct (executed between two parties 
+directly), via electronic broking platforms which operate automated 
+order matchi ng systems or other electronic trading systems, or 
+through a voice broker. In practice much of the trading between 
+firms in the spot FX market takes place on electronic broking 
+platforms such as Reuters and EBS. 
+2. THE 4PM WM REUTERS FIX AND THE 1:15PM ECB FIX 
+2.1. WM Reuters publishes a series of rates for various currency pairs at 
+different times in the day, including at 4pm UK time in particular. 
+This rate (the “4pm WM Reuters fix”) has become a de facto standard 
+for the closing spot rate in those currency pai rs. For certain currency 
+pairs, the 4pm WM Reuters fix is calculated by reference to trading 
+activity on a particular electronic broking platform during a one 
+minute window (or “fix period”) 30 seconds before and 30 seconds 
+after 4pm.11  The 4pm WM Reuters fix rates are then published to the 
+market shortly thereafter.  
+2.2. The ECB establishes reference rates for various other currency pairs. 
+The rate is “based on the regular daily concertation procedure 
+between central banks within and outside the European Syste m of 
+Central Banks”.12 This procedure normally takes place at 1 :15pm UK 
+time and the reference rates are published shortly thereafter. This 
+process is known in FX markets as the ECB fix. The ECB fix is known 
+colloquially as a “flash” fix, that is to say it reflects the rate at that 
+particular moment in time.   
+                                                 
+11 The methodology used by WM Reuters to calculate its rates is set out in the attached link:  
+http://www.wmcompany.com/pdfs/WMReutersMethodology.pdf 
+12 The methodology used by ECB to establish its rates is described in the attached link: 
+http://sdw.ecb.europa.eu/browse.do?node=2018779  
+ 
+ 27  
+2.3. Rates established at these fixes are used across the UK and global 
+financial markets by various market participants, including banks, 
+asset managers, pension funds and corporations. These rates are a 
+key reference point for valuing different currencies. They are used in 
+the valuation of foreign currency denominated assets and liabilities, 
+the valuation and performance of investment portfolios, the 
+compilation of equity and bond indices and in contracts  of different 
+kinds, including the settlement of financial derivatives.  
+3. FIX ORDERS 
+3.1. A firm may receive and accept multiple client orders to buy or sell a 
+particular currency pair for a particular fix on any given day. The firm 
+agrees to transact with the c lient at the forthcoming fix rate. In 
+practice, opposing client orders are effectively “netted” out by the 
+firm insofar as possible 13 and traders at the firm will be responsible 
+for managing any residual risk associated with the client orders. They 
+may seek to manage this risk by going into the market and buying or 
+selling an equivalent amount of the relevant currency to match the 
+residual risk.  
+3.2. At its most straightforward, f or example, on any given day a firm 
+might receive client orders to buy EUR/USD 14 500 million at the fix 
+rate and client orders to sell EUR/USD 300 million at the fix rate. In 
+this example, the firm would agree to transact all these orders at the 
+fix rate and would net out the opposing orders for EUR/USD 300 
+million. The traders at the fir m may buy EUR/USD 200 million in the 
+market to manage the residual risk associated with the client orders. 
+This net amount is referred to in this Notice as the firm’s “net client 
+orders” at the fix. 
+3.3. A firm does not charge commission on its trading or act as an agent, 
+but transacts with the client as a principal. A firm in this situation is 
+exposed to rate movements at the fix . A firm can make a profit or 
+loss from clients’ fix orders in the following ways: 
+                                                 
+13 This can be done by “netting off” opposing orders in the same currency pairs or by splitting 
+the order between its constituent currencies and “netting off” against orders relating to other 
+currency pairs. 
+14 The first currency of a currency pair (e.g. EUR in the above example) is called the “base” 
+currency. The second currency is called the “quote” currency (e.g. USD in the above example).  
+An order to buy a currency pair is an order to buy the base currency (e.g. EUR) using the quote 
+currency (e.g. USD) as consideration for the transaction. An order to sell a currency pair is an 
+order to sell the base currency and to receive the quote currency.  
+ 
+ 28  
+(1) A firm with net client orders to buy a currency for a 
+forthcoming fix will make a profit if the fix rate (i.e. the rate at 
+which it has agreed to sell a quantity of the currency pair to 
+its client) is higher than the average rate at which the firm 
+buys the same quantity of that currency pair in the market. 
+Conversely, the firm will make a loss if the fix rate is lower 
+than the average rate at which the firm buys the same 
+quantity of that currency pair in the market. 
+(2) A firm wit h net client orders to sell a currency for a 
+forthcoming fix will make a profit if the fix rate (i.e. the rate at 
+which it has agreed to buy a quantity of the currency pair 
+from its client) is lower than the average rate at which the 
+firm sells the same qu antity of that currency pair in the 
+market. A loss will be made by the firm if the fix rate is higher 
+than the average rate at which the firm sells the same 
+quantity of that currency in the market. 
+3.4. A firm legitimately managing the risk arising from its net  client orders 
+at the fix rate may make a profit or a loss from its associated trading 
+in the market. Such trading can potentially influence the fix rate. For 
+example, a firm buying a large volume of currency in the market just 
+before or during the fix may  cause the fix rate to move higher. This 
+gives rise to a potential conflict of interest between a firm and its 
+clients.  
+3.5. It also creates a potential incentive for a firm to seek to attempt to 
+manipulate the fix rate in the direction that will result in a p rofit for 
+the firm. For example, a firm with net  client buy order s for the 
+forthcoming fix can make a profit if it trades in a way that moves the 
+fix rate higher such that the rate at which it has agreed to sell a 
+quantity of the currency pair to its clien t is higher than the average 
+rate at which it buys that quantity of the currency pair in the market. 
+Similarly, a firm can profit from net client sell orders if it moves the 
+fix rate lower such that the rate at which it has agreed to buy a 
+quantity of the currency pair from its client is lower than the average 
+rate at which it sells that quantity of the currency pair in the market.  
+ 
+ 29  
+4. STOP LOSS ORDERS 
+4.1. Clients will place stop loss orders with a firm to help manage their 
+risk arising from movements in the spot FX market. For example, in 
+circumstances where a client has bought EUR/USD he may place a 
+stop loss order with a firm to sell EUR/USD at or around a specified 
+rate below that of his original purchase. By accepting the order, the 
+firm agrees to transact with the client at or around a specified rate if 
+the currency trades at that rate in the market.  No binding agreement 
+is made until the agreed rate is  “triggered” (i.e. when the currency 
+trades at that rate in the market).  
+4.2. A stop loss order has the effect of managing the client’s risk and 
+limiting the crystallised loss associated with a currency position taken 
+by him should the market rate move against him. The size of the stop 
+loss order and the rate at which it is placed will depend on the risk 
+appetite of the client. Spot FX traders at the firm will typically be 
+responsible for managing the order for the client and managing the 
+risk associated with the order from the firm’s perspective. 
+4.3. A firm can potentially make a profit or loss from transacting a client’s 
+stop loss order in a similar way to that described at paragraph 3.2 
+above:  
+(1) A client’s stop loss order to buy a currency pair is triggered by 
+the rate moving above a certain specified level. A firm will 
+make a profit (loss) if it purchases a quantity of the currency 
+pair in the market at a lo wer (higher) average rate than that 
+at which it subsequently sells that quantity of the currency 
+pair to its client when the stop loss order is executed.   
+(2) A client’s stop loss order to sell a currency is triggered by the 
+rate moving below a certain specified level. A firm will make a 
+profit (loss) if it sells a quantity of the currency pair in the 
+market at a higher (lower) average rate than that at which it 
+subsequently buys that quantity o f the currency pair from its 
+client when the stop loss order is executed. 
+4.4. Similar to fix orders, a firm legitimately managing the risk arising 
+from a client's stop loss order may make a profit or loss from the 
+trading associated with its risk management . S uch a scenario can 
+also, however, provide a potential incentive for a firm to attempt to 
+ 
+ 30  
+manipulate the rate for a currency pair prevailing in the market to, or 
+through, a level where the stop loss order is triggered. For example, 
+a firm will profit from a  client’s stop loss order to buy a currency pair 
+if the firm purchases a quantity of that currency pair and then  trades 
+in a manner that moves the prevailing rate for a currency pair at or 
+above the level of the stop loss. This would result in the rate at which 
+the firm  sells the currency pair to the client as a result of the 
+execution of the stop loss being higher than the average rate at 
+which it has purchased that quantity of the currency pair in the 
+market.  
+5. ELECTRONIC MESSAGING VIA CHAT ROOMS OR SIMILAR 
+5.1. The use of electronic messaging was common practice by traders in 
+the spot FX market during the Relevant Period. 
+5.2. A “persistent” chat room allows participants to have ongoing 
+discussions with other participants from different firms and in 
+different time z ones for extended timeframes. Participants can 
+communicate via electronic messaging over a period of multiple days, 
+weeks or months. There can be multiple participants in a particular 
+persistent chat and once invited  an individual will be able to view a 
+continuous record of the entire discussion thread and participate from 
+then on.    
+ 
+ 31  
+ANNEX C 
+RELEVANT CODES OF CONDUCT 
+ 
+1. On 22 February 2001, a number of leading intermediaries, including  
+JPMorgan, issued a statement setting out a new set of “ good practice 
+guidelines” in relation to foreign exchange trading (the “2001 
+statement”). The guidelines specified that:  
+“The handling of customer orders requires standards that strive for 
+best execution for the customer in accordance with such orders 
+subject to market  conditions. In particular, caution should be taken 
+so that customers’ interests are not exploited when financial 
+intermediaries trade for their own accounts… Manipulative practices 
+by banks with each other or with clients constitute unacceptable 
+trading behaviour.”15 
+The 2001 statement continues, “Foreign exchange trading 
+management should prohibit the deliberate exploitation of electronic 
+dealing systems to generate artificial price behaviour.”16 
+2. The NIPS Code provided the following relevant guidance: 
+2.1. In re lation to conflicts of interest, “ All firms should identify any 
+potential or actual conflicts of interest that might arise when 
+undertaking wholesale market transactions, and take measures either 
+to eliminate these conflicts or control them so as to ensure the fair 
+treatment of counterparties.”17  
+2.2. In relation to maintaining the confidentiality of information it states 
+that “ Confidentiality is essential for the preservation of a reputable 
+and efficient market place. Princip als and brokers share equal 
+responsibility for maintaining confidentiality”.18 
+2.3. It continues  “Principals or brokers should not, without explicit 
+permission, disclose or discuss or apply pressure on others to 
+                                                 
+15 Annex 2 to the NIPS Code, November 2011. Original statement issued 22 February 2001 by 
+16 leading intermediaries in the FX market. Also Annex 2 to the NIPS Code December 2007 and 
+NIPS Code April 2009. 
+16 Ibid. 
+17 Paragraph 5, Part II, NIPS Code, December 2007; and Paragraph 6, Chapter II, NIPS Code, 
+April 2009 and November 2011. 
+18 Paragraph 16, Part III, NIPS Code, December 2007; and paragraph 15, Chapter III, NIPS 
+Code, April 2009 and November 2011. 
+ 
+ 32  
+disclose or discuss, any information relating to specific deals which 
+have been transacted, or are in the process of being arranged, except 
+to or with the parties directly involved (and, if necessary, their 
+advisors) or where this is required by law or to comply with the 
+requirements of a supervisory body. All relevant personnel should be 
+made aware of, and observe, this fundamental principle.”19 
+3. The ACI Model Code provides the following relevant guidance: 
+3.1. In relation to confidentiality it provides  that firms must have clearly 
+documented policies and procedures in place and strong systems and 
+controls to manage confidential information within the dealing 
+environment and other areas of the firm  which may obtain such 
+information. It also stipulates that any bre aches in relation to 
+confidentiality should be investigated immediately according to a 
+properly documented procedure.20  
+3.2. In relation to confidential information it provides that “ Dealers and 
+sales staff should not, with intent or through negligence, profit or 
+seek to profit from confidential information, nor assist anyone with 
+such information to make a profit for their firm or clients”. It goes on 
+to clarify that dealers should refrain from trading against confidential 
+information and never reveal such information outside their firms and 
+that employees have a duty to familiarise themselves with the 
+requirements of the relevant legislation and regulations governing 
+insider dealing and market abuse in their jurisdiction.21  
+  
+                                                 
+19 Paragraph 16, Part III, NIPS Code, December 2007; and paragraph 15, Chapter III, NIPS 
+Code, April 2009 and November 2011. 
+20 Paragraphs 9 and 6, Chapter II, ACI Model Code,  April 2009; paragraph 10, ACI Model Code, 
+September 2012; paragraph 10.1 ACI Model Code, January 2013.  
+21 Paragraph 9, Chapter II, ACI Model Code, April 2009; paragraph 10(b), ACI Model Code, 
+September 2012; and paragraph 10.2, ACI Model Code, January 2013. 
+ 
+ 33  
+ANNEX D 
+PENALTY ANALYSIS 
+ 
+1. The Authority’s policy for imposing a financial penalty is set out in 
+Chapter 6 of the Authority’s Decision Procedure and Penalties Manual 
+(“DEPP”). In determining the financial penalty, the Authority has had 
+regard to this guidance. 
+2. Changes to DEPP were intro duced o n 6 March 2010. Given that 
+JPMorgan’s breach occurred both before and after that date, the 
+Authority has had regard to the provisions of DEPP in force before 
+and after that date. 
+3. The application of the Authority’s penalty policy is set out below in 
+relation to: 
+3.1. JPMorgan’s breach of Principle 3 prior to 6 March 2010; and 
+3.2. JPMorgan’s breach of Principle 3 on or after 6 March 2010. 
+4. BREACH OF PRINCIPLE 3 PRIOR TO 6 MARCH 2010 
+4.1. In determining the financial penalty to be attributed to JPMorgan’s 
+breach prior to 6 March 2010, the Authority has had particular regard 
+to the following: 
+Deterrence – DEPP 6.5.2G(1) 
+4.2. The principal purpose of a financial penalty is to promote high 
+standards of regulatory conduct by deterring firms who have 
+breached regulatory requirem ents from committing further 
+contraventions, helping to deter other firms from committing 
+contraventions and demonstrating generally to firms the benefits of 
+compliant behaviour. The Authority considers that the need for 
+deterrence means that a very signif icant financial penalty against  
+JPMorgan is appropriate.  
+The nature, seriousness and impact of the breach – DEPP 
+6.5.2G(2) 
+4.3. JPMorgan’s breach was extremely serious. The failings in JPMorgan’s 
+procedures, systems and controls in its G10 spot FX trading business 
+occurred over a period of more than two years prior to 6 March 2010. 
+This gave rise to a risk that JPMorgan’s traders would engage in the 
+ 
+ 34  
+behaviours described in this Notice, including inappropriate 
+disclosures of confid ential information and attempts to manipulate 
+the 4pm WM Reuters fix and the 1 :15pm ECB fix and to trigger client 
+stop loss orders. JPMorgan’s breach undermines confidence not only 
+in the spot FX market, but also in the wider UK financial system.    
+The size and financial resources of the Firm – DEPP 6.5.2G(5) 
+4.4. JPMorgan is one of the biggest, most sophisticated and well -
+resourced financial services institutions in the UK. Serious breaches 
+committed by such a firm warrant a significant penalty. 
+Other action taken by the Authority – DEPP 6.5.2G(10) 
+4.5. In determining whether and what financial penalty to impose on 
+JPMorgan in respect of its breach of Principle 3, the Authority has 
+taken into account action taken by the Authority in relation to 
+comparable breaches.  
+4.6. The Authority considers that JPMorgan’s breach of Principle 3 in the 
+period prior to 6 March 2010 merits a significant financial penalty of 
+£58,500,000 before settlement discount. 
+4.7. JPMorgan agreed to settle at an early stage of the Authority’s 
+investigation. JPMorgan therefore qualified for a 30% ( Stage 1) 
+discount under the Authority’s executive settlement procedures. The 
+financial penalty for JPMorgan’s breach of Principle 3 in the period 
+prior to 6 March 2010 is therefore £40,950,000. 
+5. BREACH OF PRINCIPLE 3 ON OR AFTER 6 MARCH 2010 
+5.1. In respect of any breach occurring on or after 6 March 2010, the 
+Authority applies a five -step framework to determine the appropriate 
+level of financial penalty. DEPP 6.5A sets out the details of the five -
+step framework that app lies in respect of financial penalties imposed 
+on firms.  
+Step 1: Disgorgement   
+5.2. At Step 1 the Authority seeks to deprive a firm of the financial benefit 
+derived directly from the breach where it is practicable to quantify 
+this (DEPP 6.5A.1G). The Authority considers that it is not practicable 
+to quantify the financial benefit that JPMorgan may have derived 
+directly from its breach. 
+ 
+ 35  
+5.3. Step 1 is therefore £0. 
+Step 2: The seriousness of the breach 
+5.4. At Step 2 the Authority determines a figure that reflects the 
+seriousness of the breach (DEPP 6.5A.2G). Where the amount of 
+revenue generated by a firm from a particular product line or 
+business area is indicative of the harm or potential harm that its 
+breach may cause, that figure will be based on a percentage of the 
+firm’s revenue from the relevant products or business area.  
+5.5. The Authority consid ers revenue to be an indicator of the harm or 
+potential harm caused by the breach. The Authority has therefore 
+determined a figure based on a percentage of JPMorgan’s relevant 
+revenue. The Authority considers that the relevant revenue for the 
+period from 6 March 2010 to 15 October 2013 is £121,000,000. 
+5.6. In deciding on the percentage of the relevant revenue that forms the 
+basis of the Step 2 figure, the Authority considers the seriousness of 
+the breach and chooses a percentage between 0% and 20%. This 
+range i s divided into five fixed levels which represent, on a sliding 
+scale, the seriousness of the breach; the more serious the breach, 
+the higher the level. For penalties imposed on firms there are the 
+following five levels: 
+Level 1 – 0% 
+Level 2 – 5% 
+Level 3 – 10% 
+Level 4 – 15% 
+Level 5 – 20% 
+5.7. In assessing the seriousness level, the Authority takes into account 
+various factors which reflect the impact and nature of the breach, 
+and whether it was committed deliberately or recklessly. The 
+Authority considers that the following factors are relevant: 
+Impact of the breach 
+(1) The breach potentially had a very serious and adverse effect 
+on markets, having regard to whether the orderliness of or 
+confidence in the markets in question had been damaged or 
+put at risk. This is du e to the fundamental importance of spot 
+ 
+ 36  
+FX benchmark s and intra -day rates for G10 currencies, their 
+widespread use by market participants and the consequent 
+negative impact on confidence in the spot FX market and the 
+wider UK financial system arising from  misconduct in relation 
+to them; 
+Nature of the breach 
+(2) There were  serious and systemic weaknesses in JPMorgan’s 
+procedures, systems and controls  in its G10 spot FX trading 
+business over a number of years; 
+(3) JPMorgan failed adequately to address obvious risks i n that 
+business in relation to conflicts of interest, confidentiality and 
+trading conduct. These risks were clearly identified in industry 
+codes published before and during the Relevant Period; 
+(4) JPMorgan’s failings allowed improper trader behaviours to 
+occur in its G10 spot FX trading business as  described in this 
+Notice. These behaviours  were egregious and at times 
+collusive in nature; 
+(5) There was a potential detriment to clients and to other market 
+participants arising from misconduct in the G10 spot FX 
+market; 
+(6) Certain of those responsible  for managing front office matters  
+at JPMorgan were aware of and/or at times  involved in 
+behaviours described in this Notice in the period  on or after 6 
+March 2010; and 
+Whether the breach was deliberate or reckless 
+(7) The Authority has not found that JPMorgan acted deliberately 
+or recklessly in the context of the Principle 3 breach. 
+5.8. Taking all of these factors into account, the Authority considers the 
+seriousness of JPMorgan’s Principle 3 breach on or after 6 March 
+2010 to be level 5 and so the Step 2 figure is 20% of £121,000,000.  
+5.9. Step 2 is therefore £24,200,000. 
+ 
+ 
+ 
+ 
+ 37  
+Step 3: Mitigating and aggravating factors 
+5.10. At Step 3 the Authority may increase or decrease the amount of the 
+financial penalty arrived at after Step 2 to t ake into account factors 
+which aggravate or mitigate the breach (DEPP 6.5A.3G). 
+5.11. The Authority considers that the following factors aggravate the 
+breach: 
+(1) The firm’s previous disciplinary record and general compliance 
+history, including: 
+(a) On 18 September 2013, JPMorgan was fined over £137 
+million for breaches of Principles 2, 3, 5 and 11 in 
+connection with USD6.2 billion trading losses caused by 
+a high risk trading strategy; 
+(b) On 10 May 2013, J.P. Morgan International Bank Limited 
+was fined just over £3 million for breaches of Principle 3 
+and SYSC 9.1.1R relating to its failure to take reasonable 
+care to organise and control its affairs in relation to its 
+provision of retail investment advice and portfolio 
+investment services; and 
+(c) On 25 May 20 10, J.P. Morgan Securities Limited was 
+fined £33.3 million for breaches of Principle 10 and Client 
+Money Rules in relation to failings concerning the 
+protection and segregation of client money. 
+(2) JPMorgan’s failure to respond adequately  during the Relevant 
+Period in its G10 spot FX trading business to misconduct 
+identified in well -publicised enforcement actions against other 
+firms relating to LIBOR / EURIBOR; and  
+(3) Despite the fact that certain of those responsible for managing 
+front office matters were aware of and/or at times involved in 
+behaviours described in this Notice , they did not take steps to 
+stop those behaviours.  
+5.12. Having taken into account these aggravating factors, the Authority 
+considers that the Step 2 figure should be increased by 40%.  
+5.13. Step 3 is therefore £33,880,000.  
+ 
+ 
+ 38  
+Step 4: Adjustment for deterrence  
+5.14. If the Authority considers the figure arrived at after Step 3 is 
+insufficient to deter the firm who committed the breach, or others, 
+from committing further or similar breaches, then the A uthority may 
+increase the penalty.  
+5.15. The Authority does not consider that the Step 3 figure of 
+£33,880,000 represents a sufficient deterrent in the circumstances of 
+this case. 
+5.16. One of the Authority’s stated objectives when introducing the penalty 
+policy on 6 March 2010 was to increase the level of penalties to 
+ensure credible deterrence. The Authority considers that penalties 
+imposed under this policy should be materially higher than penalties 
+for similar breaches imposed pursuant to the policy applicable before 
+that date. 
+5.17. The failings described in this Notice allowed JPMorgan's G10 spot FX 
+trading business to act in JPMorgan's own interests without proper 
+regard for the interests of its clients, other market participants or the 
+financial markets as a whole. JPMorgan’s failure to control properly 
+the activities of that business  in a systemically important market 
+such as the G10 spot FX market undermines confidence in the UK 
+financial system and puts its integrity at risk. The Authority regards 
+these as matters of the utmost importance when considering the 
+need for credible deterrence. 
+5.18. JPMorgan’s response to misconduct identified in well -publicised 
+enforcement actions against other f irms relating to LIBOR / EURIBOR 
+failed adequately to address in its G10 spot FX business the root 
+causes that gave rise to failings  described in this Notice . This 
+indicates that industry standards have not sufficiently improved  in 
+relation to identifying,  assessing and managing appropriately the 
+risks that firms pose to markets in which they operate . The largest 
+penalty imposed to date in relation to similar failings in the context of 
+LIBOR / EURIBOR was a penalty against a firm of £200 ,000,000 
+(before set tlement discount) under the Authority’s penalty policy 
+prior to 6 March 2010.  The Authority considers that the penalty 
+imposed for the failings in this Notice should as a minimum 
+significantly exceed that level for credible deterrence purposes.  
+ 
+ 39  
+5.19. The Authority considers that in order to achieve credible deterrence, 
+the Step 3 figure should be increased by the sum of £225,000,000.  
+5.20. Step 4 is therefore £258,880,000. 
+Step 5: Settlement discount   
+5.21. If the Authority and JPMorgan, on whom a penalty is to be imposed, 
+agree the amount of the financial penalty and other terms, DEPP 6.7 
+provides that the amount of the financial penalty which might 
+otherwise have been payable will be reduced to reflect the stage at 
+which the Authority and JPMorgan reached agreemen t. The 
+settlement discount does not apply to the disgorgement of any 
+benefit calculated at Step 1.  
+5.22. The Authority and JPMorgan reached agreement at Stage 1 and so a 
+30% discount applies to the Step 4 figure. 
+5.23. Step 5 is therefore £181,216,000. 
+6. CONCLUSION  
+6.1. The Authority therefore impose s a total financial penalty of 
+£222,166,000 on JPMorgan comprising: 
+(1) A penalty of £ 40,950,000 relating to JPMorgan’s breach of 
+Principle 3 under the old penalty regime; and  
+(2) A penalty of £ 181,216,000 relating to JPMorgan’s breach  of 
+Principle 3 under the current penalty regime.  
+ 
+ 

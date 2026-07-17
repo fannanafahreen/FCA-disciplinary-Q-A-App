@@ -1,0 +1,1601 @@
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+    
+ 
+  
+ 
+         
+         
+         
+      
+        
+        
+ 
+ 
+          
+ 
+ 
+   
+ 
+          
+        
+       
+         
+       
+ 
+                
+       
+         
+FINAL NOTICE 
+To: Institute of Certified Bookkeepers 
+Ref No: 489802 
+Address: Oakingham House, Frederick Place, High Wycombe, 
+Buckinghamshire, England, HP11 1JU 
+Date: 28 November 2025 
+1. ACTION 
+1.1 For the reasons given in this Notice, the Financial Conduct Authority (“the 
+Authority”) hereby imposes on the Institute of Certified Bookkeepers (“ICB”) a 
+public censure pursuant to Regulation 16 of the Oversight of Professional Body 
+Anti-Money Laundering and Coun ter Terrorist Financing Supervision Regulations 
+2017 for breaching certain provisions of The Money Laundering, Terrorist 
+Financing and Transfer of Funds (Information on the Payer) Regulations 2017 
+(“MLRs 2017”). 
+1.2 The public censure takes the form of this Final Notice, which will be published on 
+the Authority’s website. 
+2. SUMMARY OF REASONS 
+2.1. ICB is an international Professional Body Supervisor (“PBS”) for bookkeepers and 
+a not-for-profit organisation, which seeks to promote and maintain the standards 
+of bookkeeping as a profession . In the UK, ICB is responsible under the MLRs 
+2017 for supervising over 3,000 member s (“Members”), with a focus on 
+monitoring each Member’s compliance with the requirements of the MLRs 2017. 
+2.2. In turn, ICB is one of twenty-five PBSs in the legal and accountancy sectors that 
+are supervised by the Office for Professional Body A nti-Money Laundering 
+Supervision (“OPBAS”), which is part of the Authority . The UK government 
+1 
+   
+ 
+ 
+ 
+ 
+ 
+          
+         
+        
+  
+ 
+           
+         
+             
+          
+              
+         
+       
+ 
+   
+ 
+          
+ 
+          
+          
+  
+            
+       
+  
+         
+  
+   
+            
+       
+ 
+          
+        
+         
+  
+established OPBAS in 201 8 with two key objectives : (i) to ensure robust and 
+consistently high standards of supervision by the PBSs, and (ii) to facilitate 
+collaboration a long with information and int elligence sharing between PBSs, 
+statutory supervisors and law enforcement agencies. 
+2.3. Between 1 January 2022 and 26 July 2023 (“the Relevant Period”), ICB breached 
+certain provisions of the MLRs 2017. A number of the breaches were either caused 
+or exacerbated by a decision ICB took to suspend inspections for over nine 
+months, between 17 October 2022 and 26 July 2023 (“the Suspension Period”). 
+There were several serious issues and risks that ICB was facing in the run up to 
+the Suspension Period, which made the need to recommence inspections a 
+priority. Despite this, it took ICB over nine months to do so. 
+2.4. During the Relevant Period, 1 January 2022 to 26 July 2023, ICB: 
+2.4.1. did not effectively monitor its members, as required by regulation 46(1) 
+MLRs 2017; 
+2.4.2. did not adopt an adequate risk -based approach to the exercise of its 
+supervisory functions, which needed to be informed by risk assessments 
+carried out under Regulation 17 MLRs 2017, as required by Regulation 
+46(2)(a) MLRs 2017; 
+2.4.3. failed to base the frequency and intensity of its onsite and off -site 
+supervision on the risk profiles prepared under Regulation 17(4), as 
+required by Regulation 46(2)(c); and 
+2.4.4. failed to regularly review Members’ risk profiles as required by Regulation 
+17(8) MLRs 2017. 
+2.5. During the Suspension Period, 17 October 2022 to 26 July 2023, ICB: 
+2.5.1. failed to keep a record in writing of the actions it has taken in the course 
+of its supervision, and of its reasons for deciding not to act in a particular 
+case, in breach of Regulation 46(2)(d); and 
+2.5.2. failed to take appropriate measures to review the adequacy of the 
+policies, controls and procedures adopted by relevant persons and the 
+way in which those policies and controls had been implemented, as 
+required by Regulation 46(4)(b) MLRs 2017. 
+2 
+   
+ 
+ 
+ 
+ 
+ 
+    
+         
+   
+        
+         
+       
+  
+ 
+             
+          
+        
+          
+            
+         
+      
+         
+        
+         
+           
+           
+        
+          
+           
+ 
+ 
+            
+            
+       
+           
+            
+         
+         
+    
+      
+       
+           
+2.6. The MLRs 2017 required ICB to carry out risk assessments, formulate risk profile 
+scores for each ICB Member, and use that information to determine the frequency 
+and intensity of its on-site and off-site supervision of those Members. In order to 
+conduct risk assessments and produce risk profiles, ICB used AML Software A, 
+which required Members to regularly input data, which was then fed into an 
+algorithm to determine each Member ’s risk profile score (low, medium or high 
+risk). 
+2.7. In the period 1 January 2022 to 16 October 2022, there were known issues with 
+the data and with Member compliance with ICB ’s requirements to provide 
+information. The position was such that ICB’s Compliance team had limited 
+confidence in the accuracy of the risk assessments and risk profiles that were 
+produced during this period. In practice, this meant ICB could not use them as a 
+reliable basis to target its key supervisory activities, such as inspections. There 
+was also a lack of understanding within ICB about how exactly the risk pr ofiles 
+were calculated by AML Software A, which further undermined confidence in the 
+risk profiles produced. These issues meant that the focus of ICB’s supervisory 
+activity during this period, including its inspection activity, came to be driven 
+primarily by one risk factor: whether or not Members were using AML Software A 
+and keeping their data on it up-to-date. As a result, ICB did not have reliable risk 
+profile scores to target its inspection activity on Members with the highest risk . 
+This was not an adequate risk-based approach to the exercise of ICB’s supervisory 
+functions, in breach of Regulation 46(2)(a) and (c) and Regulation 46(1) MLRs 
+2017. 
+2.8. Although ICB was taking steps to improve the position, it is against this backdrop 
+that a decision was made on 17 October 2022 to suspend all inspections (“the 
+Suspension Period”). This included both onsite and virtual inspections using Zoom. 
+It also involved the suspension of desk -based reviews, known as AML Member 
+Reviews, for a period of approximately six months. The decision was made without 
+any plan to mitigate the impact on ICB’s ability to adequately supervise its 
+Members during the Suspension Period. Onsite and Zoom inspections were crucial 
+elements of ICB’s supervisory approach, because they were ICB’s most intensive 
+supervisory tools in terms of their scope and levels of scrutiny. They were 
+particularly important in circumstances where ICB was acutely aware that there 
+were concerns about the completeness and accuracy of the data it held at that 
+3 
+   
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+          
+           
+          
+    
+        
+             
+          
+          
+         
+ 
+ 
+         
+         
+         
+         
+           
+ 
+ 
+            
+        
+          
+          
+         
+  
+ 
+       
+        
+       
+        
+      
+     
+ 
+   
+ 
+  
+point in time , and by extension , with the risk profiles ICB was supposed to be 
+using to target onsite and off-site supervision. 
+2.9. The impression held by ICB’s Compliance Team was that the suspension of 
+inspections would be for a few weeks and a list of Members to be inspected 
+urgently following the lifting of the Suspension Period was drawn up. Despite this, 
+the Suspension Period lasted for nine months until 26 July 2023. This meant that 
+during the Suspension Period, when ICB had concerns with Members’ compliance 
+with the MLRs 2017, it did not have an appropriate process or strategy to monitor 
+or inspect those Members and take necessary measures to ensure compliance 
+with the MLRs 2017. This was not an appropriate risk-based approach and further 
+exacerbated the breaches of Regulation 46(2)(a) and (c) and Regulation 46(1) of 
+the MLRs 2017. 
+2.10. It was only during inspections that ICB could look at policies and procedures which 
+were not otherwise available to ICB. Therefore, ICB was also in breach of 
+Regulation 46(4)(b) during the Suspension Period, which required ICB to take 
+appropriate measures to review the adequacy of the policies, controls and 
+procedures adopted by Members and the way in which those policies, controls and 
+procedures had been implemented. 
+2.11. The Authority has found that ICB failed to regularly review or validate ICB’s risk 
+categories and methodology for categorising risk because during the Relevant 
+Period key staff responsible for compliance and targeting supervisory activity at 
+ICB did not fully understand how the algorithm on AML Software A worked and 
+therefore how precisely it calculated Members’ risk profiles. This was a breach of 
+Regulation 17(8) MLRs 2017. 
+2.12. The Authority has also determined that ICB has poor records of its supervisory 
+activities and key supervisory decisions during the Suspension Period . In 
+particular, ICB has an absence of supporting documentation relating to the 
+decision to suspend onsite and Zoom inspections from 17 October 2022, with no 
+written record setting out a reasoned explanation. The failure to maintain written 
+records of this type was in clear breach of Regulation 46(2)(d) MLRs 2017. 
+2.13. The Authority has therefore decided to publicly censure ICB. 
+3. DEFINITIONS 
+4 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+          
+     
+  
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+       
+  
+ 
+         
+  
+ 
+          
+ 
+      
+  
+ 
+     
+       
+ 
+       
+        
+The definitions below are used in this Notice: 
+“AML” means Anti-Money Laundering; 
+“the Act” means the Financial Services and Markets Act 2000; 
+“AML Software A” means the software used by ICB to hold data on ICB Members 
+for the purpose of supervising their compliance with the MLRs 2017; 
+“AML Member Reviews” means desk-based reviews of Members’ AML compliance 
+involving open-source research, checks of Members ’ records on AML Software A 
+and searches on intelligence databases; 
+“the Authority” means the Financial Conduct Authority; 
+“ICB” means the Institute of Certified Bookkeepers; 
+“Members” means members of the Institute of Certified Bookkeepers that had ICB 
+practising licences; 
+“Software Company Z” means a software company that owned and provided AML 
+Software A to ICB; 
+“the MLRs 2007” mean the Money Laundering Regulations 2007, which have been 
+revoked and replaced by the MLRs 2017; 
+“the MLRs 2017” mean the Money Laundering, Terrorist Financing and Transfer of 
+Funds (Information on the Payer) Regulations 2017; 
+“OPBAS” means the Office for Professional Body Anti -Money Laundering 
+Supervision, which is part of the Authority; 
+“the OPBAS Regulations 2017” means the Oversight of Professional Body Anti -
+Money Laundering and Counter Terrorist Financing Supervision Regulations 2017; 
+“PBS” means a professional body supervisor in the legal and accountancy sectors 
+which is supervised by OPBAS under the OPBAS Regulations 2017 and has the 
+5 
+   
+ 
+ 
+ 
+ 
+ 
+         
+  
+ 
+    
+ 
+           
+         
+             
+    
+ 
+    
+ 
+       
+        
+ 
+ 
+    
+ 
+ 
+ 
+            
+          
+       
+           
+ 
+ 
+               
+          
+     
+ 
+      
+       
+           
+      
+            
+       
+   
+same meaning as a self-regulatory organisation as set out in Regulation 2 of the 
+OPBAS Regulations 2017; 
+“the Relevant Period” means from 1 January 2022 to 26 July 2023; 
+“the Suspension Period” means from 17 October 2022 to 26 July 2023 when all 
+onsite inspections and equivalent Zoom inspections were suspended at ICB 
+(unless they had already been arranged prior to 17 October 2022). It also includes 
+a six-month period when AML Member Reviews were suspended; 
+“the Tribunal” means the Upper Tribunal (Tax and Chancery Chamber); and 
+“TCSPs” means trust and company service providers that provide services related 
+to formation, management, and administration of legal entities like trusts and 
+companies. 
+4. FACTS AND MATTERS 
+Background 
+4.1. ICB was founded in 1996 in the UK as a professional body for bookkeepers . In 
+2007, the MLRs 2007 came into force, making it a legal requirement for 
+bookkeepers in public practice to be supervised by a HM Treasury-appointed body 
+such as ICB and to implement money laundering controls to identify, prevent, and 
+report money laundering offences. 
+4.2. On 26 June 2017, the MLRs 2017 replaced the MLRs 2007. One of the implications 
+of the MLRs 2017 was that they required those subject to the Regulations to place 
+a greater emphasis on adopting a risk-based approach towards AML compliance. 
+4.3. ICB supervises over 3,000 Members for AML compliance, including ensuring they 
+conduct AML risk assessments, implement AML policies and procedures, and 
+perform client due diligence. In turn, s ince 17 January 2018 ICB has been 
+supervised by OPBAS, which has responsibility under the OPBAS Regulations 2017 
+for ensuring that PBSs in the legal and accountancy sectors, including ICB, meet 
+the standards of the MLRs 2017 by effectively supervis ing their members ’ 
+compliance with the MLRs 2017. 
+6 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+ 
+          
+     
+ 
+        
+         
+  
+ 
+           
+ 
+ 
+          
+ 
+       
+ 
+ 
+          
+           
+ 
+ 
+         
+   
+         
+  
+ 
+           
+  
+ 
+         
+         
+        
+ 
+ 
+        
+Requirements for PBSs to take a risk-based approach to supervision of 
+their members under the MLRs 2017 
+4.4. Regulation 17 of the MLRs 2017 requires that PBSs adopt a risk-based approach 
+to supervising their members, by (amongst other things): 
+(1) carrying out risk assessments to identify and assess the money laundering 
+and terrorist financing risks affecting their member population (as required 
+by Regulation 17(1)); 
+(2) developing and recording in writing risk profiles for the members they 
+supervise (as required by Regulation 17(4)). 
+(3) reviewing the risk profiles developed under Regulation 17(4) at regular 
+intervals and following any significant event or developments which might 
+affect the risks to which its own sector is subject (as required by Regulation 
+17(8)). 
+4.5. The risk assessments carried out and risk profiles developed under Regulation 17 
+are not ends in themselves. Under Regulation 46 of the MLRs 2017, PBSs must 
+use them to: 
+(1) adopt and inform a risk-based approach to the exercise of their supervisory 
+functions (as required by Regulation 46(2)(a)), meaning they should target 
+supervisory resources on the basis of the risk assessments and member risk 
+profiles developed; 
+(2) base the frequency and intensity of on -site and off-site supervision on the 
+risk profiles (as required by Regulation 46(2)(c) MLRs 2017); and 
+(3) take appropriate measures to review the adequacy of the policies, controls 
+and procedures adopted by their members and the way in which those 
+controls have been implemented (as required by Regulation 46(4)(b) of the 
+MLRs 2017). 
+Other relevant requirements under Regulation 46 of the MLRs 2017 
+7 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+           
+     
+ 
+        
+     
+ 
+             
+            
+   
+ 
+        
+ 
+ 
+             
+         
+       
+   
+ 
+       
+    
+       
+          
+            
+      
+         
+        
+ 
+ 
+       
+         
+        
+       
+         
+        
+         
+       
+4.6. Other requirements of the MLRs 2017 that are relevant to the supervisory conduct 
+of ICB set out in this Notice are that PBSs are required to: 
+(1) effectively monitor their members for the purpose of securing compliance 
+with the MLRs 2017 (as required by Regulation 46(1)); and 
+(2) keep a record in writing of the actions the PBS takes in the course of its 
+supervision, and of its reasons for deciding not to act in a particular case (as 
+required by Regulation 46(2)(d)). 
+ICB’s use of supervisory tools in the period 1 January 2022 to 16 October 
+2022 
+4.7. In the period 1 January 2022 to 16 October 2022, ICB’s AML supervisory approach 
+consisted of using different supervisory tools with the goal of using more intensive 
+supervision for Members deemed the highest risk for breaches of the MLRs 2017. 
+The principal supervisory tools used by ICB during this period were as follows: 
+(1) AML Member Reviews : These involved open -source research, checks of 
+Members records on AML Software A (ICB’s AML risk-management software) 
+and searches on intelligence databases . They were a lighter -touch 
+supervisory tool compared to inspections (see below) because they did not 
+involve any interaction with the Member and did not entail a review of AML 
+policies and procedures, systems and controls or sample checks on client 
+due diligence files. AML Member Reviews were always carried out in advance 
+of inspection s and most AML Member Reviews were followed by an 
+inspection. 
+(2) Onsite inspections and Zoom inspections : These t ook place when AML 
+Member Reviews had identified that a Member was likely to be in breach of 
+ICBs’ professional conduct rules and/or the MLRs 2017. They were ICB’s 
+most in -depth and intensive supervisory tool s because they involved 
+reviewing a wide range of AML related documentation provided by the 
+Member and interviewing staff about the Members’ AML systems and 
+controls. Onsite inspections and Zoom inspections had the same scope and 
+requirements and were conducted by the same contract inspectors. Whilst 
+8 
+   
+ 
+ 
+ 
+ 
+ 
+        
+      
+         
+  
+ 
+       
+   
+ 
+           
+          
+           
+         
+        
+           
+           
+         
+  
+ 
+           
+         
+       
+            
+        
+     
+ 
+            
+       
+            
+      
+ 
+ 
+          
+               
+         
+      
+         
+           
+ICB’s Compliance Team preferred to conduct onsite inspections, they would 
+sometimes conduct Zoom inspection s, in special circu mstances. A high 
+proportion of onsite and Zoom inspections confirmed breaches of the MLRs 
+2017 and enforcement activity was deemed necessary. 
+ICB’s approach to selecting Members for supervisory scrutiny in the 
+period 1 January 2022 to 16 October 2022 
+4.8. For ICB to carry out the risk assessments required by Regulation 17(1) MLRs 
+2017, Members were required to answer questions about their clients on ICB’s 
+AML Software A . This had been provided to ICB by a third-party software 
+company, Software Company Z . An algorithm in AML Software A then used th e 
+information provided by Members to produce a risk profile score for each 
+Member’s client (either “high risk”, “medium risk” or “low risk”). An overall risk 
+profile score for the ICB Member’s practice (as required by Regulation 17(4) MLRs 
+2017) was also generated (again these were “high risk” “medium risk” and “low 
+risk”). 
+4.9. ICB was required to adopt an adequate risk-based approach to the exercise of its 
+supervisory functions, which needed to be informed by th e risk assessments and 
+the risk-profiles of its Members developed pursuant to Regulation 17 MLRs 2017. 
+As part of its supervision strategy , ICB was also required to determine the 
+frequency and intensity of its on -site and off -site supervision , using the risk 
+profiles it had developed (as stated at paragraph 4.5 (2) above). 
+4.10. In the period 1 January 2022 to 16 October 2022, ICB’s Compliance Team had 
+limited confidence in the risk profiles for Members generated by AML Software A, 
+which meant that in practice they did not use them as a basis for targeting key 
+supervisory activities , including inspections . The two key reasons for this were 
+that: 
+(1) ICB’s Compliance Team was acutely aware that large numbers of Members 
+were either not using AML Software A at all, or were failing to keep it up 
+to date with the required client information, in breach of ICB’s professional 
+conduct rules. Without complete and up-to-date data, it was obvious to 
+ICB’s Compliance Team that AML Software A was not generating reliable 
+and accurate risk profile scores for Members and it could not therefore be 
+9 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+          
+    
+     
+         
+         
+    
+        
+          
+       
+         
+         
+         
+          
+         
+        
+        
+         
+          
+          
+ 
+ 
+             
+        
+         
+       
+          
+            
+          
+   
+ 
+              
+           
+          
+         
+used as a reliable tool to target supervisory activity. This was a significant 
+issue; 
+(2) There was a lack of understanding within ICB of how AML Software A 
+generated the risk-ratings for Members. Whilst it was understood that the 
+software used an algorithm to generate risk ratings for each ICB Member, 
+key staff responsible for compliance matters and for targeting supervisory 
+activities did not have a clear and comprehensive understanding of what 
+factors were considered in the algorithm and the relative weights given to 
+each factor. This was because the algorithm had last been updated several 
+years previously by staff who were no longer at ICB and no one within ICB 
+could locate a copy of the algorithm, or instructions given to Software 
+Company Z, which had designed it . When ICB staff made enquiries with 
+Software Company Z in April 2022, they were not provided with the 
+requested information, and instead were provided with an iteration of the 
+algorithm from 2017, one that had not been in use for many years. When 
+a former ICB Compliance staff member was questioned by the Authority at 
+interview about the risk -rating algorithms and their attempts to obtain 
+copies from the people within ICB they considered would hold the 
+information, and from Software Company Z , they stated: “No one knew, 
+which rings massive alarm bells. You can’t have a system that you don't 
+understand … having no one there to actually understand the mechanics 
+of it, to me just doesn’t seem right”. 
+4.11. The issues with the reliability of the data used to formulate the risk profiles, 
+coupled with the lack of understanding about how the ratings were calculated , 
+undermined the usefulness of the risk profiles and risk assessments as a basis for 
+targeting supervisory activity. As a result of these issues, the focus of ICB’s 
+supervisory activity during this period came to be driven primarily by one risk 
+factor: whether or not Members were using or keeping AML Software A up to date. 
+This was not an adequate risk-based approach to the exercise of ICB’s supervisory 
+functions, as required by Regulation 46(2)(a) and (c) MLRs 2017. 
+4.12. The lack of knowledge about what data ICB held and how the AML Software A 
+algorithm used that information to calculate risk ratings also resulted in confusion 
+internally. For example: although ICB collected information on Members that were 
+TCSPs and those that provided payroll services, the information was not easily 
+10 
+   
+ 
+ 
+ 
+ 
+ 
+        
+          
+          
+   
+ 
+             
+           
+          
+         
+      
+           
+             
+      
+           
+ 
+ 
+          
+           
+          
+       
+         
+       
+           
+            
+         
+          
+           
+        
+          
+   
+ 
+           
+             
+          
+           
+          
+         
+       
+accessible to those responsible for targeting supervisory activity. This was 
+significant because both TCSPs and payroll services were identified by the UK 
+National Risk Assessment 2020, published by the Home Office and HM Treasury, 
+as high-risk services for money laundering. 
+4.13. Due to the lack of understanding on what data was already held by ICB on 
+Members acting as TCSPs, ICB issued a TCSP survey to all Members in June 2022 
+and in the following months, ICB’s Compliance Team chased for outstanding 
+responses. ICB’s Compliance Team also had plans to initiate a similar Payroll 
+Survey in late 2022, although this was never issued . However, much of the 
+information on TCSPs and Payroll that the Compliance Team was seeking was 
+already held on AML Software A, but due to th is lack of understanding and the 
+issues identified with the reliability of the data (see paragraphs 4.11 & 4.12), the 
+information was not being used during the Relevant Period to target supervisory 
+activities. 
+4.14. Having gathered additional data on Members engaged in TCSP services via a 
+survey that was accessible to the ICB Compliance Team (see paragraph 4.13 
+above), around 30 September 2022 ICB’s Compliance Team devised a plan to 
+start to factor TCSP survey data into its targeting of supervisory activities, having 
+not done so previously. The plan was to prioritise a subset of this high -risk 
+category by targeting supervisory activities at Members who had both out-of-date 
+data on AML Software A and were also TCSPs. However, this plan was not properly 
+implemented because little more than two weeks later , on 17 October 2022, 
+inspections (both onsite and Zoom inspections) and AML Member Reviews were 
+suspended (as discussed in d etail from paragraphs 4.16 to 4.22). The failure to 
+use the TCSP data initially to target supervisory activity was compounded by the 
+suspension of these planned supervisory activities and meant that ICB did not 
+adopt an adequate risk-based approach to the exercise of its supervisory functions 
+during this period, as required by Regulation 46(2)(a). 
+4.15. By September 2022, ICB had made progress in respect of a separate workstream, 
+which aimed to reduce the number of Members that were not using AML Software 
+A at all . However, around 30 September 2022 , just prior to the decision to 
+suspend inspections, ICB then identified 1,386 Members that had not updated the 
+AML Software A with client information in the previous 12 months (excluding 
+Members whose practising licence had expired or been disabled). This equated to 
+approximately 45% of the supervised ICB Member population. While a portion of 
+11 
+   
+ 
+ 
+ 
+ 
+ 
+        
+         
+          
+           
+ 
+ 
+   
+ 
+        
+      
+  
+         
+       
+ 
+            
+       
+           
+       
+           
+         
+          
+           
+      
+ 
+           
+          
+         
+       
+          
+           
+          
+           
+ 
+ 
+         
+     
+          
+           
+these ICB Members may have not had any clients at all, the remaining ICB 
+Members were considered by the ICB Compliance team as ‘high risk’ for breaches 
+of the MLRs 2017 and accordingly, in the autumn of 2022, ICB should logically 
+have been looking to ramp up its supervisory activity, including its inspection 
+activity in response. 
+Suspension of Inspections 
+4.16. Onsite inspections and Zoom inspections were crucial elements of ICB’s 
+supervisory approach because they were ICB’s most intensive supervisory tools 
+in terms of their scope and levels of scrutiny. They were particularly important in 
+circumstances where ICB knew that there were underlying issues with the data 
+on AML Software A, much of which was at that point incomplete or out of date. 
+4.17. On 17 October 2022, an ICB director ordered the suspension of all inspections, 
+unless already arranged . This decision was made without any consultation with 
+members of ICB’s Compliance Team, who were given the impression that the 
+suspension would only last for a number of weeks. In fact, inspections remained 
+completely suspended for a nine -month period until 26 July 2023. As set out 
+above, this suspension decision took place in the context of ICB having recently 
+identified that a high proportion of its members were not keeping their client 
+information on AML Software A up to date and ICB having recently identified the 
+need to target Members providing TSCP services for additional supervision. 
+4.18. The suspension of inspections was not confined to onsite inspections , as AML 
+Member Reviews and Zoom inspections were also suspended at the same time. 
+The AML Compliance Monthly Reports for both November 2022 and December 
+2022, show that there were: 0 AML Member Reviews, 0 Zoom inspections and 0 
+onsite inspections. In addition, a member of ICB’s Compliance Team wrote in an 
+email on 1 November 2022 “Whilst there are no inspections, there is no point in 
+completing Member Review's. The member review can become out of date 
+reasonably quickly, so would need to be completed again when the inspections 
+start again”. 
+4.19. Following the suspension of AML Member Reviews, onsite inspections and Zoom 
+inspections, ICB’s Compliance Team started compiling a list of members that they 
+considered should be put forward for AML Member Reviews and inspections once 
+the suspension had been lifted. This meant that during the Suspension Period, 
+12 
+   
+ 
+ 
+ 
+ 
+ 
+         
+          
+        
+           
+             
+        
+           
+           
+ 
+ 
+             
+         
+         
+   
+ 
+              
+       
+       
+           
+          
+  
+ 
+         
+         
+           
+          
+   
+ 
+         
+    
+ 
+            
+          
+          
+  
+ 
+when ICB had concerns with Members compliance with the MLRs 2017, it did not 
+have an appropriate process or strategy to monitor or inspect those Members and 
+take necessary measures to ensure their compliance with the MLRs 2017. 
+Considering the length of the Suspension Period, this meant that for an extended 
+period, ICB failed to adopt an appropriate risk-based approach to the exercise of 
+its supervisory functions, as required by Regulation 46(2)(a) of the MLRs 2017. It 
+was also a breach of the requirement in Regulation 46(1) of the MLRs 2017 for a 
+PBS to effectively monitor its supervised population to secure compliance with the 
+MLRs 2017. 
+4.20. During the Suspension Period , Member risk profiles were not used to inform the 
+frequency and intensity of onsite or indeed offsite supervision , as required by 
+Regulation 46(2)(c) of the MLRs 2017 . There was no onsite supervision and the 
+Suspension Period continued for nine months. 
+4.21. It was also only during inspections that ICB could look at a Member’s policies and 
+procedures, which were not otherwise made available to ICB. Therefore, during 
+the Suspension Period, ICB was unable to comply with Regulation 46(4)(b), which 
+required ICB to take appropriate measures to review the adequacy of the policies, 
+controls and procedures adopted by Members and the way in which those policies, 
+controls and procedures had been implemented. 
+4.22. Although AML Member Reviews had re -commenced by April 2023, inspections 
+remained suspended until 26 July 2023, meaning that ICB was still not applying 
+more intensive and deeper scrutiny to those Members that ICB considered were 
+most at risk of having breached the MLRs. As explained below, there were also no 
+credible alternatives to inspections in place during the Suspension Period. 
+Reasons alleged by ICB for the suspension of inspections and why they 
+do not justify a protracted suspension period 
+4.23. The reasons for the suspension of inspections in October 2022 put forward by ICB 
+in correspondence with OPBAS and in interviews with the Authority’s Enforcement 
+team were inconsistent and did not justify such a protracted suspension period . 
+The different reasons are as follows: 
+13 
+   
+ 
+ 
+ 
+ 
+ 
+        
+        
+  
+ 
+            
+  
+ 
+        
+  
+ 
+          
+   
+ 
+             
+              
+           
+        
+     
+ 
+          
+          
+       
+            
+        
+         
+  
+ 
+                 
+           
+            
+        
+   
+ 
+            
+         
+  
+          
+(1) ICB wanted to review the enforcement sanctions policy due to negative 
+publicity on social media in March 2022 about ICB enforcement fines being 
+unduly harsh and causing Members significant mental distress; 
+(2) ICB had concerns about the optics of male ex -police officers acting as 
+inspectors and visiting female Members’ homes; 
+(3) The Compliance team were apparently not extracting correct information 
+from AML Software A; and 
+(4) Other PBSs were not conducting as many onsite inspections relative to ICB 
+and were instead focusing more on virtual assessments. 
+4.24. ICB failed to explain to the Authority a clear causal link between each of the 
+factors listed above and the decision to suspend inspections. Even if taken at face 
+value, the reasons provided could only have warranted a brief pause in inspections 
+to assess urgent changes. However, they cannot credibly justify the nine-month 
+Suspension Period that followed the decision in October 2022. 
+4.25. In respect of (1) in paragraph 4.23 above , the review of the enforcement 
+sanctions policy commenced in April 2022, after negative posts on social media in 
+March 2022. Inspections were suspended in mid -October 2022. In light of this 
+timing, ICB has failed to explain what changed in October 2022 to warrant the 
+suspension of inspections. Further, ICB has not been able to explain why 
+inspections could not continue in parallel to a review of the enforcement sanctions 
+policy. 
+4.26. The reasons at (2) and (4) in paragraph 4.23 above do not justify ICB also ceasing 
+Zoom inspections, which it had been conducting throughout the period 1 January 
+2022 to 16 October 2022. Instead of increasing Zoom inspections to seek to offset 
+the lack of intensive supervision from suspending onsite inspections, ICB also 
+suspended them at the same time as onsite inspections. 
+4.27. The ICB director who instructed the suspension of inspections was asked at 
+interview why ICB did not continue conducting Zoom inspections and replied as 
+follows: “I might’ve been frustrated in the meeting and just said, ‘That’s it, we’re 
+stopping those’, without considering to identify the difference that they could’ve 
+14 
+   
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+         
+           
+        
+        
+          
+  
+ 
+         
+         
+        
+           
+  
+ 
+    
+ 
+           
+          
+       
+             
+       
+          
+               
+     
+ 
+        
+        
+         
+        
+            
+   
+ 
+          
+      
+             
+      
+carried on with Zoom”. This shows there was no separately considered rationale 
+for ceasing Zoom inspections. 
+4.28. In respect of (3) in paragraph 4.23 above, two members of ICB’s Compliance 
+Team informed the Authority at interview that they were not provided with proper 
+training on how to extract data , despite repeatedly requesting such training . In 
+any event, issues with data would not justify a protracted Suspension Period but 
+instead indicate a need for increased inspections and other data-gathering 
+supervisory activity. 
+4.29. During the Suspension Period, compliance staff repeatedly escalated their 
+concerns about the suspension of inspections and expressed the view that they 
+needed to be recommenced as soon as possible. Inspections were universally 
+viewed as important within ICB , yet ICB failed to take timely action to 
+recommence inspections. 
+No credible alternatives to inspections 
+4.30. By ceasing inspections, ICB was not taking an appropriate risk-based approach to 
+its supervision during the Suspension Period. ICB was not targeting its supervisory 
+activities based on risk assessments of Members. It simply ceased inspections for 
+nine months (and for a shorter period of approximately six months, it also ceased 
+AML Member Reviews / Enhanced Intelligence Reviews) with no contingency 
+measures in place. This occurred in circumstances where ICB knew: (a) that there 
+were serious issues with the d ata it did hold; and (b) that, despite these issues, 
+that data formed the basis of ICB’s risk assessments and risk profiles. 
+4.31. ICB has provided numerous sets of data to OPBAS and the Authority’s 
+Enforcement team showing that from April 2023, ICB had reco mmenced AML 
+Member Reviews ( although their name had been changed to “Enhanced 
+Intelligence Reviews”). These were not credible alternatives to inspections 
+because they did not have a comparable scope or involve anything like the same 
+level of scrutiny as onsite inspections or Zoom inspections. 
+4.32. During the Suspension Period, ICB carried out onboarding interviews and 
+approvals work, education activities for Members and a remediation project to 
+improve the integrity of the data held on Members. Although these activities and 
+improvements were welcome, they were not credible alternatives to inspections 
+15 
+   
+ 
+ 
+ 
+ 
+ 
+             
+    
+ 
+  
+      
+ 
+           
+         
+     
+           
+        
+        
+ 
+ 
+        
+             
+         
+          
+        
+       
+     
+ 
+         
+          
+         
+         
+            
+         
+  
+ 
+           
+          
+        
+          
+         
+        
+and did not mean that ICB was taking an appropriate risk-based approach to the 
+supervision of its Member population during the Relevant Period. 
+Failure during the Relevant Period to regularly review risk profiles in 
+breach of Regulation 17(8) of the MLRs 2017 
+4.33. As explained at paragraph 4.8, ICB’s approach to risk profiling throughout the 
+Relevant Period involved requiring Members to provide information about their 
+clients on AML Software A by answering questions in respect of each client. AML 
+Software A then used an algorithm to create risk ratings for each client of the 
+Member, and those ratings were then used as part of the calculation which 
+determined the ICB Member’s overall risk profile. These risk ratings would be 
+categorised as “low risk”, “medium risk and “high risk”. 
+4.34. Given the importance of risk profiling to ICB’s supervisory obligations , it was 
+critical that ICB reviewed those risk profiles at regular intervals and following any 
+significant event or developments which might affect the risks in ICB’s member 
+population, as required by Regulation 17(8) of the MLRs 2017. In order to do that, 
+it was necessary to have a detailed understanding of how those risk profiles were 
+constructed. That would necessarily involve a full understanding of the inputs into 
+the algorithm that was used to calculate the risk score for Members. 
+4.35. ICB failed to take steps to regularly review or validate ICB’s risk categories and 
+methodology for categorising risk because during the Relevant Period , key staff 
+responsible for compliance and targeting supervisory activities did not fully 
+understand how the algorithm on AML Software A worked and therefore how 
+precisely it calculated Members’ risk profiles. No one at ICB had access to or had 
+reviewed the risk rating algorithm for assessing money laundering risks for 
+Members to construct member risk profiles. 
+4.36. In March 2023, ICB started to take the view that larger Members by client number 
+should be subject to additional scrutiny due to complaints and concerns about two 
+large members. Once inspections were re-commenced on 26 July 2023, they were 
+targeted at the larger Members . However, no updates were made to the AML 
+Software A algorithm to reflect this heightened concern about large Members or 
+to adjust the corresponding risk profiles . This demonstrates that ICB was not 
+16 
+   
+ 
+ 
+ 
+ 
+ 
+        
+  
+ 
+        
+      
+      
+ 
+         
+               
+       
+         
+          
+  
+ 
+          
+         
+         
+     
+      
+ 
+         
+           
+       
+         
+  
+ 
+          
+    
+ 
+   
+  
+         
+             
+          
+      
+ 
+ 
+regularly reviewing the inputs into the algorithm following a significant event or 
+development which might affect the risks to which its own sector is subject. 
+Failure to keep a record in writing of the actions it has taken in the course 
+of its supervision, and of its reasons for deciding not to act in a particular 
+case, as required by Regulation 46(2)(d) of the MLRs 2017 
+4.37. A key purpose of the record keeping required by Regulation 46(2)(d) of the MLRs 
+2017 is to ensure that a PBS is able to demonstrate why it took decisions in the 
+exercise of its supervisory functions . This requires that it record the reasons for 
+its decisions and that the records should be sufficiently thorough to show how and 
+why decisions were made. Despite this Requirement, ICB has poor records of its 
+supervisory activities and key supervisory decisions across the Relevant Period. 
+4.38. In particular, ICB has an absence of supporting documentation relating to the 
+decision to suspend onsite and Zoom inspections from October 2022 , with no 
+written record setting out a reasoned explanation for the suspension of 
+inspections. This was despite the broad consensus within ICB that inspections 
+were a critically important element of ICB’s risk-based approach to supervision. 
+4.39. ICB’s poor record-keeping in respect of its supervisory activities across the 
+Relevant Period led to ICB providing different sets of data to both OPBAS and the 
+Authority’s Enforcement team. These had significant discrepancies and also differ 
+from ICB’s published AML Supervision Annual Report for 6 April 2022 to 5 April 
+2023. 
+4.40. More generally, various emails identified in the investigation also make explicit 
+references to a lack of clear record keeping at ICB during the Relevant Period. 
+ICB Engagement and Improvement 
+4.41. ICB has engaged constructively with OPBAS since the issues identified in this 
+Notice came to light and has worked to address the concerns set out in this public 
+censure. ICB has also continued to actively participate in AML supervisor industry 
+events and forums , demonstrating a willingness to learn from past failings and 
+contribute to broader regulatory discussions. 
+17 
+   
+ 
+ 
+ 
+ 
+ 
+     
+           
+  
+ 
+  
+ 
+   
+ 
+       
+ 
+       
+ 
+ 
+   
+     
+        
+   
+ 
+           
+         
+   
+ 
+       
+  
+ 
+      
+ 
+              
+      
+   
+ 
+           
+     
+          
+  
+ 
+  
+ 
+4.42. Since the end of the Relevant Period of this Notice, ICB has provided evidence to 
+the Authority that shows it has significantly improved its staff’s understanding of 
+how the algorithm used by AML Software A generates risk profiles for Members. 
+5. FAILINGS 
+5.1. The regulatory provisions relevant to this Notice are referred to in Annex A. 
+5.2. Between 1 January 2022 and 26 July 2023 (“the Relevant Period”), ICB: 
+5.2.1. did not effectively monitor its members, as required by regulation 
+46(1) MLRs 2017; 
+5.2.2. did not adopt an adequate risk-based approach to the exercise of its 
+supervisory functions, which needed to be informed by risk 
+assessments carried out under Regulation 17 MLRs 2017, as required 
+by Regulation 46(2)(a) MLRs 2017; 
+5.2.3. failed to base the frequency and intensity of its onsite and off -site 
+supervision on the risk profiles prepared under Regulation 17(4), as 
+required by Regulation 46(2)(c); and 
+5.2.4. failed to regularly review Members’ risk profiles as required by 
+Regulation 17(8) MLRs 2017. 
+5.3. Between 17 October 2022 and 26 July 2023 (“the Suspension Period”), ICB: 
+5.3.1. failed to keep a record in writing of the actions it ha d taken in the 
+course of its supervision, and of its reasons for deciding not to act in 
+a particular case, in breach of Regulation 46(2)(d); and 
+5.3.2. failed to take appropriate measures to review the adequacy of the 
+policies, controls and procedures adopted by relevant persons and 
+the way in which those controls had been implemented, as required 
+by Regulation 46(4)(b) MLRs 2017. 
+6. SANCTION 
+18 
+   
+ 
+ 
+ 
+ 
+ 
+           
+         
+ 
+ 
+             
+          
+         
+        
+  
+ 
+          
+      
+        
+     
+ 
+ 
+      
+         
+         
+   
+ 
+   
+ 
+     
+    
+ 
+      
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+          
+       
+             
+6.1. The Authority has considered the disciplinary and other options available to it an d 
+has concluded that a public censure is the appropriate sanction in the circumstances 
+of this case. 
+6.2. The outcomes available under the OPBAS Regulations 16 and 17 are that the 
+Authority may publish a statement censuring the PBS (Regulation 16) and/or it may 
+recommend to the Treasury that a PBS is removed from Schedule 1 of the MLRs 
+2017 (Regulation 17). The Authority does not have powers under the OPBAS 
+Regulations 2017 to impose a financial penalty on a PBS. 
+6.3. The principal purpose of issuing a public censure is to promote high standards of 
+regulatory conduct by deterring persons who have committed breaches from 
+committing further breaches and helping to deter other persons from committing 
+similar breaches, as w ell as demonstrating generally the benefits of compliant 
+behaviour. 
+6.4. The Authority considers that ICB’s breaches of certain provisions of the MLRs 2017 
+are serious failings and that a public censure should be imposed to demonstrate to 
+ICB and other PBSs the seriousness with which the Authority regards the failings 
+set out above. 
+7. PROCEDURAL MATTERS 
+7.1. This Notice is given to ICB under Regulation 20(2) of the OPBAS Regulations 
+2017 in accordance with section 390 of the Act. 
+7.2. The following statutory rights are important. 
+Decision maker 
+7.3. The decision which gave rise to the obligation to give this Notice was made by 
+the Settlement Decision Makers. 
+Publicity 
+7.4. Regulation 21 (3) of the OPBAS Regulations 2017 provides that where the 
+Authority gives a Decision Notice relating to public censure , it must publish 
+information on the type and nature of the breach, and on the identity of the PBS 
+19 
+   
+ 
+ 
+ 
+ 
+ 
+             
+    
+ 
+          
+ 
+       
+  
+ 
+ 
+ 
+         
+      
+  
+ 
+  
+ 
+   
+     
+ 
+ 
+  
+on whom the measure is imposed, together with such other information about the 
+matter to which a Decision Notice relates as it considers appropriate. 
+7.5. Pursuant to Regulation 20(2) of the OPBAS Regulations 2017, section 390 (final 
+notices) of FSMA applies to a decision notice given under Regulation 19(4) of the 
+OBPAS Regulations 2017 in relation to public censure. This Final Notice constitutes 
+the statement of public censure. 
+Authority contacts 
+7.6. For more information concerning this matter generally, cont act Sam Nason 
+(email: sam.nason@fca.org.uk) or Rory Neary at the Authority (email: 
+rory.neary2@fca.org.uk). 
+Lisa Ablett 
+Acting Head of Department 
+Financial Conduct Authority, Enforcement and Market Oversight Division 
+20 
+   
+ 
+ 
+ 
+ 
+ 
+  
+    
+    
+ 
+     
+ 
+          
+          
+ 
+ 
+  
+       
+ 
+              
+          
+        
+ 
+ 
+       
+    
+       
+           
+ 
+ 
+         
+     
+ 
+           
+  
+ 
+            
+  
+   
+ 
+            
+  
+ 
+ANNEX A 
+RELEVANT STATUTORY AND REGULATORY PROVISIONS 
+1. RELEVANT STATUTORY PROVISIONS 
+The Financial Services and Markets Act 2000 (“the Act”) 
+1.1. The Authority’s statutory objectives, set out in section 1B(3) of the Act, include 
+protecting and enhancing the integrity of the UK financial system (section 1D of 
+the Act). 
+The Oversight of Professional Body Anti -Money Laundering and Counter 
+Terrorist Financing Supervision Regulations 2017 (the OPBAS Regs 2017) 
+1.2. Regulation 16(1) of the OPBAS Reg s 2017 states that if the Authority considers 
+that a self -regulatory organisation has failed to comply with a supervision 
+requirement, the Authority may may publish a statement censuring the self -
+regulatory organisation. 
+1.3. Regulation 16(3) states that the Authority must not censure a self -regulatory 
+organisation under Regulation 16 for failure to comply with a requirement listed in 
+Regulation 16(1) if the Authority is satisfied that the self -regulatory organisation 
+took all reasonable steps and exercised all due diligence to ensure that such a 
+requirement would be complied with. 
+Money Laundering, Terrorist Financing and Transfer of Funds (Information 
+on the Payer) Regulations 2017 (“the MLRs 2017”) 
+1.4. Regulation 17 of the MLRs 2017 sets out to ensure that PBSs adopt a risk -based 
+approach to supervising their members. 
+1.5. Regulation 17(1) requires each PBS to identify and assess the international and 
+domestic risks of money laundering and terrorist financing to which those relevant 
+persons for which it is the supervisory authority (“its own sector”) are subject. 
+1.6. Regulation 17(4) requires each PBS to develop and record in writing risk profiles 
+for each member they supervise. 
+21 
+   
+ 
+ 
+ 
+ 
+ 
+             
+          
+      
+ 
+         
+  
+   
+      
+ 
+     
+     
+            
+           
+ 
+ 
+          
+     
+  
+ 
+         
+           
+ 
+ 
+           
+            
+  
+ 
+            
+          
+            
+ 
+ 
+    
+ 
+1.7. Regulation 17(8) requires each PBS to review the risk profiles developed under 
+Regulation 17 (4) at regular intervals and following any significant event or 
+developments which might affect the risks to which its own sector is subject, such 
+as: 
+(a) significant external events that change the nature of the money 
+laundering or terrorist financing risks; 
+(b) emerging money laundering or terrorist financing risks; 
+(c) any findings resulting from measures taken by other supervisory 
+authorities; 
+(d) any changes in the way in which its own sector is operated; 
+(e) significant changes in regulation. 
+1.8. Regulation 46(1) requires a PBS to effectively monitor the relevant persons for 
+which it is the supervisory authority for the purpose of securing compliance with 
+the MLRs 2017. 
+1.9. Regulation 46(2)(a) requires each PBS to adopt and inform a risk-based approach 
+to the exercise of their supervisory functions, informed by the risk assessments it 
+carried out under regulation 17. 
+1.10. Regulation 46(2)(c) MLRs 2017 requires each PBS to base the frequency and 
+intensity of its on-site and off-site supervision on the risk profiles prepared under 
+regulation 17(4). 
+1.11. Regulation 46(2)(d) requires each PBS to keep a record in writing of the actions it 
+has taken in the course of its supervision, and of its reasons for deciding not to act 
+in a particular case. 
+1.12. Regulation 46(4)(b) requires each PBS, in accordance with its risk-based approach, 
+to take appropriate measures to review the adequacy of the policies, controls and 
+procedures adopted by relevant persons under regulation 19 to 21 and 24, and the 
+way in which those policies, controls and procedures have been implemented. 
+2. RELEVANT GUIDANCE 
+22 
+   
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+              
+   
+2.1. The Enforcement Guide sets out the Authority’s approach to exercising its main 
+enforcement powers. 
+2.2. The OPBAS Sourcebook sets out guidance to PBSs on how to comply with their 
+obligations under the MLRs 2017. 
+23 
