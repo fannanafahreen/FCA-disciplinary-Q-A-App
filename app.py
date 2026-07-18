@@ -17,8 +17,8 @@ index = faiss.read_index("faiss_index.bin")
 with open("chunks_store.pkl", "rb") as f:
     chunks = pickle.load(f)
 
-# Bedrock client - pointed at us-east-1 (N. Virginia), where Nova Lite access was granted
-bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
+# Bedrock client - pointed at eu-north-1 (Stockholm), same region as this EC2 server
+bedrock = boto3.client("bedrock-runtime", region_name="eu-north-1")
 
 print("Ready!")
 
@@ -49,7 +49,7 @@ Question: {question}
 Answer:"""
 
     response = bedrock.converse(
-        modelId="amazon.nova-2-lite-v1:0",
+        modelId="eu.amazon.nova-2-lite-v1:0",
         messages=[
             {
                 "role": "user",
