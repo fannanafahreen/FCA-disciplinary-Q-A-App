@@ -1,11 +1,11 @@
 from fastapi import FastAPI
-from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import faiss
 import pickle
+import json
+import boto3
 from sentence_transformers import SentenceTransformer
-import ollama
 
 app = FastAPI()
 
@@ -16,6 +16,9 @@ index = faiss.read_index("faiss_index.bin")
 
 with open("chunks_store.pkl", "rb") as f:
     chunks = pickle.load(f)
+
+# Bedrock client - pointed at us-east-1 (N. Virginia), where Nova Lite access was granted
+bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
 
 print("Ready!")
 
@@ -45,12 +48,19 @@ Question: {question}
 
 Answer:"""
 
-    response = ollama.chat(
-        model="llama3.2:1b",
-        messages=[{"role": "user", "content": prompt}]
+    response = bedrock.converse(
+        modelId="amazon.nova-2-lite-v1:0",
+        messages=[
+            {
+                "role": "user",
+                "content": [{"text": prompt}]
+            }
+        ],
+        inferenceConfig={"maxTokens": 500}
     )
 
-    return response["message"]["content"]
+    answer = response["output"]["message"]["content"][0]["text"]
+    return answer
 
 @app.post("/ask")
 def ask_endpoint(q: Question):
