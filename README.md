@@ -149,4 +149,4 @@ python build_embeddings.py   # rebuild the FAISS index
 
 ## Author
 
-Built by [Fannana Fahreen](https://github.com/fannanafahreen) as part of dissertation research on FCA Register and Companies House data, and as a hands-on learning project covering LLMs, RAG architectures, and AWS cloud deployment.
+[Fannana Fahreen](https://github.com/fannanafahreen)
